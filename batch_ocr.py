@@ -2,11 +2,13 @@
 """Batch OCR: run the /ocr Claude Code skill on every image in a folder."""
 
 import argparse
+import os
 import subprocess
 import sys
 from pathlib import Path
 
 IMAGE_EXTENSIONS = {".jpeg", ".jpg", ".png", ".tiff", ".tif", ".bmp"}
+DEFAULT_MAX_TOKENS = 4096
 
 
 def get_images(folder: Path) -> list[Path]:
@@ -23,8 +25,10 @@ def has_transcription(image_path: Path) -> bool:
     return image_path.with_suffix(".json").exists()
 
 
-def run_ocr(image_path: Path) -> bool:
+def run_ocr(image_path: Path, max_tokens: int) -> bool:
     """Invoke Claude Code /ocr skill on a single image. Returns True on success."""
+    env = os.environ.copy()
+    env["CLAUDE_CODE_MAX_OUTPUT_TOKENS"] = str(max_tokens)
     result = subprocess.run(
         [
             "claude",
@@ -32,6 +36,7 @@ def run_ocr(image_path: Path) -> bool:
             "-p", f"/ocr @{image_path}",
         ],
         capture_output=False,
+        env=env,
     )
     return result.returncode == 0
 
@@ -51,6 +56,12 @@ def main() -> None:
         type=int,
         default=0,
         help="Max number of images to process (0 = unlimited)",
+    )
+    parser.add_argument(
+        "--max-tokens",
+        type=int,
+        default=DEFAULT_MAX_TOKENS,
+        help=f"Max output tokens for Claude (default: {DEFAULT_MAX_TOKENS})",
     )
     args = parser.parse_args()
 
@@ -81,7 +92,7 @@ def main() -> None:
                 break
 
             print(f"[{i}/{total}] OCR  {img.name} ...")
-            ok = run_ocr(img)
+            ok = run_ocr(img, args.max_tokens)
             if ok and has_transcription(img):
                 done += 1
                 print(f"[{i}/{total}] OK   {img.name}")
