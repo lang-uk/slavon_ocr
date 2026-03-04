@@ -8,7 +8,8 @@ import sys
 from pathlib import Path
 
 IMAGE_EXTENSIONS = {".jpeg", ".jpg", ".png", ".tiff", ".tif", ".bmp"}
-DEFAULT_MAX_TOKENS = 4096
+DEFAULT_MAX_TOKENS = 2048
+DEFAULT_MAX_THINKING_TOKENS = 1024
 
 
 def get_images(folder: Path) -> list[Path]:
@@ -25,15 +26,18 @@ def has_transcription(image_path: Path) -> bool:
     return image_path.with_suffix(".json").exists()
 
 
-def run_ocr(image_path: Path, max_tokens: int) -> bool:
-    """Invoke Claude Code /ocr skill on a single image. Returns True on success."""
+def run_ocr(image_path: Path, skill: str, max_tokens: int, max_thinking_tokens: int) -> bool:
+    """Invoke a Claude Code skill on a single image. Returns True on success."""
     env = os.environ.copy()
     env["CLAUDE_CODE_MAX_OUTPUT_TOKENS"] = str(max_tokens)
+    env["MAX_THINKING_TOKENS"] = str(max_thinking_tokens)
+    env["CLAUDE_CODE_MAX_THINKING_TOKENS"] = str(max_thinking_tokens)
+    env["CLAUDE_CODE_DISABLE_THINKING"] = "1"
     result = subprocess.run(
         [
             "claude",
             "--allowedTools", "Write",
-            "-p", f"/ocr @{image_path}",
+            "-p", f"/{skill} @{image_path}",
         ],
         capture_output=False,
         env=env,
@@ -46,6 +50,11 @@ def main() -> None:
         description="Batch-run /ocr on every image in a folder via Claude Code."
     )
     parser.add_argument("folder", type=Path, help="Folder containing images to OCR")
+    parser.add_argument(
+        "--skill",
+        default="ocr",
+        help="Claude Code skill to invoke (default: ocr)",
+    )
     parser.add_argument(
         "--force",
         action="store_true",
@@ -62,6 +71,12 @@ def main() -> None:
         type=int,
         default=DEFAULT_MAX_TOKENS,
         help=f"Max output tokens for Claude (default: {DEFAULT_MAX_TOKENS})",
+    )
+    parser.add_argument(
+        "--max-thinking-tokens",
+        type=int,
+        default=DEFAULT_MAX_THINKING_TOKENS,
+        help=f"Max thinking tokens for Claude (default: {DEFAULT_MAX_THINKING_TOKENS})",
     )
     args = parser.parse_args()
 
@@ -92,7 +107,7 @@ def main() -> None:
                 break
 
             print(f"[{i}/{total}] OCR  {img.name} ...")
-            ok = run_ocr(img, args.max_tokens)
+            ok = run_ocr(img, args.skill, args.max_tokens, args.max_thinking_tokens)
             if ok and has_transcription(img):
                 done += 1
                 print(f"[{i}/{total}] OK   {img.name}")

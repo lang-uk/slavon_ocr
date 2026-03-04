@@ -23,10 +23,10 @@ Preserve the line structure of the card exactly: each handwritten line becomes o
 STEP 3 — VERIFY BEFORE SAVING:
 
 Re-read the image and compare against your transcription line by line. Specifically check for these common errors:
-- INSERTED LETTERS: characters added that are not on the card (e.g. writing подъ when card shows под — the ъ is not there)
+- INSERTED LETTERS: characters added that are not on the card (e.g. writing коронныхъ when card shows коронных — the trailing ъ is not there)
 - SUBSTITUTED WORDS: a familiar word replacing an unfamiliar one (e.g. writing сүнодъ when card actually shows сыномъ, or неперва when card shows исперва)
-- є/е CONFUSION: writing є where the card shows е, or vice versa (e.g. writing послушенством when card shows послушєнством). Check EVERY instance of е/є against the card.
-- ADDED WORD ENDINGS: adding ъ or other characters to word endings where the card does not have them (e.g. writing послушєнствомъ when card shows послушєнством)
+- є/е CONFUSION: writing є where the card shows е, or vice versa (e.g. writing єпископовє when card shows епископове). Check EVERY instance of е/є against the card.
+- ADDED WORD ENDINGS: adding ъ or other characters to word endings where the card does not have them
 - MODERNIZED SPELLING: archaic letters silently replaced with modern equivalents
 - MISSING CHARACTERS: letters on the card that were skipped in transcription
 
@@ -67,7 +67,7 @@ For successfully transcribed cards (all types):
 }
 ```
 
-For cards with multiple numbers (note: є and е coexist on the same card — each instance must be checked individually):
+For cards with multiple numbers (note: є and е coexist on the same card — each instance must be checked individually against the card):
 ```json
 {
   "filename": "001.jpeg",
@@ -130,35 +130,40 @@ ABBREVIATIONS AND EXPANSIONS
 - Letters expanded from titla abbreviations or superscript letters go in PARENTHESES: ω(т)толѣ, в̾ши(т)ко, є(д)но, почина(л҃), котόро(г҃)
 - Titlo mark U+0483 (◌҃) goes INSIDE parentheses for abbreviated letters: (л҃), (ч҃), (ц҃), (н҃), (т҃), (с҃), (д҃), (г҃), (ж҃), (ш҃), (в҃), (м҃), (и҃), (р҃), (к҃), (а҃)
 - Titlo on sacra nomina stays OUTSIDE parentheses directly on the base letter: г҃ъ, бг҃ь, нб҃о, слн҃цє(м), дн҃и, сн҃ъ, гд҃ь, дх҃а, ст҃ы(и), бж҃їє, чл҃къ, ц҃ръ, хс҃/х҃с, іс҃, мл҃тва, гл҃є(т҃), сщ҃єн̾ни(к҃), бл(с҃)вєн̾ство, хр(с҃)тїа(н҃)скїй, єѵ(г҃)лїи, ап(с҃)лω(м), пр(о҃)рка, рж(с҃)твѣ, м(с҃)ца, см҃рти
-- Cyrillic numeral titlo: а҃, в҃, г҃, є҃, о҃, р҃, м҃, п҃, т҃, ц҃
+- Cyrillic numeral titlo: а҃, в҃, г҃, є҃, о҃, р҃, м҃, п҃, т҃, ц҃. Dots beside a titlo'd letter mark numerals (e.g. •з҃• = 7) — preserve dots if visible.
 - Some cards (polemical texts, later sources) use fewer abbreviations or more modern orthography. Transcribe what is on the card — do not add archaic features the card does not show.
 
-DIACRITICS
+DIACRITICS — preserve all of the following exactly as written on the card:
 - Combining double apostrophe above U+033E (◌̾) for the reduced yer/superscript ъ tick: в̾ши(т)ко, хробáц̾ство, драпѣж̾ныи, з̾, л̾вєи, мѣст̾ца, инак̾
 - Combining acute U+0301 (◌́) on stressed vowels ONLY where marked on the card. Do NOT add accents the card does not show.
 - Combining tilde U+0303 (◌̃) if visible over a letter — reproduce as written.
+- Паєрик (± or apostrophe '): apostrophe-like mark substituting for omitted ь or ъ. Preserve exactly as written — do NOT expand to ь or ъ: в±сѣхъ, д±ва, к±то, дєн±
+- Камора (†): marks soft consonant or distinguishes plural/dual from singular. Preserve if visible: вол†я, мор†є, ц†арь
+- Придих/звальник („): Greek-origin breathing mark over initial vowels. Preserve if visible: а„мінь, і„сповѣдую, о„лтарь
 
 ALPHABET — ARCHAIC CHARACTERS (never modernize)
 - ω (U+03C9 Greek small omega). When card shows ot-ligature: ω(т). Plain: ω змїю, ωколо
 - ώ (U+03CE omega with tonos) for stressed omega: ώнъ, ώкрүтъ
 - Ѡ (U+0460 Cyrillic round omega) for section headers: Ѡ трє(х) сн҃охъ
-- ѣ (U+0463 yat): вѣримо, звѣри, свѣтлостѧ(ми)
+- ѣ (U+0463 yat): вѣримо, звѣри, свѣтлостѧ(ми), нáйпєрвѣй
 - ѫ (U+046B big yus): тѫ, зόвѫ(т҃), сѫ(т҃), бѫ(дє)тъ, часѫ
 - ѧ (U+0467 little yus): сѧ, чєлѧ(д)ный, мовѧчи, ѧзыко(м)
 - ӕ (U+04D5 iotified a): ӕко, ӕвлєнїє
 - ѯ (U+0471 ksi): финиѯѣ, алєѯа(н҃)дръ
-- ѳ (U+0473 fita): сиѳъ, арѳаѯаса(т҃), каѳолическое
+- ѳ (U+0473 fita): сиѳъ, каѳолическое. Note: fita can also appear as » — transcribe whichever form the scholar wrote
 - ѵ (U+0475 izhitsa): мώѵсєωвыхъ, вавѵ(и)лонъ, єѵ(г҃)лїи
 - s (Latin s) for zelo: sвѣsдами, sмїю, sлѣ — distinct from з and ѕ
-- ѕ (U+0455 dze): ѕлόстїй, ѕвѣрѧ(т҃), ѕлόго, дрүѕїй — distinct from з and s
-- ъ (hard sign): ώнъ, ω(т)ц҃ъ, въ, прєдъ — but ONLY where the card shows it
+- ѕ (U+0455 dze): ѕлόстїй, ѕвѣрѧ(т҃), дрүѕїй — distinct from з and s
+- щ reads [шч]; sometimes the scribe writes шт instead — transcribe whichever is on the card
+- ъ (hard sign): ώнъ, ω(т)ц҃ъ, въ, прєдъ — ONLY where the card shows it
 - ы (yeru): ѣдовитыи, драпѣж̾ныи, быти
 
 VOWEL LETTERS
-- є (U+0454) and е (U+0435) are BOTH valid and often coexist on the same card. Do NOT default to either one. Кройника cards predominantly use є: єму, єго, нє. Other sources may use plain е: епископове, вселенскаго. The same card can have both: нѣкоторыє but епископове. Transcribe EXACTLY what the card shows. Check each instance individually. Writing є where the card shows е (or vice versa) is the single most frequent error.
+- є (U+0454) and е (U+0435) are BOTH valid and often coexist on the same card. Do NOT default to either one. Кройника cards predominantly use є. Other sources may use plain е. The same card can have both: нѣкоторыє but епископове. Check each instance individually against the card. Writing є where the card shows е (or vice versa) is the single most frequent error.
 - ї (U+0457) for iotified i with two dots: змїю, үчєнїи, дїавόло(м)
 - ү (U+04AF straight u) and у (U+0443) are BOTH valid. Кройника uses predominantly ү. Other sources may use plain у. Transcribe what is on the card.
-- ѹ (U+0479 uk digraph) where card shows digraph form: почáткѹ, василискѹ, жєнѹ, дорогѹ
+- у/ó used at the START of words: убивати, угль, уста
+- ѹ (U+0479 uk digraph) used in the MIDDLE and END of words: бѹрѧ, вѣкѹ, трапезѹ, почáткѹ
 
 BRACKETS AND SPECIAL CHARACTERS
 - ( ) for editorial expansions of abbreviations as described above.
@@ -181,15 +186,9 @@ Transcribe the reference line exactly as written on the card. Common patterns:
 - Polemical: Львів, 1605-1606, Берест. 25.
 Use Cyrillic lookalikes in Roman numerals where the card does: Х, Ѵ, І (not Latin X, V, I).
 
-DELIBERATION DISCIPLINE:
-- Do NOT endlessly re-examine characters. Make ONE pass through the card, then ONE verification pass — that is all.
-- When uncertain about a character, commit to your best reading immediately and note it in "notes". Do NOT revisit characters you have already decided on.
-- Do NOT second-guess your readings. If you wrote a character down, move on to the next one.
-- The goal is a best-effort transcription with honest uncertainty notes, NOT a perfect one. An imperfect transcription that gets saved is infinitely more useful than a perfect deliberation that never produces output.
-
 CRITICAL REMINDERS:
 - NEVER modernize: do not replace ѣ→і, ѫ→у, ω→о, є→е, ї→і, ъ→(nothing), ѕ→з, s→з
-- NEVER ADD characters that are not on the card. If a word ends without ъ, do not add ъ. If the card shows під not підъ, write під.
+- NEVER ADD characters that are not on the card. If a word ends without ъ, do not add ъ. If the card shows под not подъ, write под.
 - NEVER SUBSTITUTE a familiar word for an unfamiliar one. If the card says сыномъ, do not write сүнодъ. If the card says исперва, do not write неперва.
 - є and е are DIFFERENT LETTERS. Check every instance against the card.
 - ү and у are DIFFERENT LETTERS. Check every instance against the card.
