@@ -1,0 +1,278 @@
+{% extends "base.html" %}
+{% block title %}{{ card.filename }} - {{ folder }}{% endblock %}
+
+{% block body %}
+<div class="editor-container">
+    <!-- Top navigation bar -->
+    <div class="top-bar">
+        <a href="{{ url_for('index') }}" style="font-weight: bold; margin-right: 8px;">Home</a>
+
+        <div class="nav-group">
+            {% if prev_id %}
+            <button class="nav-btn" onclick="saveAndGo('prev')" title="Save & Previous (Alt+Left)">&larr; Prev</button>
+            {% else %}
+            <button class="nav-btn" disabled>&larr; Prev</button>
+            {% endif %}
+
+            <span class="position">{{ current_idx + 1 }} / {{ total_filtered }}</span>
+
+            {% if next_id %}
+            <button class="nav-btn" onclick="saveAndGo('next')" title="Save & Next (Alt+Right)">Next &rarr;</button>
+            {% else %}
+            <button class="nav-btn" disabled>Next &rarr;</button>
+            {% endif %}
+        </div>
+
+        <!-- Jump -->
+        <form action="{{ url_for('jump_to_card', folder=folder) }}" method="post" style="display:flex; gap:4px; align-items:center;">
+            <input type="hidden" name="current_filter" value="{{ current_filter }}">
+            <input type="text" name="jump_target" class="jump-input" placeholder="# or filename">
+            <button type="submit" class="jump-btn">Go</button>
+        </form>
+
+        <!-- Filter -->
+        <div class="filter-group">
+            <label style="font-size:0.85em; color:var(--text-muted);">Filter:</label>
+            <select onchange="window.location.href='{{ url_for('edit_redirect', folder=folder) }}?filter='+this.value">
+                {% for val, label in [('all', 'All'), ('unreviewed', 'Unreviewed'), ('reviewed', 'Reviewed'), ('deleted', 'Deleted'), ('has_notes', 'Has notes'), ('errors', 'Errors')] %}
+                <option value="{{ val }}" {% if current_filter == val %}selected{% endif %}>{{ label }}</option>
+                {% endfor %}
+            </select>
+        </div>
+
+        <!-- Status badges -->
+        <div style="display:flex; gap:6px; align-items:center;">
+            {% if card.reviewed %}<span class="badge-reviewed">Reviewed</span>{% endif %}
+            {% if card.deleted %}<span class="badge-deleted">Deleted</span>{% endif %}
+            {% if counts %}
+            <span style="font-size:0.8em; color:var(--text-muted); margin-left:8px;">
+                {{ counts.reviewed or 0 }}/{{ counts.total }} reviewed
+            </span>
+            {% endif %}
+        </div>
+    </div>
+
+    <!-- Image panel (left) -->
+    <div class="image-panel" id="imagePanel">
+        <img src="{{ url_for('serve_image', folder=folder, filename=card.filename) }}"
+             alt="{{ card.filename }}"
+             id="cardImage"
+             onclick="toggleZoom(this)">
+    </div>
+
+    <!-- Form panel (right) -->
+    <div class="form-panel {% if card.deleted %}is-deleted{% endif %}">
+        <form id="editForm" action="{{ url_for('save_card', card_id=card.id) }}" method="post">
+            <input type="hidden" name="direction" id="directionField" value="stay">
+            <input type="hidden" name="current_filter" value="{{ current_filter }}">
+
+            <h3>Card numbers</h3>
+            <div class="field-row">
+                <div class="field">
+                    <label>Primary</label>
+                    <input type="text" name="card_num_primary" value="{{ card.card_num_primary or '' }}">
+                </div>
+                <div class="field">
+                    <label>Secondary</label>
+                    <input type="text" name="card_num_secondary" value="{{ card.card_num_secondary or '' }}">
+                </div>
+                <div class="field">
+                    <label>Tertiary</label>
+                    <input type="text" name="card_num_tertiary" value="{{ card.card_num_tertiary or '' }}">
+                </div>
+            </div>
+            <div class="field-row">
+                <div class="field">
+                    <label>Number notes</label>
+                    <input type="text" name="card_num_notes" value="{{ card.card_num_notes or '' }}" readonly class="field-readonly">
+                </div>
+            </div>
+
+            <h3>Transcription</h3>
+
+            <!-- Character toolbar -->
+            <div class="char-toolbar" id="charToolbar">
+                <!-- Archaic vowels -->
+                <button type="button" onclick="insertChar('ѣ')">ѣ</button>
+                <button type="button" onclick="insertChar('ѫ')">ѫ</button>
+                <button type="button" onclick="insertChar('ѧ')">ѧ</button>
+                <button type="button" onclick="insertChar('ӕ')">ӕ</button>
+                <button type="button" onclick="insertChar('ω')">ω</button>
+                <button type="button" onclick="insertChar('ώ')">ώ</button>
+                <button type="button" onclick="insertChar('Ѡ')">Ѡ</button>
+                <button type="button" onclick="insertChar('ү')">ү</button>
+                <button type="button" onclick="insertChar('ѹ')">ѹ</button>
+                <button type="button" onclick="insertChar('ѵ')">ѵ</button>
+                <button type="button" onclick="insertChar('є')">є</button>
+                <button type="button" onclick="insertChar('ї')">ї</button>
+
+                <div class="separator"></div>
+
+                <button type="button" onclick="insertChar('ѳ')">ѳ</button>
+                <button type="button" onclick="insertChar('ѯ')">ѯ</button>
+                <button type="button" onclick="insertChar('ѕ')">ѕ</button>
+                <button type="button" onclick="insertChar('s')">s</button>
+
+                <div class="separator"></div>
+
+                <button type="button" onclick="insertChar('\u0483')">титло</button>
+                <button type="button" onclick="insertChar('\u033E')">ъ&#x0327;</button>
+                <button type="button" onclick="insertChar('\u0301')">&#x27;</button>
+                <button type="button" onclick="insertChar('\u0303')">~</button>
+
+                <div class="separator"></div>
+
+                <button type="button" onclick="insertChar('‹')">&#x2039;</button>
+                <button type="button" onclick="insertChar('›')">&#x203A;</button>
+                <button type="button" onclick="insertChar('║')">║</button>
+                <button type="button" onclick="insertChar('…')">…</button>
+            </div>
+
+            <div class="field-row">
+                <div class="field">
+                    <textarea name="lines" id="linesField" rows="12">{{ card.lines or '' }}</textarea>
+                </div>
+            </div>
+
+            <h3>Source</h3>
+            <div class="field-row">
+                <div class="field">
+                    <label>City</label>
+                    <input type="text" name="source_city" value="{{ card.source_city or '' }}">
+                </div>
+                <div class="field">
+                    <label>Date</label>
+                    <input type="text" name="source_date" value="{{ card.source_date or '' }}">
+                </div>
+                <div class="field">
+                    <label>Reference</label>
+                    <input type="text" name="source_reference" value="{{ card.source_reference or '' }}">
+                </div>
+            </div>
+
+            <h3>Notes</h3>
+            <div class="field-row">
+                <div class="field">
+                    <input type="text" name="notes" value="{{ card.notes or '' }}" placeholder="Uncertainty, corrections...">
+                </div>
+            </div>
+
+            <!-- Checkboxes -->
+            <div class="checkbox-row">
+                <label>
+                    <input type="checkbox" name="reviewed" {% if card.reviewed %}checked{% endif %}>
+                    Reviewed
+                    <span class="shortcut-hint">(Alt+R)</span>
+                </label>
+                <label class="deleted-label">
+                    <input type="checkbox" name="deleted" {% if card.deleted %}checked{% endif %}>
+                    Mark deleted
+                    <span class="shortcut-hint">(Alt+D)</span>
+                </label>
+            </div>
+
+            <!-- Action buttons -->
+            <div class="action-buttons">
+                <button type="submit" class="btn-save" onclick="setDirection('stay')">
+                    Save <span class="shortcut-hint">(Ctrl+S)</span>
+                </button>
+                <button type="submit" class="btn-save-next" onclick="setDirection('next')">
+                    Save &amp; Next <span class="shortcut-hint">(Ctrl+Enter)</span>
+                </button>
+                <button type="submit" class="btn-save-prev" onclick="setDirection('prev')">
+                    Save &amp; Prev
+                </button>
+            </div>
+        </form>
+    </div>
+
+    <!-- Bottom bar -->
+    <div class="bottom-bar">
+        <span>
+            <span class="filename">{{ card.filename }}</span>
+            &mdash; {{ folder }}
+        </span>
+        <span>
+            {% if card.reviewed_at %}
+            Reviewed: {{ card.reviewed_at[:19] }}
+            {% endif %}
+        </span>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+// -- Character toolbar insertion --
+const linesField = document.getElementById('linesField');
+
+function insertChar(ch) {
+    if (!linesField) return;
+    linesField.focus();
+    document.execCommand('insertText', false, ch);
+}
+
+// -- Image zoom --
+function toggleZoom(img) {
+    img.classList.toggle('zoomed');
+}
+
+// -- Form navigation --
+function setDirection(dir) {
+    document.getElementById('directionField').value = dir;
+}
+
+function saveAndGo(dir) {
+    setDirection(dir);
+    document.getElementById('editForm').submit();
+}
+
+// -- Keyboard shortcuts --
+document.addEventListener('keydown', function(e) {
+    // Ctrl+S = Save
+    if (e.ctrlKey && e.key === 's') {
+        e.preventDefault();
+        setDirection('stay');
+        document.getElementById('editForm').submit();
+    }
+    // Ctrl+Enter = Save & Next
+    if (e.ctrlKey && e.key === 'Enter') {
+        e.preventDefault();
+        saveAndGo('next');
+    }
+    // Alt+Left = Save & Previous
+    if (e.altKey && e.key === 'ArrowLeft') {
+        e.preventDefault();
+        saveAndGo('prev');
+    }
+    // Alt+Right = Save & Next
+    if (e.altKey && e.key === 'ArrowRight') {
+        e.preventDefault();
+        saveAndGo('next');
+    }
+    // Alt+R = Toggle reviewed
+    if (e.altKey && e.key === 'r') {
+        e.preventDefault();
+        const cb = document.querySelector('input[name="reviewed"]');
+        cb.checked = !cb.checked;
+    }
+    // Alt+D = Toggle deleted
+    if (e.altKey && e.key === 'd') {
+        e.preventDefault();
+        const cb = document.querySelector('input[name="deleted"]');
+        cb.checked = !cb.checked;
+    }
+});
+
+// -- Warn on unsaved changes --
+let formChanged = false;
+document.getElementById('editForm').addEventListener('input', () => { formChanged = true; });
+window.addEventListener('beforeunload', function(e) {
+    if (formChanged) {
+        e.preventDefault();
+        e.returnValue = '';
+    }
+});
+document.getElementById('editForm').addEventListener('submit', () => { formChanged = false; });
+</script>
+{% endblock %}

@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% block title %}Card Editor - Folders{% endblock %}
+
+{% block body %}
+<div class="index-container">
+    <h1>Card Proofreading Editor</h1>
+
+    {% for f in folders %}
+    <div class="folder-card">
+        <div>
+            <h2>{{ f.folder }}</h2>
+            <div class="folder-stats">
+                {{ f.total }} cards |
+                <span class="reviewed">{{ f.reviewed or 0 }} reviewed</span> |
+                <span class="deleted">{{ f.deleted_count or 0 }} deleted</span> |
+                {{ f.blank or 0 }} blank
+            </div>
+        </div>
+        <div class="folder-actions">
+            <a href="{{ url_for('edit_redirect', folder=f.folder, filter='unreviewed') }}">Proofread</a>
+            <a href="{{ url_for('edit_redirect', folder=f.folder, filter='all') }}" style="background: var(--bg-input);">Browse all</a>
+        </div>
+    </div>
+    {% else %}
+    <p style="color: var(--text-muted);">
+        No cards imported yet. Run: <code>python import_cards.py</code>
+    </p>
+    {% endfor %}
+</div>
+{% endblock %}
