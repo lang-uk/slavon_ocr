@@ -1,0 +1,37 @@
+server {
+    listen 443 ssl; # managed by Certbot
+    ssl_certificate /etc/letsencrypt/live/ner.nbu.rocks/fullchain.pem; # managed by Certbot
+    ssl_certificate_key /etc/letsencrypt/live/ner.nbu.rocks/privkey.pem; # managed by Certbot
+    include /etc/letsencrypt/options-ssl-nginx.conf; # managed by Certbot
+    ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; # managed by Certbot
+
+    root /var/www/html;
+
+    server_name ocr.nbu.rocks www.ocr.nbu.rocks;
+
+    location / {
+        proxy_set_header Host $host;
+        proxy_http_version 1.1;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection "upgrade";
+        proxy_redirect off;
+        proxy_pass http://127.0.0.1:12322;
+    }
+
+    location /image/ {
+        proxy_pass http://127.0.0.1:12322;
+        proxy_set_header Host $host;
+        expires 7d;
+        add_header Cache-Control "public, immutable";
+    }
+}
+
+server {
+    if ($host = ocr.nbu.rocks) {
+        return 301 https://$host$request_uri;
+    } # managed by Certbot
+
+    listen 80;
+    server_name www.ocr.nbu.rocks ocr.nbu.rocks;
+    return 301 https://$host$request_uri;
+}

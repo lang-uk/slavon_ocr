@@ -1,0 +1,16 @@
+[Unit]
+Description=OCR card proofreading editor
+After=network.target
+StartLimitIntervalSec=0
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=5
+User=site
+WorkingDirectory=/srv/sites/ocr.nbu.rocks/editor
+EnvironmentFile=/srv/sites/ocr.nbu.rocks/.env
+ExecStart=/srv/sites/ocr.nbu.rocks/venv/bin/gunicorn -b 127.0.0.1:12322 --name ocr_editor -w 2 --keep-alive 120 --error-logfile - -t 120 --chdir /srv/sites/ocr.nbu.rocks/editor app:app
+
+[Install]
+WantedBy=multi-user.target
