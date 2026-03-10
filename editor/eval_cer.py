@@ -83,6 +83,11 @@ def extract_ocr_text(original_json):
     return "\n".join(lines)
 
 
+def _normalize_dashes(s):
+    """Collapse spaces around dashes/en-dashes/em-dashes into a plain hyphen."""
+    return re.sub(r"\s*[-\u2013\u2014]\s*", "-", s)
+
+
 def strip_source_line(text, row):
     """Remove the last line if it contains the source reference metadata.
 
@@ -90,6 +95,9 @@ def strip_source_line(text, row):
     in the transcription; others parsed it into structured fields and excluded it.
     Reviewers sometimes removed it. To avoid penalizing this editorial mismatch,
     we strip it from both sides before comparison.
+
+    Uses dash-normalized comparison to handle variations like
+    '1605 - 1606' vs '1605-1606' or '34 - 35' vs '34-35'.
     """
     ref = (row["source_reference"] or "").strip().rstrip(".")
     if not ref:
@@ -99,8 +107,9 @@ def strip_source_line(text, row):
     if not lines:
         return text
 
-    last = lines[-1].strip()
-    if ref.lower() in last.lower():
+    last = _normalize_dashes(lines[-1].strip()).lower()
+    ref_clean = _normalize_dashes(ref).lower()
+    if ref_clean in last:
         return "\n".join(lines[:-1]).strip()
 
     return text

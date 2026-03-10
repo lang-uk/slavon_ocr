@@ -9,6 +9,7 @@ Safe to run multiple times — skips cards that already have the source line.
 """
 
 import json
+import re
 import sys
 from db import get_db, init_db
 
@@ -25,13 +26,22 @@ def build_source_line(row):
     return ", ".join(parts) if parts else None
 
 
+def _normalize_dashes(s):
+    """Collapse spaces around dashes/en-dashes/em-dashes into a plain hyphen."""
+    return re.sub(r"\s*[-\u2013\u2014]\s*", "-", s)
+
+
 def has_source_line(text, ref):
-    """Check if the source reference is already in the last line."""
+    """Check if the source reference is already in the last line.
+
+    Uses dash-normalized comparison to handle variations like
+    '1605 - 1606' vs '1605-1606' or '34 - 35' vs '34-35'.
+    """
     if not text or not ref:
         return False
-    ref_clean = ref.strip().rstrip(".")
-    last_line = text.strip().split("\n")[-1].strip()
-    return ref_clean.lower() in last_line.lower()
+    ref_clean = _normalize_dashes(ref.strip().rstrip(".")).lower()
+    last_line = _normalize_dashes(text.strip().split("\n")[-1].strip()).lower()
+    return ref_clean in last_line
 
 
 def main():
