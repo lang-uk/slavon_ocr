@@ -83,6 +83,29 @@ def extract_ocr_text(original_json):
     return "\n".join(lines)
 
 
+def strip_source_line(text, row):
+    """Remove the last line if it contains the source reference metadata.
+
+    Some OCR runs included the source line (e.g. 'Львів, 1605-1606, Перест. 28.')
+    in the transcription; others parsed it into structured fields and excluded it.
+    Reviewers sometimes removed it. To avoid penalizing this editorial mismatch,
+    we strip it from both sides before comparison.
+    """
+    ref = (row["source_reference"] or "").strip().rstrip(".")
+    if not ref:
+        return text
+
+    lines = text.split("\n")
+    if not lines:
+        return text
+
+    last = lines[-1].strip()
+    if ref.lower() in last.lower():
+        return "\n".join(lines[:-1]).strip()
+
+    return text
+
+
 def classify_source(row):
     """Group cards by source for reporting."""
     ref = (row["source_reference"] or "").strip().lower()
@@ -127,9 +150,9 @@ def main():
         ocr_raw = extract_ocr_text(row["original_json"])
         proof_raw = row["lines"] or ""
 
-        # Clean \r from both
-        ocr_clean = clean(ocr_raw)
-        proof_clean = clean(proof_raw)
+        # Clean \r from both, strip source metadata line
+        ocr_clean = strip_source_line(clean(ocr_raw), row)
+        proof_clean = strip_source_line(clean(proof_raw), row)
 
         if not ocr_clean and not proof_clean:
             continue
@@ -195,6 +218,7 @@ def main():
     print(f"Reviewed cards: {sum(s['cards'] for s in stats.values())}")
     print("Reference: human-proofread | Hypothesis: original OCR")
     print("Tokenizer: spacy uk_core_news_sm (hyphens rejoined, punct excluded)")
+    print("Source metadata lines stripped from both sides before comparison")
     print("=" * 78)
 
     totals = defaultdict(int)
