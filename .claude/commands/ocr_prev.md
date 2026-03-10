@@ -174,6 +174,7 @@ PUNCTUATION AND STRUCTURE
 - Hyphenation: if a word is split across lines with a hyphen, keep the hyphen at the end of the line and continue the word on the next line, exactly as the card shows.
 
 SOURCE REFERENCE FORMAT:
+The source reference line (city, date, source abbreviation) is usually written at the bottom of the card. It MUST be included as the LAST entry in the "lines" array AND parsed into the "source" object. Do NOT remove it from the transcription — it is part of the card content.
 Transcribe the reference line exactly as written on the card. Common patterns:
 - Chronicle: Львів, поч. ХѴІІ ст. Крон. {N} зв.
 - Verse: Київ, 1622, Сак. Вірші, МҮКСВ 40.
