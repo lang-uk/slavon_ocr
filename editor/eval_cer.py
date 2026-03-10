@@ -137,128 +137,159 @@ def main():
         print("No reviewed cards found.")
         sys.exit(0)
 
-    stats = defaultdict(lambda: {
-        "cards": 0,
-        "ref_chars_flat": 0, "char_errors_flat": 0,
-        "ref_chars_lines": 0, "char_errors_lines": 0,
-        "ref_words_flat": 0, "word_errors_flat": 0,
-        "ref_words_lines": 0, "word_errors_lines": 0,
-        "card_details": [],
-    })
+    # Compute metrics for both original case and lowercased
+    case_variants = [
+        ("original", lambda t: t),
+        ("lowercased", lambda t: t.lower()),
+    ]
 
-    for row in rows:
-        ocr_raw = extract_ocr_text(row["original_json"])
-        proof_raw = row["lines"] or ""
+    all_results = {}  # variant_name -> {stats, totals}
 
-        # Clean \r from both, strip source metadata line
-        ocr_clean = strip_source_line(clean(ocr_raw), row)
-        proof_clean = strip_source_line(clean(proof_raw), row)
-
-        if not ocr_clean and not proof_clean:
-            continue
-
-        source = classify_source(row)
-        s = stats[source]
-        s["cards"] += 1
-
-        # --- CER (flat): no line breaks ---
-        proof_flat = flatten(proof_clean)
-        ocr_flat = flatten(ocr_clean)
-        char_dist_flat = levenshtein(proof_flat, ocr_flat)
-        ref_chars_flat = len(proof_flat) or 1
-
-        # --- CER (lines): line breaks preserved ---
-        char_dist_lines = levenshtein(proof_clean, ocr_clean)
-        ref_chars_lines = len(proof_clean) or 1
-
-        # --- WER (flat): tokenize flattened text (no line breaks, no hyphen rejoining needed) ---
-        ref_tokens_flat = tokenize(proof_flat, do_rejoin_hyphens=False)
-        hyp_tokens_flat = tokenize(ocr_flat, do_rejoin_hyphens=False)
-        word_dist_flat = levenshtein(ref_tokens_flat, hyp_tokens_flat)
-        n_ref_words_flat = len(ref_tokens_flat) or 1
-
-        # --- WER (lines): tokenize with line breaks, rejoin hyphens across lines ---
-        ref_tokens_lines = tokenize(proof_clean, do_rejoin_hyphens=True)
-        hyp_tokens_lines = tokenize(ocr_clean, do_rejoin_hyphens=True)
-        word_dist_lines = levenshtein(ref_tokens_lines, hyp_tokens_lines)
-        n_ref_words_lines = len(ref_tokens_lines) or 1
-
-        s["ref_chars_flat"] += ref_chars_flat
-        s["char_errors_flat"] += char_dist_flat
-        s["ref_chars_lines"] += ref_chars_lines
-        s["char_errors_lines"] += char_dist_lines
-        s["ref_words_flat"] += n_ref_words_flat
-        s["word_errors_flat"] += word_dist_flat
-        s["ref_words_lines"] += n_ref_words_lines
-        s["word_errors_lines"] += word_dist_lines
-
-        s["card_details"].append({
-            "filename": row["filename"],
-            "cer_flat": char_dist_flat / ref_chars_flat,
-            "cer_lines": char_dist_lines / ref_chars_lines,
-            "wer_flat": word_dist_flat / n_ref_words_flat,
-            "wer_lines": word_dist_lines / n_ref_words_lines,
-            "char_errors_flat": char_dist_flat,
-            "ref_chars_flat": ref_chars_flat,
-            "char_errors_lines": char_dist_lines,
-            "ref_chars_lines": ref_chars_lines,
-            "word_errors_flat": word_dist_flat,
-            "ref_words_flat": n_ref_words_flat,
-            "word_errors_lines": word_dist_lines,
-            "ref_words_lines": n_ref_words_lines,
-            "ref_tokens_flat": ref_tokens_flat,
-            "hyp_tokens_flat": hyp_tokens_flat,
-            "ref_tokens_lines": ref_tokens_lines,
-            "hyp_tokens_lines": hyp_tokens_lines,
+    for variant_name, transform in case_variants:
+        stats = defaultdict(lambda: {
+            "cards": 0,
+            "ref_chars_flat": 0, "char_errors_flat": 0,
+            "ref_chars_lines": 0, "char_errors_lines": 0,
+            "ref_words_flat": 0, "word_errors_flat": 0,
+            "ref_words_lines": 0, "word_errors_lines": 0,
+            "card_details": [],
         })
+
+        for row in rows:
+            ocr_raw = extract_ocr_text(row["original_json"])
+            proof_raw = row["lines"] or ""
+
+            # Clean \r from both, strip source metadata line
+            ocr_clean = strip_source_line(clean(ocr_raw), row)
+            proof_clean = strip_source_line(clean(proof_raw), row)
+
+            if not ocr_clean and not proof_clean:
+                continue
+
+            # Apply case transform
+            ocr_clean = transform(ocr_clean)
+            proof_clean = transform(proof_clean)
+
+            source = classify_source(row)
+            s = stats[source]
+            s["cards"] += 1
+
+            # --- CER (flat): no line breaks ---
+            proof_flat = flatten(proof_clean)
+            ocr_flat = flatten(ocr_clean)
+            char_dist_flat = levenshtein(proof_flat, ocr_flat)
+            ref_chars_flat = len(proof_flat) or 1
+
+            # --- CER (lines): line breaks preserved ---
+            char_dist_lines = levenshtein(proof_clean, ocr_clean)
+            ref_chars_lines = len(proof_clean) or 1
+
+            # --- WER (flat) ---
+            ref_tokens_flat = tokenize(proof_flat, do_rejoin_hyphens=False)
+            hyp_tokens_flat = tokenize(ocr_flat, do_rejoin_hyphens=False)
+            word_dist_flat = levenshtein(ref_tokens_flat, hyp_tokens_flat)
+            n_ref_words_flat = len(ref_tokens_flat) or 1
+
+            # --- WER (lines) ---
+            ref_tokens_lines = tokenize(proof_clean, do_rejoin_hyphens=True)
+            hyp_tokens_lines = tokenize(ocr_clean, do_rejoin_hyphens=True)
+            word_dist_lines = levenshtein(ref_tokens_lines, hyp_tokens_lines)
+            n_ref_words_lines = len(ref_tokens_lines) or 1
+
+            s["ref_chars_flat"] += ref_chars_flat
+            s["char_errors_flat"] += char_dist_flat
+            s["ref_chars_lines"] += ref_chars_lines
+            s["char_errors_lines"] += char_dist_lines
+            s["ref_words_flat"] += n_ref_words_flat
+            s["word_errors_flat"] += word_dist_flat
+            s["ref_words_lines"] += n_ref_words_lines
+            s["word_errors_lines"] += word_dist_lines
+
+            s["card_details"].append({
+                "filename": row["filename"],
+                "cer_flat": char_dist_flat / ref_chars_flat,
+                "cer_lines": char_dist_lines / ref_chars_lines,
+                "wer_flat": word_dist_flat / n_ref_words_flat,
+                "wer_lines": word_dist_lines / n_ref_words_lines,
+                "char_errors_flat": char_dist_flat,
+                "ref_chars_flat": ref_chars_flat,
+                "word_errors_flat": word_dist_flat,
+                "ref_words_flat": n_ref_words_flat,
+                "ref_tokens_flat": ref_tokens_flat,
+                "hyp_tokens_flat": hyp_tokens_flat,
+                "ref_tokens_lines": ref_tokens_lines,
+                "hyp_tokens_lines": hyp_tokens_lines,
+            })
+
+        all_results[variant_name] = stats
 
     # --- Print report ---
     print("=" * 78)
     print("OCR EVALUATION REPORT")
-    print(f"Reviewed cards: {sum(s['cards'] for s in stats.values())}")
+    print(f"Reviewed cards: {len(rows)}")
     print("Reference: human-proofread | Hypothesis: original OCR")
     print("Tokenizer: spacy uk_core_news_sm (hyphens rejoined, punct excluded)")
     print("Source metadata lines stripped from both sides before comparison")
     print("=" * 78)
 
-    totals = defaultdict(int)
+    for variant_name, stats in all_results.items():
+        print(f"\n{'*' * 78}")
+        print(f"  CASE: {variant_name}")
+        print(f"{'*' * 78}")
 
-    for source in sorted(stats.keys()):
-        s = stats[source]
-        cer_flat = s["char_errors_flat"] / s["ref_chars_flat"] if s["ref_chars_flat"] else 0
-        cer_lines = s["char_errors_lines"] / s["ref_chars_lines"] if s["ref_chars_lines"] else 0
-        wer_flat = s["word_errors_flat"] / s["ref_words_flat"] if s["ref_words_flat"] else 0
-        wer_lines = s["word_errors_lines"] / s["ref_words_lines"] if s["ref_words_lines"] else 0
+        totals = defaultdict(int)
 
-        for k in ("ref_chars_flat", "char_errors_flat", "ref_chars_lines",
-                   "char_errors_lines", "ref_words_flat", "word_errors_flat",
-                   "ref_words_lines", "word_errors_lines"):
-            totals[k] += s[k]
+        for source in sorted(stats.keys()):
+            s = stats[source]
+            cer_flat = s["char_errors_flat"] / s["ref_chars_flat"] if s["ref_chars_flat"] else 0
+            cer_lines = s["char_errors_lines"] / s["ref_chars_lines"] if s["ref_chars_lines"] else 0
+            wer_flat = s["word_errors_flat"] / s["ref_words_flat"] if s["ref_words_flat"] else 0
+            wer_lines = s["word_errors_lines"] / s["ref_words_lines"] if s["ref_words_lines"] else 0
 
-        print(f"\n--- {source} ({s['cards']} cards) ---")
-        print(f"  CER (flat):   {cer_flat:.2%}  ({s['char_errors_flat']} / {s['ref_chars_flat']} chars)")
-        print(f"  CER (lines):  {cer_lines:.2%}  ({s['char_errors_lines']} / {s['ref_chars_lines']} chars)")
-        print(f"  WER (flat):   {wer_flat:.2%}  ({s['word_errors_flat']} / {s['ref_words_flat']} words)")
-        print(f"  WER (lines):  {wer_lines:.2%}  ({s['word_errors_lines']} / {s['ref_words_lines']} words)")
+            for k in ("ref_chars_flat", "char_errors_flat", "ref_chars_lines",
+                       "char_errors_lines", "ref_words_flat", "word_errors_flat",
+                       "ref_words_lines", "word_errors_lines"):
+                totals[k] += s[k]
 
-        # Per-card breakdown (up to 50 cards)
-        if len(s["card_details"]) <= 50:
-            print()
-            print(f"  {'Filename':<20} {'CER fl':>7} {'CER ln':>7} {'WER fl':>7} {'WER ln':>7}"
-                  f"  {'Ch.e':>4} {'W.e':>4}")
-            for d in sorted(s["card_details"], key=lambda x: -x["cer_flat"]):
-                print(
-                    f"  {d['filename']:<20}"
-                    f" {d['cer_flat']:>6.2%}"
-                    f" {d['cer_lines']:>6.2%}"
-                    f" {d['wer_flat']:>6.2%}"
-                    f" {d['wer_lines']:>6.2%}"
-                    f"  {d['char_errors_flat']:>3}/{d['ref_chars_flat']:<4}"
-                    f" {d['word_errors_flat']:>3}/{d['ref_words_flat']:<3}"
-                )
+            print(f"\n--- {source} ({s['cards']} cards) ---")
+            print(f"  CER (flat):   {cer_flat:.2%}  ({s['char_errors_flat']} / {s['ref_chars_flat']} chars)")
+            print(f"  CER (lines):  {cer_lines:.2%}  ({s['char_errors_lines']} / {s['ref_chars_lines']} chars)")
+            print(f"  WER (flat):   {wer_flat:.2%}  ({s['word_errors_flat']} / {s['ref_words_flat']} words)")
+            print(f"  WER (lines):  {wer_lines:.2%}  ({s['word_errors_lines']} / {s['ref_words_lines']} words)")
 
-    # Token-level diff for small sets (helps review tokenizer quality)
-    all_details = [d for s in stats.values() for d in s["card_details"]]
+            # Per-card breakdown (only for original case, up to 50 cards)
+            if variant_name == "original" and len(s["card_details"]) <= 50:
+                print()
+                print(f"  {'Filename':<20} {'CER fl':>7} {'CER ln':>7} {'WER fl':>7} {'WER ln':>7}"
+                      f"  {'Ch.e':>4} {'W.e':>4}")
+                for d in sorted(s["card_details"], key=lambda x: -x["cer_flat"]):
+                    print(
+                        f"  {d['filename']:<20}"
+                        f" {d['cer_flat']:>6.2%}"
+                        f" {d['cer_lines']:>6.2%}"
+                        f" {d['wer_flat']:>6.2%}"
+                        f" {d['wer_lines']:>6.2%}"
+                        f"  {d['char_errors_flat']:>3}/{d['ref_chars_flat']:<4}"
+                        f" {d['word_errors_flat']:>3}/{d['ref_words_flat']:<3}"
+                    )
+
+        # Overall for this variant
+        t = totals
+        cer_flat = t["char_errors_flat"] / t["ref_chars_flat"] if t["ref_chars_flat"] else 0
+        cer_lines = t["char_errors_lines"] / t["ref_chars_lines"] if t["ref_chars_lines"] else 0
+        wer_flat = t["word_errors_flat"] / t["ref_words_flat"] if t["ref_words_flat"] else 0
+        wer_lines = t["word_errors_lines"] / t["ref_words_lines"] if t["ref_words_lines"] else 0
+
+        print()
+        print(f"  OVERALL ({variant_name})")
+        print(f"    CER (flat):   {cer_flat:.2%}  ({t['char_errors_flat']} / {t['ref_chars_flat']})")
+        print(f"    CER (lines):  {cer_lines:.2%}  ({t['char_errors_lines']} / {t['ref_chars_lines']})")
+        print(f"    WER (flat):   {wer_flat:.2%}  ({t['word_errors_flat']} / {t['ref_words_flat']})")
+        print(f"    WER (lines):  {wer_lines:.2%}  ({t['word_errors_lines']} / {t['ref_words_lines']})")
+
+    # Token-level diff for small sets (original case only)
+    orig_stats = all_results["original"]
+    all_details = [d for s in orig_stats.values() for d in s["card_details"]]
     if len(all_details) <= 10:
         for variant, tok_ref_key, tok_hyp_key in [
             ("flat", "ref_tokens_flat", "hyp_tokens_flat"),
@@ -286,20 +317,30 @@ def main():
                 else:
                     print("  (no word-level differences)")
 
-    # Overall
-    t = totals
-    cer_flat = t["char_errors_flat"] / t["ref_chars_flat"] if t["ref_chars_flat"] else 0
-    cer_lines = t["char_errors_lines"] / t["ref_chars_lines"] if t["ref_chars_lines"] else 0
-    wer_flat = t["word_errors_flat"] / t["ref_words_flat"] if t["ref_words_flat"] else 0
-    wer_lines = t["word_errors_lines"] / t["ref_words_lines"] if t["ref_words_lines"] else 0
-
+    # Summary comparison table
     print()
     print("=" * 78)
-    print(f"OVERALL  CER (flat):   {cer_flat:.2%}  ({t['char_errors_flat']} / {t['ref_chars_flat']})")
-    print(f"         CER (lines):  {cer_lines:.2%}  ({t['char_errors_lines']} / {t['ref_chars_lines']})")
-    print(f"         WER (flat):   {wer_flat:.2%}  ({t['word_errors_flat']} / {t['ref_words_flat']})")
-    print(f"         WER (lines):  {wer_lines:.2%}  ({t['word_errors_lines']} / {t['ref_words_lines']})")
+    print("SUMMARY")
     print("=" * 78)
+    print(f"  {'Metric':<16} {'Original':>10} {'Lowercased':>12} {'Diff':>8}")
+    print(f"  {'-'*16} {'-'*10} {'-'*12} {'-'*8}")
+    for metric in ("CER (flat)", "CER (lines)", "WER (flat)", "WER (lines)"):
+        key_map = {
+            "CER (flat)": ("char_errors_flat", "ref_chars_flat"),
+            "CER (lines)": ("char_errors_lines", "ref_chars_lines"),
+            "WER (flat)": ("word_errors_flat", "ref_words_flat"),
+            "WER (lines)": ("word_errors_lines", "ref_words_lines"),
+        }
+        err_k, ref_k = key_map[metric]
+        vals = []
+        for vn in ("original", "lowercased"):
+            t = defaultdict(int)
+            for s in all_results[vn].values():
+                t[err_k] += s[err_k]
+                t[ref_k] += s[ref_k]
+            vals.append(t[err_k] / t[ref_k] if t[ref_k] else 0)
+        diff = vals[1] - vals[0]
+        print(f"  {metric:<16} {vals[0]:>9.2%} {vals[1]:>11.2%} {diff:>+7.2%}")
 
 
 if __name__ == "__main__":
