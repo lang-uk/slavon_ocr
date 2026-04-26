@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["filename", "card_numbers", "lines", "source", "notes", "error_type"],
+  "properties": {
+    "filename": { "type": "string" },
+    "card_numbers": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["primary", "secondary", "tertiary", "notes"],
+      "properties": {
+        "primary":   { "type": ["string", "null"] },
+        "secondary": { "type": ["string", "null"] },
+        "tertiary":  { "type": ["string", "null"] },
+        "notes":     { "type": "string" }
+      }
+    },
+    "lines": {
+      "anyOf": [
+        { "type": "array", "items": { "type": "string" } },
+        { "type": "null" }
+      ]
+    },
+    "source": {
+      "anyOf": [
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["city", "date", "reference"],
+          "properties": {
+            "city":      { "type": ["string", "null"] },
+            "date":      { "type": ["string", "null"] },
+            "reference": { "type": ["string", "null"] }
+          }
+        },
+        { "type": "null" }
+      ]
+    },
+    "notes":      { "type": "string" },
+    "error_type": { "type": ["string", "null"] }
+  }
+}
