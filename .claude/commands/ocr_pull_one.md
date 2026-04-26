@@ -1,6 +1,6 @@
 Process exactly ONE pending Пересторога card and reschedule yourself.
 
-This is the in-CC OCR pull loop. Each invocation handles one card and uses ScheduleWakeup to fire again ~3 minutes later, until the pool is exhausted. Per-card context isolation comes from spawning a fresh subagent — the main loop's per-tick context stays tiny.
+This is the in-CC OCR pull loop. Each invocation handles one card and uses ScheduleWakeup to fire again ~2 minutes later, until the pool is exhausted. Per-card context isolation comes from spawning a fresh subagent — the main loop's per-tick context stays tiny.
 
 PRE-REQUISITE (set once before invoking the first time):
 The subagent inherits its thinking budget from this session. For best OCR quality, set the session to opus + xhigh effort before starting the loop.
@@ -52,8 +52,8 @@ If ingest fails (duplicate row, malformed JSON, etc.), report the error to the u
 STEP 4 — reschedule
 
 Call ScheduleWakeup with:
-- `delaySeconds`: 180
+- `delaySeconds`: 120
 - `prompt`: `/ocr_pull_one`
-- `reason`: `next card in 3 min` (or include the just-ingested filename for traceability)
+- `reason`: `next card in 2 min` (or include the just-ingested filename for traceability)
 
 End the turn with a one-line status: which card was just ingested and how many remain (you can get the remaining count by running `python editor/pull_loop.py next` once more — but that's optional; the count isn't load-bearing).
