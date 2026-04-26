@@ -13,11 +13,12 @@ unchanged:
     editor/runs/<run-id>.json                   manifest
 
 Prerequisites:
-  - codex CLI on PATH (install: `npm install -g @openai/codex` or per
-    upstream README at github.com/openai/codex)
-  - OPENAI_API_KEY exported (do NOT use ChatGPT subscription auth — the
-    5-hour message window will throttle a long batch; token-based API
-    auth is the right knob)
+  - codex CLI on PATH (install via the upstream installer at
+    github.com/openai/codex/releases or `npm install -g @openai/codex`)
+  - Authentication: either OPENAI_API_KEY exported, or `codex login` for
+    subscription auth. Subscription auth is throttled by the 5-hour
+    message window, which can stall a long batch — fine on OSS plan,
+    not recommended for the full 152-card corpus on a Plus seat.
 
 Usage:
     python editor/codex_run.py \\
@@ -160,9 +161,11 @@ def main():
     args = ap.parse_args()
 
     if shutil.which("codex") is None:
-        sys.exit("codex CLI not found on PATH. Install: npm install -g @openai/codex")
+        sys.exit("codex CLI not found on PATH. Install via the upstream installer or `npm install -g @openai/codex`.")
     if not os.environ.get("OPENAI_API_KEY"):
-        sys.exit("OPENAI_API_KEY is not set. Export it before running this harness.")
+        # Subscription auth (`codex login`) is also fine. We don't fail here —
+        # if no auth is configured at all, codex itself will error out per call.
+        print("[info] OPENAI_API_KEY not set; relying on `codex login` subscription auth.", file=sys.stderr)
 
     args.sample = args.sample.resolve()
     sample = json.loads(args.sample.read_text())
