@@ -1,0 +1,21 @@
+{
+  "filename": "239.jpeg",
+  "card_numbers": {
+    "primary": "15",
+    "secondary": null,
+    "tertiary": "2050",
+    "notes": "15 top-left pencil, 2050 bottom-right pencil"
+  },
+  "lines": [
+    "А мы почуваємось, жесамь ничего та-",
+    "кового не учинили, чим было мьыли",
+    "горю заслужити.",
+    "Львів, 1605-1606, Перест. 42"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 42"
+  },
+  "notes": ""
+}

@@ -1,0 +1,24 @@
+{
+  "filename": "296.jpeg",
+  "card_numbers": {
+    "primary": "21",
+    "secondary": "255",
+    "tertiary": null,
+    "notes": "21 top-left pencil, 255 top-right and bottom-right ink"
+  },
+  "lines": [
+    "Штожъ вы мышлите? Юже митро-",
+    "пошитъ вашъ Михайло съ покаѧніемъ",
+    "своимъ умеръ, а Григорка, слугу и",
+    "з traiцѫ его, злый духъ за моровалъ,",
+    "и иныхъ поповъ негодныхъ бѣсовъ з",
+    "церкве вылетали.",
+    "Львів, 1605-1606, Берест. 44"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Берест. 44"
+  },
+  "notes": "Line 4: 'з traiцѫ' unclear - possibly 'з traiцѫ' or 'з traiцѫ' - the first letters look like z trai with a combining diacritic. Line 5: 'з церкве' - letter z before церкве. The text uses mixed orthography: 'мышлите' with ы, 'покаѧніемъ' with ѣ, 'поповъ' with ъ, but also 'митропошитъ' with plain е in митро."
+}

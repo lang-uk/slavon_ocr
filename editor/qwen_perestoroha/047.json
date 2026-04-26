@@ -1,0 +1,26 @@
+{
+  "filename": "047.jpeg",
+  "card_numbers": {
+    "primary": "82",
+    "secondary": null,
+    "tertiary": "6",
+    "notes": "82 bottom-right corner, 6 top-left ink"
+  },
+  "lines": [
+    "А за тим обмівший паціарх, бдячи",
+    "умироточима кєбского",
+    "дєєньєва, є",
+    "прєсвоя зємальє і на єго мѣсцє Матвій-",
+    "на згоду за радєнєм зримішанєма",
+    "поставивъ…, поробивши проводячи при",
+    "посдженю, нє жє нєдбало єнґлїйськи",
+    "кап йостатити.",
+    "Київ, 1605-1606, Берест. 28"
+  ],
+  "source": {
+    "city": "Київ",
+    "date": "1605-1606",
+    "reference": "Берест. 28"
+  },
+  "notes": "Card is upside down. Some characters uncertain: 'кєбского' possibly 'київського' or similar, 'єнґлїйськи' unclear, 'кап' possibly abbreviated. 'йостатити' may be 'йостатити' or similar."
+}

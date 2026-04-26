@@ -1,0 +1,20 @@
+{
+  "filename": "202.jpeg",
+  "card_numbers": {
+    "primary": "12",
+    "secondary": null,
+    "tertiary": "173",
+    "notes": "12 top-left pencil, 173 bottom-right pencil"
+  },
+  "lines": [
+    "Упоминалѣ и просилъ старецъ, абы король",
+    "обачился, а здоровое ради слушалъ.",
+    "Львів, 1605-1606, Берест. 40"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Берест. 40"
+  },
+  "notes": ""
+}

@@ -1,0 +1,19 @@
+{
+  "filename": "444.jpeg",
+  "card_numbers": {
+    "primary": null,
+    "secondary": null,
+    "tertiary": "381",
+    "notes": "381 bottom-right corner"
+  },
+  "lines": [
+    "не силъ бы его Павел святый стро-",
+    "фовати. Львів, 1605-1606, Перест. 52"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 52"
+  },
+  "notes": ""
+}

@@ -1,0 +1,17 @@
+{
+  "filename": "261.jpeg",
+  "card_numbers": {
+    "primary": "261",
+    "secondary": "18",
+    "tertiary": null,
+    "notes": "261 is the filename/inventory number; 18 appears in top-left corner"
+  },
+  "lines": null,
+  "source": {
+    "city": "Іефіа",
+    "date": "1605-1606",
+    "reference": "іерєем. 42"
+  },
+  "notes": "Card is upside down in image. Main body text is extremely difficult to read due to orientation and possible smudging/faint handwriting. Unable to transcribe the prose content with confidence. The source reference line (reading as 'Іефіа, 1605-1606, іерєем. 42') appears to be at the bottom of the card in the image orientation. This may reference Jeremiah 42 from the biblical book of Jeremiah (Іерєміі) - the '18' may be a scholar's sequence number for this biblical citation.",
+  "error_type": "illegible"
+}

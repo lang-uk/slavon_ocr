@@ -1,0 +1,22 @@
+{
+  "filename": "162.jpeg",
+  "card_numbers": {
+    "primary": null,
+    "secondary": null,
+    "tertiary": "8 bottom-right (handwritten), 133 top-left (handwritten)",
+    "notes": "8 bottom-right pencil, 133 top-left pencil"
+  },
+  "lines": [
+    "Шлемъ Херкесе … и то штымъ;",
+    "борей полудраге усеарь наши зго-",
+    "родъ бисъ, же ии херкове за его",
+    "начимомъ и нокою сђати.",
+    "Ледіб, 1605 - 1606, Лерсем. 36."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Лерсем. 36."
+  },
+  "notes": "Text appears upside down in the image. Some characters difficult to read: 'Шлемъ' uncertain (possibly 'Шлемь' or similar), 'иои' uncertain, 'сђати' uncertain (possibly 'сбити' or 'сдати'). Card numbers 8 and 133 are handwritten in pencil."
+}

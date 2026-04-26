@@ -1,0 +1,22 @@
+{
+  "filename": "123.jpeg",
+  "card_numbers": {
+    "primary": "14",
+    "secondary": null,
+    "tertiary": "100",
+    "notes": "14 top-left pencil, 100 bottom-right corner pencil"
+  },
+  "lines": [
+    "И у нѣкоторого кардинала запрошо-",
+    "ные были на объдѣ; иде коли пришли,",
+    "нѣчего рыбного не было, только з",
+    "мясом все;",
+    "Львів, 1605 - 1606, Перест. 33."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605 - 1606",
+    "reference": "Перест. 33."
+  },
+  "notes": ""
+}

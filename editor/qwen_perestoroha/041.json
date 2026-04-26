@@ -1,0 +1,21 @@
+{
+  "filename": "041.jpeg",
+  "card_numbers": {
+    "primary": "12",
+    "secondary": null,
+    "tertiary": "37",
+    "notes": "12 top-left pencil, 37 bottom-right pencil"
+  },
+  "lines": [
+    "За чим и великій король польскій",
+    "... привилєєм то злєцн и",
+    "поручилъ, абы препотоных духовных",
+    "вѣры своеє завъдывалъ"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Берест. 27"
+  },
+  "notes": "Card shows 5 lines of handwriting. First line has no ellipsis. Second line begins with ellipsis (...). Orthography uses є in привилєєм, своєє, и/ъ endings vary. Third line: препотоных (not перепотоных), духовных. Fourth line: вѣры своеє завъдывалъ."
+}

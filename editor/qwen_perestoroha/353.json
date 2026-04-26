@@ -1,0 +1,22 @@
+{
+  "filename": "353.jpeg",
+  "card_numbers": {
+    "primary": "008",
+    "secondary": null,
+    "tertiary": null,
+    "notes": "008 top-left corner pencil"
+  },
+  "lines": [
+    "Львів, 1605-1606, Берест. 46-47",
+    "щукнѣк дўдѣмъ бок.",
+    "и есмѣ натємъду роднѧтыся п(о)хожємъ.",
+    "потшмак дўдѣмъ, и ѣбѣмъ єго п(а)н;",
+    "ємѣ сўзга порѣдўєтъ на во(д)ородѣнѣмъ,"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Берест. 46-47"
+  },
+  "notes": "Image shows text upside down. Handwriting is cursive and some characters difficult to definitively identify. The orthography shows mixed є/е usage typical of 1605-1606 polemical texts. Some abbreviations may be present but hard to confirm due to handwriting style."
+}

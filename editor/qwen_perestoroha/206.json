@@ -1,0 +1,19 @@
+{
+  "filename": "206.jpeg",
+  "card_numbers": {
+    "primary": "206",
+    "secondary": "176",
+    "tertiary": null,
+    "notes": "206 top-right ink, 176 bottom-left pencil"
+  },
+  "lines": [
+    "негаі ме cost и Никодіма зьом.",
+    "Львів, 1605-1606, Стопем. 40."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Стопем. 40."
+  },
+  "notes": "First line handwriting is challenging - 'негаі ме cost и Никодіма зьом' may need verification. The 'cost' portion appears unusual; could be a ligature or abbreviated form. 'Никодіма' is genitive of Никодим. 'зьом' possibly abbreviated."
+}

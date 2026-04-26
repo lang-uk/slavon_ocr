@@ -1,0 +1,22 @@
+{
+  "filename": "204.jpeg",
+  "card_numbers": {
+    "primary": "15",
+    "secondary": null,
+    "tertiary": "175",
+    "notes": "15 top-left pencil, 175 bottom-right corner pencil"
+  },
+  "lines": [
+    "А кды докончилъ широке ловы, от-",
+    "ступил троха, а кроль собвалъ",
+    "близше к собѣ сенаторовъ для",
+    "намовы отказу.",
+    "Львiv, 1605-1606, Берест.40"
+  ],
+  "source": {
+    "city": "Львiv",
+    "date": "1605-1606",
+    "reference": "Берест.40"
+  },
+  "notes": "Orthography appears to be early Ukrainian rather than deep Church Slavonic. Some letters are difficult to read due to handwriting style: 'кды' (likely 'егда'), 'кроль' (кроль/король), 'собвалъ' (созвалъ), 'близше' (близшїе or similar), 'намовы' (намовы/намовы)."
+}

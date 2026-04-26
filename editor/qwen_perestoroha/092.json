@@ -1,0 +1,13 @@
+{
+  "filename": "092.jpeg",
+  "card_numbers": {
+    "primary": null,
+    "secondary": null,
+    "tertiary": null,
+    "notes": ""
+  },
+  "lines": null,
+  "source": null,
+  "notes": "Image severely overexposed; only scattered artifacts visible, no readable text present",
+  "error_type": "blank"
+}

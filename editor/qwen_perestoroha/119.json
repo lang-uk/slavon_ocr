@@ -1,0 +1,19 @@
+{
+  "filename": "119.jpeg",
+  "card_numbers": {
+    "primary": "9",
+    "secondary": null,
+    "tertiary": "96",
+    "notes": "9 top-left ink, 96 bottom-right ink"
+  },
+  "lines": [
+    "В тамъ якая неволя, сам осуди.",
+    "Львів, 1605-1606, Берест. 32"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Берест. 32"
+  },
+  "notes": ""
+}

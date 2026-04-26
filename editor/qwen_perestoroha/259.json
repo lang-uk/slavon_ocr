@@ -1,0 +1,20 @@
+{
+  "filename": "259.jpeg",
+  "card_numbers": {
+    "primary": null,
+    "secondary": null,
+    "tertiary": null,
+    "notes": ""
+  },
+  "lines": [
+    "...просимо тебе сякую и милосердь...",
+    "и помилуй насдо пересовики...",
+    "Адвіѣ, 1605-1606, Львомъ ѡ..."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Львомъ ѡ..."
+  },
+  "notes": "Card is upside-down in image. Some words difficult to read: line 1 'милосердь' possibly incomplete; line 2 'насдо' may be 'насъ до' or similar; line 3 'Адвіѣ' possibly 'Адвіс' or place name, 'Львомъ' possibly 'Львом' without hard sign, 'ѡ' possibly abbreviated. Source reference incomplete."
+}

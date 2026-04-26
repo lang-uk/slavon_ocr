@@ -1,0 +1,23 @@
+{
+  "filename": "363.jpeg",
+  "card_numbers": {
+    "primary": "15",
+    "secondary": "310",
+    "tertiary": null,
+    "notes": "15 top-left pencil, 310 bottom-right pencil"
+  },
+  "lines": [
+    "Кождый свое брємя понесет. И",
+    "ангеловъ и апостоловъ и святыхъ",
+    "злыхъ Богъ не щадитъ, коро((но))ваныхъ",
+    "вельможныхъ становъ злитуетъ",
+    "подъ ноги.",
+    "Львів, 1605-1606, Берест. 47"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Берест. 47"
+  },
+  "notes": "Line 3: 'короно' crossed out and rewritten as 'коро((но))ваныхъ'; Line 4: 'злитуетъ' may be a variant form; Line 6: 'Львів' uses є"
+}

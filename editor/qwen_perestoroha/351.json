@@ -1,0 +1,23 @@
+{
+  "filename": "351.jpeg",
+  "card_numbers": {
+    "primary": "61",
+    "secondary": null,
+    "tertiary": null,
+    "notes": "61 bottom-right corner ink, 1987 top-left pencil"
+  },
+  "lines": [
+    "Єдица церьковна единости, а не дѣтъ,",
+    "о которой сам христе молится отцу,",
+    "и едины рай, и едию послушенство в",
+    "церкви, яко драгоцѣн в раю злато́во-",
+    "но.",
+    "Львів, 1605-1606, Лерент. 46."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Лерент. 46."
+  },
+  "notes": "Card image appears upside-down. Transcribed from correct orientation. Third line: 'едию' appears to be written (possibly variant of 'едино' or abbreviation). Fifth line shows 'злато' with combining acute on о (злато́), word split across lines as 'злато́во-' on line 4 and 'но.' on line 5."
+}

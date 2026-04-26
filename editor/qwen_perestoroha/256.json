@@ -1,0 +1,22 @@
+{
+  "filename": "256.jpeg",
+  "card_numbers": {
+    "primary": "217",
+    "secondary": null,
+    "tertiary": null,
+    "notes": "217 top-left faint pencil"
+  },
+  "lines": [
+    "Ла што ии ом владофржных єдун",
+    "з драмєнда ъродского откыдать",
+    "и мие сyдоба, ако са бышъ брата",
+    "маеуь гавєи о малу.",
+    "Львів, 1605-1606, Льревем. 42"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Льревем. 42"
+  },
+  "notes": "Image is upside down. Some characters uncertain: 'ии' may be 'имъ', 'владофржных' unclear, 'сyдоба' uses straight u, 'маеуь' uncertain ending"
+}

@@ -1,0 +1,22 @@
+{
+  "filename": "171.jpeg",
+  "card_numbers": {
+    "primary": "15",
+    "secondary": "141",
+    "tertiary": null,
+    "notes": "15 top-left pencil, 141 bottom-right pencil"
+  },
+  "lines": [
+    "А в том часе наступилъ сеймъ у",
+    "Варшавѣ, на который воевода кїевъ-",
+    "скай з великою потужностю прїє-",
+    "халъ.",
+    "Львів, 1605 - 1606, Берест. 37."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605 - 1606",
+    "reference": "Берест. 37."
+  },
+  "notes": ""
+}

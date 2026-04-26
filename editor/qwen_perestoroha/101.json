@@ -1,0 +1,20 @@
+{
+  "filename": "101.jpeg",
+  "card_numbers": {
+    "primary": "9",
+    "secondary": null,
+    "tertiary": "81",
+    "notes": "9 top-left pencil, 81 bottom-right pencil"
+  },
+  "lines": [
+    "Прииспѣлъ часъ потомъ до открѝ-",
+    "тя нечєстїя и отступлєнїя.",
+    "Львів, 1605-1606, Перест. 30"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 30"
+  },
+  "notes": ""
+}

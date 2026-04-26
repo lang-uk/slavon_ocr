@@ -1,0 +1,22 @@
+{
+  "filename": "338.jpeg",
+  "card_numbers": {
+    "primary": "17",
+    "secondary": "287",
+    "tertiary": "287",
+    "notes": "17 top-left pencil, 287 top-right ink, 287 bottom-right pencil"
+  },
+  "lines": [
+    "Епископъ или правильная законы храни",
+    "или от льста отступи, мовит свя-",
+    "тый Златоустый: очи слабыи и члн-",
+    "ки гнилые здоровым завдада.",
+    "Львів, 1605-1606, Перест. 46."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 46."
+  },
+  "notes": "Line 3: 'члн' appears incomplete, likely 'члони' (members) with hyphenation continuing to line 4. 'Златоустый' refers to John Chrysostom. Text from 'Пересторога' polemical work."
+}

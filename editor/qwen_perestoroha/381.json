@@ -1,0 +1,20 @@
+{
+  "filename": "381.jpeg",
+  "card_numbers": {
+    "primary": "16",
+    "secondary": "328",
+    "tertiary": null,
+    "notes": "16 top-left, 328 bottom-right"
+  },
+  "lines": [
+    "Таковъ естъ пропись божіѵ с початку",
+    "свѣта о человеческом родѣ нашемъ",
+    "львів, 1605-1606, Пересм. 48"
+  ],
+  "source": {
+    "city": "львів",
+    "date": "1605-1606",
+    "reference": "Пересм. 48"
+  },
+  "notes": ""
+}

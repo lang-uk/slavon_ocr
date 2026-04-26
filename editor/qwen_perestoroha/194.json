@@ -1,0 +1,21 @@
+{
+  "filename": "194.jpeg",
+  "card_numbers": {
+    "primary": "15",
+    "secondary": "165",
+    "tertiary": null,
+    "notes": "15 top-left pencil, 165 bottom-right pencil"
+  },
+  "lines": [
+    "За чимъ пан воєвода якъ жалосный",
+    "чинилъ широкую и досытє жалос-",
+    "ную мову до короля,",
+    "Львів, 1605-1606, Берест. 39."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Берест. 39."
+  },
+  "notes": ""
+}

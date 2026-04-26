@@ -1,0 +1,13 @@
+{
+  "filename": "148.jpeg",
+  "card_numbers": {
+    "primary": null,
+    "secondary": null,
+    "tertiary": null,
+    "notes": ""
+  },
+  "lines": null,
+  "source": null,
+  "notes": "Card appears blank with only faint smudges or artifacts; no readable text visible",
+  "error_type": "blank"
+}

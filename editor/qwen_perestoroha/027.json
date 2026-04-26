@@ -1,0 +1,21 @@
+{
+  "filename": "027.jpeg",
+  "card_numbers": {
+    "primary": "13",
+    "secondary": null,
+    "tertiary": "25",
+    "notes": "13 top-left pencil, 25 bottom-right pencil"
+  },
+  "lines": [
+    "... книги тыє, що єще їх позастало,",
+    "порохом припали и все наботен-",
+    "ство пришло ку взгордь...",
+    "Львív, 1605-1606, Перест. 26"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 26"
+  },
+  "notes": ""
+}

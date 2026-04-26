@@ -1,0 +1,24 @@
+{
+  "filename": "310.jpeg",
+  "card_numbers": {
+    "primary": "996",
+    "secondary": "81",
+    "tertiary": "266",
+    "notes": "996 top-left pencil, 81 bottom-right pencil, 266 left margin ink"
+  },
+  "lines": [
+    "А што єсмє подурковави много кєн-",
+    "266",
+    "- нєє, умалївшї єсє цїла, явь ки-",
+    "- ми нє творимъ о сє мїцєм, лавон",
+    "- колодну и проляту, якошъ: хто прє-",
+    "муже дос мїєм,",
+    "Ісаїї, 1605-1606, Берест. 45."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Берест. 45."
+  },
+  "notes": "Card is upside-down in image. Some characters uncertain: line 5 'мїцєм' may be 'мїцем'; line 6 'мїєм' uncertain reading."
+}

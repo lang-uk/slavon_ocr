@@ -1,0 +1,21 @@
+{
+  "filename": "030.jpeg",
+  "card_numbers": {
+    "primary": "26",
+    "secondary": "24",
+    "tertiary": null,
+    "notes": "26 top-left ink (matches reference), 24 bottom-right"
+  },
+  "lines": [
+    "А в тых часех тиж панство",
+    "кореекое в свѣткое пришло, в ру-",
+    "ки сарацинскиє, за грѣхи христи-",
+    "анскиє."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 26."
+  },
+  "notes": ""
+}

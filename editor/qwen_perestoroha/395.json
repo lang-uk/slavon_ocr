@@ -1,0 +1,22 @@
+{
+  "filename": "395.jpeg",
+  "card_numbers": {
+    "primary": "the",
+    "secondary": null,
+    "tertiary": null,
+    "notes": "the top-left ink"
+  },
+  "lines": [
+    "Ане єже находит и иглаие омужнєет",
+    "и ермикачи он едасми черковное go",
+    "погнїбрали go Батый, сакъ ищаголе go-",
+    "cadapci npea османнєго нашѣло дє-",
+    "єто. Аѳiс, 1605 - 1606, Степен. 419"
+  ],
+  "source": {
+    "city": "Аѳiс",
+    "date": "1605 - 1606",
+    "reference": "Степен. 419"
+  },
+  "notes": "Card is rotated in image (text appears upside-down). Orthography shows mixed forms: є in first line (єже, черковное, османнєго), but е in later parts (ермикачи, едасми, дє, єто). Reference indicates Stepennik (Staged Book) chronicle. Some characters difficult to read with certainty (e.g., иглаие, едасми, go appears multiple times as possible abbreviation or scribal mark). Line breaks may not align perfectly with original source."
+}

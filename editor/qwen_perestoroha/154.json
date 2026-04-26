@@ -1,0 +1,21 @@
+{
+  "filename": "154.jpeg",
+  "card_numbers": {
+    "primary": "15",
+    "secondary": null,
+    "tertiary": "125",
+    "notes": "15 top-left pencil, 125 bottom-right pencil"
+  },
+  "lines": [
+    "а братство множилось, школа",
+    "росла, людей з неї учених, ║ оних",
+    "казнодївъ мудрых выходит.",
+    "Львів, 1605-1606, Перест. 35-36"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 35-36"
+  },
+  "notes": ""
+}

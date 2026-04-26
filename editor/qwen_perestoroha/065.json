@@ -1,0 +1,22 @@
+{
+  "filename": "065.jpeg",
+  "card_numbers": {
+    "primary": "61",
+    "secondary": "21",
+    "tertiary": null,
+    "notes": "61 top-left pencil, 21 bottom-right ink"
+  },
+  "lines": [
+    "〈патріархе … мещика в заносмо.〉",
+    "це мещикови, то, що напоказало",
+    "намекає на добровну, і будья сьвє",
+    "промовчаті.",
+    "Львів, 1605 - 1606, Берест. 25."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Берест. 25."
+  },
+  "notes": "Card is upside down in image. Second line: 'що напоказало' - unclear if 'напоказало' is correct reading. Third line: 'намекає на добровну' - 'добровну' may be 'доброї' or similar; 'сьвє' could be 'своє' or 'святе'. Last character of line 3 uncertain."
+}

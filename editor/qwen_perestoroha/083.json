@@ -1,0 +1,20 @@
+{
+  "filename": "083.jpeg",
+  "card_numbers": {
+    "primary": "10",
+    "secondary": "68",
+    "tertiary": null,
+    "notes": "10 top-left pencil, 68 bottom-right pencil"
+  },
+  "lines": [
+    "Кирилл, взявши твое собѣ на памѧть,",
+    "прошинилъ, якобы ся того довѣдати.",
+    "Львов, 1605-1606, Перест. 30"
+  ],
+  "source": {
+    "city": "Львов",
+    "date": "1605-1606",
+    "reference": "Перест. 30"
+  },
+  "notes": ""
+}

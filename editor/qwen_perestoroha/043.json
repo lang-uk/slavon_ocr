@@ -1,0 +1,20 @@
+{
+  "filename": "043.jpeg",
+  "card_numbers": {
+    "primary": null,
+    "secondary": null,
+    "tertiary": "38",
+    "notes": "38 bottom-right corner (faint)"
+  },
+  "lines": [
+    "За чим православіє наше почало",
+    "было просіавати, яко сонце.",
+    "Львів, 1605-1606, Перест.27."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест.27"
+  },
+  "notes": ""
+}

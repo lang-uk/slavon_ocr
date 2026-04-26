@@ -1,0 +1,1494 @@
+{
+  "run_id": "prod_all152",
+  "prompt": "perestoroha_ocr_preset",
+  "source_folder": "Auto-Color0002_oriented",
+  "n_cards": 152,
+  "n_scored": 152,
+  "n_failed_to_produce_output": 0,
+  "total_ref_chars": 21635,
+  "total_errors": 901,
+  "micro_cer_flat": 0.0416454818581003,
+  "per_card": [
+    {
+      "key": "Auto-Color0002/179.jpeg",
+      "cer_flat": 0.1592356687898089,
+      "errors": 50,
+      "ref_chars": 314,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/118.jpeg",
+      "cer_flat": 0.14285714285714285,
+      "errors": 4,
+      "ref_chars": 28,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/005.jpeg",
+      "cer_flat": 0.10909090909090909,
+      "errors": 24,
+      "ref_chars": 220,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/151.jpeg",
+      "cer_flat": 0.10726643598615918,
+      "errors": 31,
+      "ref_chars": 289,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/025.jpeg",
+      "cer_flat": 0.10546875,
+      "errors": 27,
+      "ref_chars": 256,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/035.jpeg",
+      "cer_flat": 0.1,
+      "errors": 22,
+      "ref_chars": 220,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/032.jpeg",
+      "cer_flat": 0.09016393442622951,
+      "errors": 11,
+      "ref_chars": 122,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/034.jpeg",
+      "cer_flat": 0.08383233532934131,
+      "errors": 14,
+      "ref_chars": 167,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/124.jpeg",
+      "cer_flat": 0.08275862068965517,
+      "errors": 12,
+      "ref_chars": 145,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/058.jpeg",
+      "cer_flat": 0.08239700374531835,
+      "errors": 22,
+      "ref_chars": 267,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/010.jpeg",
+      "cer_flat": 0.0738255033557047,
+      "errors": 22,
+      "ref_chars": 298,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/076.jpeg",
+      "cer_flat": 0.07317073170731707,
+      "errors": 18,
+      "ref_chars": 246,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/121.jpeg",
+      "cer_flat": 0.07236842105263158,
+      "errors": 11,
+      "ref_chars": 152,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/088.jpeg",
+      "cer_flat": 0.07079646017699115,
+      "errors": 8,
+      "ref_chars": 113,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/011.jpeg",
+      "cer_flat": 0.07024793388429752,
+      "errors": 17,
+      "ref_chars": 242,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/113.jpeg",
+      "cer_flat": 0.06763285024154589,
+      "errors": 14,
+      "ref_chars": 207,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/153.jpeg",
+      "cer_flat": 0.06741573033707865,
+      "errors": 6,
+      "ref_chars": 89,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/172.jpeg",
+      "cer_flat": 0.06493506493506493,
+      "errors": 10,
+      "ref_chars": 154,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/051.jpeg",
+      "cer_flat": 0.061946902654867256,
+      "errors": 7,
+      "ref_chars": 113,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/085.jpeg",
+      "cer_flat": 0.06,
+      "errors": 3,
+      "ref_chars": 50,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/138.jpeg",
+      "cer_flat": 0.06,
+      "errors": 3,
+      "ref_chars": 50,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/006.jpeg",
+      "cer_flat": 0.058823529411764705,
+      "errors": 14,
+      "ref_chars": 238,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/173.jpeg",
+      "cer_flat": 0.058823529411764705,
+      "errors": 6,
+      "ref_chars": 102,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/174.jpeg",
+      "cer_flat": 0.05714285714285714,
+      "errors": 8,
+      "ref_chars": 140,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/044.jpeg",
+      "cer_flat": 0.056910569105691054,
+      "errors": 7,
+      "ref_chars": 123,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/130.jpeg",
+      "cer_flat": 0.05555555555555555,
+      "errors": 3,
+      "ref_chars": 54,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/082.jpeg",
+      "cer_flat": 0.05521472392638037,
+      "errors": 9,
+      "ref_chars": 163,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/052.jpeg",
+      "cer_flat": 0.054945054945054944,
+      "errors": 5,
+      "ref_chars": 91,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/056.jpeg",
+      "cer_flat": 0.05454545454545454,
+      "errors": 12,
+      "ref_chars": 220,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/031.jpeg",
+      "cer_flat": 0.053691275167785234,
+      "errors": 8,
+      "ref_chars": 149,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/116.jpeg",
+      "cer_flat": 0.05343511450381679,
+      "errors": 7,
+      "ref_chars": 131,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/017.jpeg",
+      "cer_flat": 0.05333333333333334,
+      "errors": 8,
+      "ref_chars": 150,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/064.jpeg",
+      "cer_flat": 0.05327868852459016,
+      "errors": 13,
+      "ref_chars": 244,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/114.jpeg",
+      "cer_flat": 0.05309734513274336,
+      "errors": 6,
+      "ref_chars": 113,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/097.jpeg",
+      "cer_flat": 0.05263157894736842,
+      "errors": 5,
+      "ref_chars": 95,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/037.jpeg",
+      "cer_flat": 0.05172413793103448,
+      "errors": 3,
+      "ref_chars": 58,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/003.jpeg",
+      "cer_flat": 0.05154639175257732,
+      "errors": 5,
+      "ref_chars": 97,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/145.jpeg",
+      "cer_flat": 0.05128205128205128,
+      "errors": 4,
+      "ref_chars": 78,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/140.jpeg",
+      "cer_flat": 0.05084745762711865,
+      "errors": 3,
+      "ref_chars": 59,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/067.jpeg",
+      "cer_flat": 0.05084745762711865,
+      "errors": 9,
+      "ref_chars": 177,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/002.jpeg",
+      "cer_flat": 0.04924242424242424,
+      "errors": 13,
+      "ref_chars": 264,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/047.jpeg",
+      "cer_flat": 0.049107142857142856,
+      "errors": 11,
+      "ref_chars": 224,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/080.jpeg",
+      "cer_flat": 0.049019607843137254,
+      "errors": 5,
+      "ref_chars": 102,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/180.jpeg",
+      "cer_flat": 0.04838709677419355,
+      "errors": 12,
+      "ref_chars": 248,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/155.jpeg",
+      "cer_flat": 0.047619047619047616,
+      "errors": 3,
+      "ref_chars": 63,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/008.jpeg",
+      "cer_flat": 0.04672897196261682,
+      "errors": 5,
+      "ref_chars": 107,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/111.jpeg",
+      "cer_flat": 0.046153846153846156,
+      "errors": 12,
+      "ref_chars": 260,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/127.jpeg",
+      "cer_flat": 0.045871559633027525,
+      "errors": 5,
+      "ref_chars": 109,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/046.jpeg",
+      "cer_flat": 0.04568527918781726,
+      "errors": 9,
+      "ref_chars": 197,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/093.jpeg",
+      "cer_flat": 0.045454545454545456,
+      "errors": 8,
+      "ref_chars": 176,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/004.jpeg",
+      "cer_flat": 0.045454545454545456,
+      "errors": 10,
+      "ref_chars": 220,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/156.jpeg",
+      "cer_flat": 0.04522613065326633,
+      "errors": 9,
+      "ref_chars": 199,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/071.jpeg",
+      "cer_flat": 0.045081967213114756,
+      "errors": 11,
+      "ref_chars": 244,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/014.jpeg",
+      "cer_flat": 0.04504504504504504,
+      "errors": 5,
+      "ref_chars": 111,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/176.jpeg",
+      "cer_flat": 0.04395604395604396,
+      "errors": 8,
+      "ref_chars": 182,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/036.jpeg",
+      "cer_flat": 0.04371584699453552,
+      "errors": 8,
+      "ref_chars": 183,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/062.jpeg",
+      "cer_flat": 0.043478260869565216,
+      "errors": 3,
+      "ref_chars": 69,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/129.jpeg",
+      "cer_flat": 0.043478260869565216,
+      "errors": 5,
+      "ref_chars": 115,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/077.jpeg",
+      "cer_flat": 0.0425531914893617,
+      "errors": 6,
+      "ref_chars": 141,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/162.jpeg",
+      "cer_flat": 0.04201680672268908,
+      "errors": 5,
+      "ref_chars": 119,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/117.jpeg",
+      "cer_flat": 0.04201680672268908,
+      "errors": 5,
+      "ref_chars": 119,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/160.jpeg",
+      "cer_flat": 0.0410958904109589,
+      "errors": 9,
+      "ref_chars": 219,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/159.jpeg",
+      "cer_flat": 0.04,
+      "errors": 5,
+      "ref_chars": 125,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/081.jpeg",
+      "cer_flat": 0.04,
+      "errors": 1,
+      "ref_chars": 25,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/165.jpeg",
+      "cer_flat": 0.03937007874015748,
+      "errors": 5,
+      "ref_chars": 127,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/168.jpeg",
+      "cer_flat": 0.03870967741935484,
+      "errors": 6,
+      "ref_chars": 155,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/139.jpeg",
+      "cer_flat": 0.0379746835443038,
+      "errors": 3,
+      "ref_chars": 79,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/009.jpeg",
+      "cer_flat": 0.03759398496240601,
+      "errors": 5,
+      "ref_chars": 133,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/049.jpeg",
+      "cer_flat": 0.037037037037037035,
+      "errors": 5,
+      "ref_chars": 135,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/039.jpeg",
+      "cer_flat": 0.036036036036036036,
+      "errors": 4,
+      "ref_chars": 111,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/012.jpeg",
+      "cer_flat": 0.03553299492385787,
+      "errors": 7,
+      "ref_chars": 197,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/033.jpeg",
+      "cer_flat": 0.034482758620689655,
+      "errors": 8,
+      "ref_chars": 232,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/154.jpeg",
+      "cer_flat": 0.033707865168539325,
+      "errors": 3,
+      "ref_chars": 89,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/089.jpeg",
+      "cer_flat": 0.03333333333333333,
+      "errors": 1,
+      "ref_chars": 30,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/132.jpeg",
+      "cer_flat": 0.03305785123966942,
+      "errors": 8,
+      "ref_chars": 242,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/109.jpeg",
+      "cer_flat": 0.03260869565217391,
+      "errors": 6,
+      "ref_chars": 184,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/070.jpeg",
+      "cer_flat": 0.03225806451612903,
+      "errors": 8,
+      "ref_chars": 248,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/175.jpeg",
+      "cer_flat": 0.032,
+      "errors": 4,
+      "ref_chars": 125,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/110.jpeg",
+      "cer_flat": 0.032,
+      "errors": 4,
+      "ref_chars": 125,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/079.jpeg",
+      "cer_flat": 0.031496062992125984,
+      "errors": 4,
+      "ref_chars": 127,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/131.jpeg",
+      "cer_flat": 0.030927835051546393,
+      "errors": 3,
+      "ref_chars": 97,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/178.jpeg",
+      "cer_flat": 0.030864197530864196,
+      "errors": 5,
+      "ref_chars": 162,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/026.jpeg",
+      "cer_flat": 0.030303030303030304,
+      "errors": 2,
+      "ref_chars": 66,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/133.jpeg",
+      "cer_flat": 0.030303030303030304,
+      "errors": 4,
+      "ref_chars": 132,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/024.jpeg",
+      "cer_flat": 0.0297029702970297,
+      "errors": 3,
+      "ref_chars": 101,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/104.jpeg",
+      "cer_flat": 0.029411764705882353,
+      "errors": 6,
+      "ref_chars": 204,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/019.jpeg",
+      "cer_flat": 0.02877697841726619,
+      "errors": 4,
+      "ref_chars": 139,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/128.jpeg",
+      "cer_flat": 0.027906976744186046,
+      "errors": 6,
+      "ref_chars": 215,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/126.jpeg",
+      "cer_flat": 0.027649769585253458,
+      "errors": 6,
+      "ref_chars": 217,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/018.jpeg",
+      "cer_flat": 0.0273972602739726,
+      "errors": 6,
+      "ref_chars": 219,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/074.jpeg",
+      "cer_flat": 0.02702702702702703,
+      "errors": 2,
+      "ref_chars": 74,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/095.jpeg",
+      "cer_flat": 0.026845637583892617,
+      "errors": 4,
+      "ref_chars": 149,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/040.jpeg",
+      "cer_flat": 0.02666666666666667,
+      "errors": 4,
+      "ref_chars": 150,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/087.jpeg",
+      "cer_flat": 0.025974025974025976,
+      "errors": 6,
+      "ref_chars": 231,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/134.jpeg",
+      "cer_flat": 0.02586206896551724,
+      "errors": 6,
+      "ref_chars": 232,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/135.jpeg",
+      "cer_flat": 0.02564102564102564,
+      "errors": 1,
+      "ref_chars": 39,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/091.jpeg",
+      "cer_flat": 0.02553191489361702,
+      "errors": 6,
+      "ref_chars": 235,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/177.jpeg",
+      "cer_flat": 0.02531645569620253,
+      "errors": 2,
+      "ref_chars": 79,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/158.jpeg",
+      "cer_flat": 0.025157232704402517,
+      "errors": 4,
+      "ref_chars": 159,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/055.jpeg",
+      "cer_flat": 0.024390243902439025,
+      "errors": 6,
+      "ref_chars": 246,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/073.jpeg",
+      "cer_flat": 0.024,
+      "errors": 3,
+      "ref_chars": 125,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/170.jpeg",
+      "cer_flat": 0.023809523809523808,
+      "errors": 1,
+      "ref_chars": 42,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/060.jpeg",
+      "cer_flat": 0.023622047244094488,
+      "errors": 3,
+      "ref_chars": 127,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/016.jpeg",
+      "cer_flat": 0.023255813953488372,
+      "errors": 2,
+      "ref_chars": 86,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/022.jpeg",
+      "cer_flat": 0.022641509433962263,
+      "errors": 6,
+      "ref_chars": 265,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/045.jpeg",
+      "cer_flat": 0.02247191011235955,
+      "errors": 2,
+      "ref_chars": 89,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/020.jpeg",
+      "cer_flat": 0.02247191011235955,
+      "errors": 4,
+      "ref_chars": 178,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/013.jpeg",
+      "cer_flat": 0.02197802197802198,
+      "errors": 4,
+      "ref_chars": 182,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/100.jpeg",
+      "cer_flat": 0.0213903743315508,
+      "errors": 4,
+      "ref_chars": 187,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/001.jpeg",
+      "cer_flat": 0.02120141342756184,
+      "errors": 6,
+      "ref_chars": 283,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/015.jpeg",
+      "cer_flat": 0.021164021164021163,
+      "errors": 4,
+      "ref_chars": 189,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/069.jpeg",
+      "cer_flat": 0.021052631578947368,
+      "errors": 2,
+      "ref_chars": 95,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/164.jpeg",
+      "cer_flat": 0.020833333333333332,
+      "errors": 3,
+      "ref_chars": 144,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/163.jpeg",
+      "cer_flat": 0.0205761316872428,
+      "errors": 5,
+      "ref_chars": 243,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/030.jpeg",
+      "cer_flat": 0.020202020202020204,
+      "errors": 2,
+      "ref_chars": 99,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/023.jpeg",
+      "cer_flat": 0.01984126984126984,
+      "errors": 5,
+      "ref_chars": 252,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/112.jpeg",
+      "cer_flat": 0.019762845849802372,
+      "errors": 5,
+      "ref_chars": 253,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/125.jpeg",
+      "cer_flat": 0.018867924528301886,
+      "errors": 1,
+      "ref_chars": 53,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/065.jpeg",
+      "cer_flat": 0.018518518518518517,
+      "errors": 2,
+      "ref_chars": 108,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/041.jpeg",
+      "cer_flat": 0.017857142857142856,
+      "errors": 2,
+      "ref_chars": 112,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/136.jpeg",
+      "cer_flat": 0.01639344262295082,
+      "errors": 3,
+      "ref_chars": 183,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/147.jpeg",
+      "cer_flat": 0.016,
+      "errors": 2,
+      "ref_chars": 125,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/057.jpeg",
+      "cer_flat": 0.015789473684210527,
+      "errors": 3,
+      "ref_chars": 190,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/144.jpeg",
+      "cer_flat": 0.015625,
+      "errors": 1,
+      "ref_chars": 64,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/161.jpeg",
+      "cer_flat": 0.015151515151515152,
+      "errors": 2,
+      "ref_chars": 132,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/149.jpeg",
+      "cer_flat": 0.015151515151515152,
+      "errors": 2,
+      "ref_chars": 132,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/099.jpeg",
+      "cer_flat": 0.013605442176870748,
+      "errors": 2,
+      "ref_chars": 147,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/103.jpeg",
+      "cer_flat": 0.01282051282051282,
+      "errors": 2,
+      "ref_chars": 156,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/106.jpeg",
+      "cer_flat": 0.011627906976744186,
+      "errors": 1,
+      "ref_chars": 86,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/027.jpeg",
+      "cer_flat": 0.011494252873563218,
+      "errors": 1,
+      "ref_chars": 87,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/181.jpeg",
+      "cer_flat": 0.01098901098901099,
+      "errors": 1,
+      "ref_chars": 91,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/102.jpeg",
+      "cer_flat": 0.00980392156862745,
+      "errors": 1,
+      "ref_chars": 102,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/123.jpeg",
+      "cer_flat": 0.008849557522123894,
+      "errors": 1,
+      "ref_chars": 113,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/143.jpeg",
+      "cer_flat": 0.008849557522123894,
+      "errors": 1,
+      "ref_chars": 113,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/086.jpeg",
+      "cer_flat": 0.0072992700729927005,
+      "errors": 1,
+      "ref_chars": 137,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/166.jpeg",
+      "cer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 51,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/007.jpeg",
+      "cer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 81,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/083.jpeg",
+      "cer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 70,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/122.jpeg",
+      "cer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 35,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/107.jpeg",
+      "cer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 45,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/075.jpeg",
+      "cer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 93,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/157.jpeg",
+      "cer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 84,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/053.jpeg",
+      "cer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 46,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/169.jpeg",
+      "cer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 139,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/171.jpeg",
+      "cer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 103,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/120.jpeg",
+      "cer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 78,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/142.jpeg",
+      "cer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 86,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/029.jpeg",
+      "cer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 58,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/043.jpeg",
+      "cer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 59,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/084.jpeg",
+      "cer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 22,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/101.jpeg",
+      "cer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 55,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/119.jpeg",
+      "cer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 30,
+      "status": "scored"
+    }
+  ],
+  "top_substitutions": [
+    {
+      "ref": "є",
+      "hyp": "е",
+      "count": 109,
+      "ref_cp": "U+0454",
+      "hyp_cp": "U+0435"
+    },
+    {
+      "ref": "е",
+      "hyp": "є",
+      "count": 55,
+      "ref_cp": "U+0435",
+      "hyp_cp": "U+0454"
+    },
+    {
+      "ref": "ү",
+      "hyp": "у",
+      "count": 27,
+      "ref_cp": "U+04AF",
+      "hyp_cp": "U+0443"
+    },
+    {
+      "ref": "і",
+      "hyp": "и",
+      "count": 25,
+      "ref_cp": "U+0456",
+      "hyp_cp": "U+0438"
+    },
+    {
+      "ref": "е",
+      "hyp": "ѣ",
+      "count": 22,
+      "ref_cp": "U+0435",
+      "hyp_cp": "U+0463"
+    },
+    {
+      "ref": "ъ",
+      "hyp": "ь",
+      "count": 15,
+      "ref_cp": "U+044A",
+      "hyp_cp": "U+044C"
+    },
+    {
+      "ref": "и",
+      "hyp": "ы",
+      "count": 9,
+      "ref_cp": "U+0438",
+      "hyp_cp": "U+044B"
+    },
+    {
+      "ref": "а",
+      "hyp": "о",
+      "count": 7,
+      "ref_cp": "U+0430",
+      "hyp_cp": "U+043E"
+    },
+    {
+      "ref": "є",
+      "hyp": "ѣ",
+      "count": 6,
+      "ref_cp": "U+0454",
+      "hyp_cp": "U+0463"
+    },
+    {
+      "ref": "‹",
+      "hyp": "⟨",
+      "count": 6,
+      "ref_cp": "U+2039",
+      "hyp_cp": "U+27E8"
+    },
+    {
+      "ref": "›",
+      "hyp": "⟩",
+      "count": 6,
+      "ref_cp": "U+203A",
+      "hyp_cp": "U+27E9"
+    },
+    {
+      "ref": "и",
+      "hyp": "і",
+      "count": 5,
+      "ref_cp": "U+0438",
+      "hyp_cp": "U+0456"
+    },
+    {
+      "ref": ".",
+      "hyp": "…",
+      "count": 5,
+      "ref_cp": "U+002E",
+      "hyp_cp": "U+2026"
+    },
+    {
+      "ref": "и",
+      "hyp": "ѣ",
+      "count": 5,
+      "ref_cp": "U+0438",
+      "hyp_cp": "U+0463"
+    },
+    {
+      "ref": "о",
+      "hyp": "а",
+      "count": 5,
+      "ref_cp": "U+043E",
+      "hyp_cp": "U+0430"
+    },
+    {
+      "ref": "и",
+      "hyp": "й",
+      "count": 5,
+      "ref_cp": "U+0438",
+      "hyp_cp": "U+0439"
+    },
+    {
+      "ref": "(",
+      "hyp": "⟨",
+      "count": 4,
+      "ref_cp": "U+0028",
+      "hyp_cp": "U+27E8"
+    },
+    {
+      "ref": ")",
+      "hyp": "⟩",
+      "count": 4,
+      "ref_cp": "U+0029",
+      "hyp_cp": "U+27E9"
+    },
+    {
+      "ref": "о",
+      "hyp": "е",
+      "count": 4,
+      "ref_cp": "U+043E",
+      "hyp_cp": "U+0435"
+    },
+    {
+      "ref": "ы",
+      "hyp": "и",
+      "count": 4,
+      "ref_cp": "U+044B",
+      "hyp_cp": "U+0438"
+    },
+    {
+      "ref": "а",
+      "hyp": "я",
+      "count": 4,
+      "ref_cp": "U+0430",
+      "hyp_cp": "U+044F"
+    },
+    {
+      "ref": "л",
+      "hyp": "м",
+      "count": 4,
+      "ref_cp": "U+043B",
+      "hyp_cp": "U+043C"
+    },
+    {
+      "ref": ",",
+      "hyp": ";",
+      "count": 3,
+      "ref_cp": "U+002C",
+      "hyp_cp": "U+003B"
+    },
+    {
+      "ref": "и",
+      "hyp": "м",
+      "count": 3,
+      "ref_cp": "U+0438",
+      "hyp_cp": "U+043C"
+    },
+    {
+      "ref": "с",
+      "hyp": "к",
+      "count": 3,
+      "ref_cp": "U+0441",
+      "hyp_cp": "U+043A"
+    },
+    {
+      "ref": "ѣ",
+      "hyp": "е",
+      "count": 3,
+      "ref_cp": "U+0463",
+      "hyp_cp": "U+0435"
+    },
+    {
+      "ref": "п",
+      "hyp": "т",
+      "count": 3,
+      "ref_cp": "U+043F",
+      "hyp_cp": "U+0442"
+    },
+    {
+      "ref": "я",
+      "hyp": "ѣ",
+      "count": 3,
+      "ref_cp": "U+044F",
+      "hyp_cp": "U+0463"
+    },
+    {
+      "ref": "а",
+      "hyp": "и",
+      "count": 3,
+      "ref_cp": "U+0430",
+      "hyp_cp": "U+0438"
+    },
+    {
+      "ref": "м",
+      "hyp": "л",
+      "count": 3,
+      "ref_cp": "U+043C",
+      "hyp_cp": "U+043B"
+    }
+  ],
+  "top_insertions": [
+    {
+      "char": "ъ",
+      "count": 125,
+      "cp": "U+044A"
+    },
+    {
+      "char": " ",
+      "count": 27,
+      "cp": "U+0020"
+    },
+    {
+      "char": "ь",
+      "count": 5,
+      "cp": "U+044C"
+    },
+    {
+      "char": "с",
+      "count": 4,
+      "cp": "U+0441"
+    },
+    {
+      "char": "и",
+      "count": 4,
+      "cp": "U+0438"
+    },
+    {
+      "char": "о",
+      "count": 3,
+      "cp": "U+043E"
+    },
+    {
+      "char": "м",
+      "count": 3,
+      "cp": "U+043C"
+    },
+    {
+      "char": "в",
+      "count": 3,
+      "cp": "U+0432"
+    },
+    {
+      "char": "й",
+      "count": 3,
+      "cp": "U+0439"
+    },
+    {
+      "char": "г",
+      "count": 2,
+      "cp": "U+0433"
+    },
+    {
+      "char": "л",
+      "count": 2,
+      "cp": "U+043B"
+    },
+    {
+      "char": "т",
+      "count": 1,
+      "cp": "U+0442"
+    },
+    {
+      "char": "е",
+      "count": 1,
+      "cp": "U+0435"
+    },
+    {
+      "char": "ш",
+      "count": 1,
+      "cp": "U+0448"
+    },
+    {
+      "char": "ы",
+      "count": 1,
+      "cp": "U+044B"
+    },
+    {
+      "char": "ж",
+      "count": 1,
+      "cp": "U+0436"
+    },
+    {
+      "char": "я",
+      "count": 1,
+      "cp": "U+044F"
+    },
+    {
+      "char": ".",
+      "count": 1,
+      "cp": "U+002E"
+    },
+    {
+      "char": "ю",
+      "count": 1,
+      "cp": "U+044E"
+    },
+    {
+      "char": ",",
+      "count": 1,
+      "cp": "U+002C"
+    }
+  ],
+  "top_deletions": [
+    {
+      "char": "ъ",
+      "count": 37,
+      "cp": "U+044A"
+    },
+    {
+      "char": " ",
+      "count": 29,
+      "cp": "U+0020"
+    },
+    {
+      "char": "ь",
+      "count": 10,
+      "cp": "U+044C"
+    },
+    {
+      "char": "г",
+      "count": 6,
+      "cp": "U+0433"
+    },
+    {
+      "char": "л",
+      "count": 6,
+      "cp": "U+043B"
+    },
+    {
+      "char": "ѣ",
+      "count": 6,
+      "cp": "U+0463"
+    },
+    {
+      "char": "е",
+      "count": 6,
+      "cp": "U+0435"
+    },
+    {
+      "char": "н",
+      "count": 5,
+      "cp": "U+043D"
+    },
+    {
+      "char": "з",
+      "count": 4,
+      "cp": "U+0437"
+    },
+    {
+      "char": "є",
+      "count": 4,
+      "cp": "U+0454"
+    },
+    {
+      "char": "с",
+      "count": 4,
+      "cp": "U+0441"
+    },
+    {
+      "char": "в",
+      "count": 4,
+      "cp": "U+0432"
+    },
+    {
+      "char": "к",
+      "count": 4,
+      "cp": "U+043A"
+    },
+    {
+      "char": "ы",
+      "count": 3,
+      "cp": "U+044B"
+    },
+    {
+      "char": "о",
+      "count": 3,
+      "cp": "U+043E"
+    },
+    {
+      "char": ".",
+      "count": 2,
+      "cp": "U+002E"
+    },
+    {
+      "char": "║",
+      "count": 2,
+      "cp": "U+2551"
+    },
+    {
+      "char": ",",
+      "count": 2,
+      "cp": "U+002C"
+    },
+    {
+      "char": "ч",
+      "count": 2,
+      "cp": "U+0447"
+    },
+    {
+      "char": "а",
+      "count": 2,
+      "cp": "U+0430"
+    }
+  ],
+  "failures": []
+}

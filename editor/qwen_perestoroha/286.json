@@ -1,0 +1,21 @@
+{
+  "filename": "286.jpeg",
+  "card_numbers": {
+    "primary": "45",
+    "secondary": "245",
+    "tertiary": "245",
+    "notes": "45 top-left pencil (faint), 245 top-right ink, 245 bottom-right corner faint pencil"
+  },
+  "lines": [
+    "и тут неправду явне познати: єсли",
+    "бы нагле умеръ, якобы тестамеить",
+    "писати мбглъ и моглъ?",
+    "Львів, 1605-1606, Берест. 44."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Берест. 44."
+  },
+  "notes": "Line 2: тестамеить appears to be a scholarly abbreviation or miswriting for тестамєнтъ (testament). Line 3: мбглъ appears to be an abbreviation or variant for могъ."
+}

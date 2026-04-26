@@ -1,0 +1,22 @@
+{
+  "filename": "161.jpeg",
+  "card_numbers": {
+    "primary": "15",
+    "secondary": null,
+    "tertiary": "132",
+    "notes": "15 top-left small ink/pencil, 132 bottom-right corner pencil"
+  },
+  "lines": [
+    "четвертый попа ньского з Греции,",
+    "тут же у Острогу на тот час буду-",
+    "чого, яко не новина от часовь давних",
+    "бывати Греком у Острогу.",
+    "Львів, 1605-1606, Перест. 36."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 36."
+  },
+  "notes": "Polemical text from Brest period (1605-1606). Orthography uses predominantly е rather than є, and у rather than ү — typical for polemical texts of this period. Word split at line break: 'буду-чого' (будучого). No hard sign ъ at word endings."
+}

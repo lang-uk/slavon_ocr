@@ -1,0 +1,13 @@
+{
+  "filename": "096.jpeg",
+  "card_numbers": {
+    "primary": null,
+    "secondary": null,
+    "tertiary": null,
+    "notes": ""
+  },
+  "lines": null,
+  "source": null,
+  "notes": "Card is severely overexposed/bleached — handwriting traces are too faint to read reliably. Only extremely faint smudges are visible across the surface; no card numbers detectable.",
+  "error_type": "illegible"
+}

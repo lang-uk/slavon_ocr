@@ -1,0 +1,24 @@
+{
+  "filename": "199.jpeg",
+  "card_numbers": {
+    "primary": "22",
+    "secondary": "43",
+    "tertiary": "1",
+    "notes": "43 top-left pencil, 22 top-center pencil, 1 bottom-right pencil"
+  },
+  "lines": [
+    "За вѣру православную насилуемую на прїа-",
+    "за нашѣ, заааеєтъ боєвости нашѣ, а на-",
+    "концу на сѵнѣдє наше надбавиетъ, ашм",
+    "преусну одєго залоєитъ и то, итмакоѣдьє",
+    "єсли для мене учинить, дрябавити",
+    "останнево нєлєского своего обѣтованьї.",
+    "Львїв, 1605 - 1606, Берест. 39."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Берест. 39."
+  },
+  "notes": "Card is upside down in image. Some characters difficult to read with certainty, especially in line 3 (\"ашм\" possibly \"а що\" or similar), line 4 (\"преусну\" possibly \"премудру\" or \"пресвѧту\" - unclear), line 5 (\"для мене учинить\" looks correct but \"дрябавити\" uncertain), line 6 (\"останнево\" possibly \"останнього\", \"обѣтованьї\" with ъ at end). Source reference matches Beresteyskiy chronicle 1605-1606."
+}

@@ -1,0 +1,25 @@
+{
+  "filename": "360.jpeg",
+  "card_numbers": {
+    "primary": "20",
+    "secondary": "306",
+    "tertiary": null,
+    "notes": "306 top-left pencil, 20 bottom-right pencil"
+  },
+  "lines": [
+    "Hebelukske hrye, aka yedum aposlat:",
+    "Hlyga nekaripemskiy aposlat buly,",
+    "Hlyga nyshy, smalyusya ypravuso, ne",
+    "emn hoty aposlat; y dlymyr, bryzod—",
+    "nyhy aposlaty, omugnenhy buly y",
+    "y horykuyt yaduyt y s pokahyieny sob-",
+    "y du aniosmskaho yuka prydysem esm.",
+    "Lebiy, 1605-1606, Teream. H T"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Тереян. Н Т"
+  },
+  "notes": "Card is upside down in image. Reading from bottom to top. Text appears to be a polemical source about apostles ('aposlat'). Some characters difficult to read with certainty—particularly in lines 3-4 where handwriting is somewhat unclear. 'Lebiy' likely refers to 'Lviv' (Львів). 'Teream' could be 'Тереян' (Tereian)."
+}

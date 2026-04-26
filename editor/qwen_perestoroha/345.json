@@ -1,0 +1,23 @@
+{
+  "filename": "345.jpeg",
+  "card_numbers": {
+    "primary": "20",
+    "secondary": "294",
+    "tertiary": null,
+    "notes": "20 top-left pencil, 294 bottom-right pencil"
+  },
+  "lines": [
+    "Сут архієрейства, начала, престолы",
+    "господствия и силы, и вся совершенная",
+    "ангельскому чину подобная служба от",
+    "архієреов всегда Богу в церкви трояк",
+    "папете приносится.",
+    "Львів, 1605-1606, Перест. 46."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 46."
+  },
+  "notes": "Mix of є and е orthography. Line 4 ends with 'трояк' which may be incomplete. Reference 'Перест.' likely abbreviates 'Пересторога'."
+}

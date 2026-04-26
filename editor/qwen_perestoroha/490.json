@@ -1,0 +1,22 @@
+{
+  "filename": "490.jpeg",
+  "card_numbers": {
+    "primary": "10",
+    "secondary": "961",
+    "tertiary": null,
+    "notes": "961 top-left ink, 10 bottom-right corner"
+  },
+  "lines": [
+    "У оное об'їмиши Євсємєнєва на неї є",
+    "єпанаїстомъ єсѧ драми мерєніє прєд-",
+    "воадїій упрѣдє воззрѣює на нєрєшучи",
+    "том.",
+    "Львів, 1605-1606, Ілерем. 56"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Ілерем. 56"
+  },
+  "notes": "Card is upside down in image."
+}

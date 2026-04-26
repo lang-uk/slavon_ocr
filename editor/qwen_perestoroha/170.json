@@ -1,0 +1,20 @@
+{
+  "filename": "170.jpeg",
+  "card_numbers": {
+    "primary": "8",
+    "secondary": null,
+    "tertiary": "140",
+    "notes": "8 top-left pencil, 140 bottom-right pencil"
+  },
+  "lines": [
+    "Зараз теды двоя((ка)) неприязнь",
+    "наступила,",
+    "Львів, 1605 - 1606, Перест. 37"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 37"
+  },
+  "notes": ""
+}

@@ -1,0 +1,20 @@
+{
+  "filename": "290.jpeg",
+  "card_numbers": {
+    "primary": "12",
+    "secondary": "249",
+    "tertiary": "249",
+    "notes": "12 top-left pencil, 249 top-right pencil, 249 bottom-right pencil"
+  },
+  "lines": [
+    "А Пїури заразѣм Константинополѣ",
+    "взяли, нѣж тому полтораста лѣтъ",
+    "минуло. Львів, 1605-1606, Переєт. 44"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Переєт. 44"
+  },
+  "notes": ""
+}

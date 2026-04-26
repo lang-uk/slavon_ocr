@@ -1,0 +1,26 @@
+{
+  "filename": "453.jpeg",
+  "card_numbers": {
+    "primary": "18",
+    "secondary": null,
+    "tertiary": "393",
+    "notes": "18 top-left pencil, 393 bottom-right pencil"
+  },
+  "lines": [
+    "А Павел святый двѣ лѣты зуполенных в",
+    "Рымѣ учил[ъ]. А в каноных святых на-",
+    "писано: Павел святый Петра свято-",
+    "го страсует; чого бы не мѣли учини-",
+    "ти, кды бы ему не был ровен, пото-",
+    "мы як Павел святый проповѣдалъ",
+    "быти║Христа головою церкви и камємь",
+    "краєугольным,",
+    "Львѳв, 1605-1606, Перест. 52-53"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 52-53"
+  },
+  "notes": "Text about Saint Paul's teaching in Rome and his relationship to Saint Peter. The city name written as 'Львѳв' (unusual form of Львів). Reference to Пересторога (Polemic warning text)."
+}

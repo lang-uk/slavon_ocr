@@ -1,0 +1,13 @@
+{
+  "filename": "250.jpeg",
+  "card_numbers": {
+    "primary": null,
+    "secondary": null,
+    "tertiary": null,
+    "notes": ""
+  },
+  "lines": null,
+  "source": null,
+  "notes": "Image heavily degraded/faded - no readable text visible, only smudges and artifacts",
+  "error_type": "blank"
+}

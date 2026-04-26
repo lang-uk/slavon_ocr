@@ -1,0 +1,23 @@
+{
+  "filename": "332.jpeg",
+  "card_numbers": {
+    "primary": null,
+    "secondary": "83",
+    "tertiary": null,
+    "notes": "83 top-left ink"
+  },
+  "lines": [
+    "Жаіара законносіторовца, а чрпта в",
+    "законт кренцем. Ширіп чрєда крве-",
+    "мода стородьєву, а дбри хрємовда не",
+    "приіицем; якє нас сущо спєречєм, а",
+    "сш в нєм нє ходить,",
+    "Львів, 1605-1606, Берест. 46."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Берест. 46."
+  },
+  "notes": "Card appears upside down in image. Some characters difficult to read with certainty - Ж, Ш, Ч, Є letters may need verification. Line 1 starts with what looks like Ж but could be other letter. Line 2 'законт' may be 'законъ'. Line 4 'сш' unclear - possibly 'сѧ' or similar."
+}

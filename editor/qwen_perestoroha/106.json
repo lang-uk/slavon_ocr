@@ -1,0 +1,21 @@
+{
+  "filename": "106.jpeg",
+  "card_numbers": {
+    "primary": "12",
+    "secondary": null,
+    "tertiary": "85",
+    "notes": "12 top-left ink, 85 bottom-right corner ink"
+  },
+  "lines": [
+    "Нижли и тамтот, не у меншой",
+    "ласцѣ будучи, давалъ справу о собѣ,",
+    "же то Кирилъ змышляетъ.",
+    "Львів, 1605-1606, Пересет. 31."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Пересет. 31"
+  },
+  "notes": ""
+}

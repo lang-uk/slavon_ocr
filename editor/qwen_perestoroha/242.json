@@ -1,0 +1,21 @@
+{
+  "filename": "242.jpeg",
+  "card_numbers": {
+    "primary": "20",
+    "secondary": null,
+    "tertiary": "207",
+    "notes": "20 top-left pencil/ink, 207 bottom-right corner"
+  },
+  "lines": [
+    "Только по волну и молоко до нас їзди-",
+    "ми альбо посилали, а место покою непо-",
+    "кой и мнъж межи дѣти зкидали.",
+    "Львів, 1605-1606, Переєст. 42"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Переєст. 42"
+  },
+  "notes": ""
+}

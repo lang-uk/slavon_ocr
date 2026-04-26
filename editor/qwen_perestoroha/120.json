@@ -1,0 +1,21 @@
+{
+  "filename": "120.jpeg",
+  "card_numbers": {
+    "primary": "8",
+    "secondary": "97",
+    "tertiary": null,
+    "notes": "8 top-left ink, 97 bottom-right ink"
+  },
+  "lines": [
+    "А южъ лѣтѣ о томѣ намову перше",
+    "зе львовскимъ ... и премынского до тогожъ",
+    "южъ натычъ.",
+    "Львів, 1605-1606, Перест. 32"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 32"
+  },
+  "notes": ""
+}

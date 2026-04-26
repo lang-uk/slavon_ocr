@@ -1,0 +1,17 @@
+{
+  "seed": -1,
+  "size": 1,
+  "n_buckets": 1,
+  "from": "smoke test — worst upside-down card",
+  "cards": [
+    {
+      "key": "Auto-Color0002/166.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "166.jpeg",
+      "ref_chars": 51,
+      "errors": 70,
+      "cer_flat": 1.3725,
+      "bucket": 3
+    }
+  ]
+}

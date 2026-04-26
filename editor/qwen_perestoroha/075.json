@@ -1,0 +1,21 @@
+{
+  "filename": "075.jpeg",
+  "card_numbers": {
+    "primary": "19",
+    "secondary": null,
+    "tertiary": "8",
+    "notes": "19 top-left pencil, 8 bottom-right pencil"
+  },
+  "lines": [
+    "а тал все талы при отпрадованю",
+    "религйозныхъ себе по обычая нолє—",
+    "патєр зношанце мупроматїм,",
+    "Лєнїі, 1605 - 1606, Льєвем. 29"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Лєв. 29"
+  },
+  "notes": "Card is upside down in image. Some characters uncertain, especially in first two lines. Third line appears to contain 'патєр зношанце мупроматїм' but could be different. Orthography appears to be early 17th century Ukrainian with ъ endings."
+}

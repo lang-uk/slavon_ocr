@@ -1,0 +1,25 @@
+{
+  "filename": "439.jpeg",
+  "card_numbers": {
+    "primary": "16",
+    "secondary": "381",
+    "tertiary": null,
+    "notes": "N° 16 bottom-right ink, 381 top-left pencil"
+  },
+  "lines": [
+    "закъ бо(т)ы(м)||14 днѣ, о комаров",
+    "сказваем, иже каждаго меє 14 днѣ",
+    "взываю, ирушанъ Лемковъ во Львѣща-",
+    "мунъ на зѣлієво наклонєниє сущє",
+    "аросавольскии, и 9 мѣсѣцѣмъ",
+    "взгряла и плум, іо року змѣнитє",
+    "go Іан. 2.",
+    "Львів, 1605-1606, Терцем.51-52"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Терцем.51-52"
+  },
+  "notes": "Card photographed upside down. Some characters uncertain: 'меє' (could be мнє), 'Лемков' (unclear if Лемків or similar), 'во Львѣща' (possibly Львовѣ), 'мунъ' (unclear), 'іо' (possibly іо/рік), 'go' (possibly go/до). The transcription reflects best reading of inverted image."
+}

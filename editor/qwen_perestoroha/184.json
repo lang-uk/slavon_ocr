@@ -1,0 +1,22 @@
+{
+  "filename": "184.jpeg",
+  "card_numbers": {
+    "primary": "155",
+    "secondary": "51",
+    "tertiary": null,
+    "notes": "155 top-left pencil, 51 bottom-right corner"
+  },
+  "lines": [
+    "Андріє, 1605-1606, Тугаевъ. 38",
+    "мое данну",
+    "зъдравого єгуну, а томодє зорю",
+    "наша божого киевского, але от мене",
+    "Ему єи присягаєм, не же по конѣ"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Тугаєв 38"
+  },
+  "notes": "Card image is upside-down. Line order adjusted to match natural reading direction."
+}

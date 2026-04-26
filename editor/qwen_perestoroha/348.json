@@ -1,0 +1,23 @@
+{
+  "filename": "348.jpeg",
+  "card_numbers": {
+    "primary": "81",
+    "secondary": "866",
+    "tertiary": null,
+    "notes": "81 bottom-right ink, 866 top-left faint pencil"
+  },
+  "lines": [
+    "Обдершимъ бою сущему воюю и бѣду",
+    "визугдавѣшѣ, нердвъ съдмѣхъ нанѣ -",
+    "модъ сѣахъ и бѣтъ порадка с цѣрква",
+    "бдѣршии, зъжѣ мѵние нердвє отъужен-",
+    "ѭ и єремшии чѵщили.",
+    "Жиди, 1605-1606, Єрепем. 46."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Єрепем. 46."
+  },
+  "notes": "Card is upside down in image. Text appears to be from polemical source against Jews (1605-1606). Some characters difficult to read with certainty - words like 'визугдавѣшѣ', 'нердвъ', 'съдмѣхъ', 'модъ сѣахъ' may need verification. 'Єрепем.' likely abbreviates 'Єресьпем' (heresy/polemics). Mixed е/є usage as expected from polemical texts."
+}

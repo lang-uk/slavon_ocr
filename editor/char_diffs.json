@@ -1,0 +1,8486 @@
+{
+  "total_cards": 138,
+  "cards_with_errors": 130,
+  "substitutions": [
+    {
+      "ref": "є",
+      "ocr": "е",
+      "count": 129
+    },
+    {
+      "ref": "е",
+      "ocr": "є",
+      "count": 77
+    },
+    {
+      "ref": "ы",
+      "ocr": "и",
+      "count": 33
+    },
+    {
+      "ref": "о",
+      "ocr": "а",
+      "count": 13
+    },
+    {
+      "ref": "я",
+      "ocr": "ѧ",
+      "count": 13
+    },
+    {
+      "ref": "ѣ",
+      "ocr": "ъ",
+      "count": 12
+    },
+    {
+      "ref": "ъ",
+      "ocr": "ь",
+      "count": 9
+    },
+    {
+      "ref": "м",
+      "ocr": "и",
+      "count": 7
+    },
+    {
+      "ref": "е",
+      "ocr": "о",
+      "count": 7
+    },
+    {
+      "ref": "ѣ",
+      "ocr": "і",
+      "count": 6
+    },
+    {
+      "ref": "е",
+      "ocr": "ѣ",
+      "count": 5
+    },
+    {
+      "ref": "а",
+      "ocr": "о",
+      "count": 5
+    },
+    {
+      "ref": "ы",
+      "ocr": "о",
+      "count": 5
+    },
+    {
+      "ref": "є",
+      "ocr": "ѣ",
+      "count": 5
+    },
+    {
+      "ref": "ж",
+      "ocr": "с",
+      "count": 4
+    },
+    {
+      "ref": "л",
+      "ocr": "м",
+      "count": 4
+    },
+    {
+      "ref": "ю",
+      "ocr": "о",
+      "count": 4
+    },
+    {
+      "ref": "ь",
+      "ocr": "ъ",
+      "count": 4
+    },
+    {
+      "ref": "м",
+      "ocr": "н",
+      "count": 4
+    },
+    {
+      "ref": "ж",
+      "ocr": "о",
+      "count": 3
+    },
+    {
+      "ref": "ѣ",
+      "ocr": "а",
+      "count": 3
+    },
+    {
+      "ref": "ѣ",
+      "ocr": "ы",
+      "count": 3
+    },
+    {
+      "ref": "ѣ",
+      "ocr": "ь",
+      "count": 3
+    },
+    {
+      "ref": "ѣ",
+      "ocr": "и",
+      "count": 3
+    },
+    {
+      "ref": "ж",
+      "ocr": "м",
+      "count": 3
+    },
+    {
+      "ref": "м",
+      "ocr": "т",
+      "count": 3
+    },
+    {
+      "ref": "н",
+      "ocr": "и",
+      "count": 3
+    },
+    {
+      "ref": "е",
+      "ocr": "ъ",
+      "count": 3
+    },
+    {
+      "ref": "ы",
+      "ocr": "а",
+      "count": 2
+    },
+    {
+      "ref": "т",
+      "ocr": "щ",
+      "count": 2
+    },
+    {
+      "ref": "ъ",
+      "ocr": "в",
+      "count": 2
+    },
+    {
+      "ref": "ы",
+      "ocr": "і",
+      "count": 2
+    },
+    {
+      "ref": "г",
+      "ocr": "ы",
+      "count": 2
+    },
+    {
+      "ref": "і",
+      "ocr": "е",
+      "count": 2
+    },
+    {
+      "ref": "з",
+      "ocr": "д",
+      "count": 2
+    },
+    {
+      "ref": "ѣ",
+      "ocr": "в",
+      "count": 2
+    },
+    {
+      "ref": "я",
+      "ocr": "є",
+      "count": 2
+    },
+    {
+      "ref": "с",
+      "ocr": "з",
+      "count": 2
+    },
+    {
+      "ref": "ц",
+      "ocr": "щ",
+      "count": 2
+    },
+    {
+      "ref": "і",
+      "ocr": "и",
+      "count": 2
+    },
+    {
+      "ref": "г",
+      "ocr": "є",
+      "count": 2
+    },
+    {
+      "ref": "и",
+      "ocr": "і",
+      "count": 2
+    },
+    {
+      "ref": "я",
+      "ocr": "и",
+      "count": 2
+    },
+    {
+      "ref": "м",
+      "ocr": "й",
+      "count": 2
+    },
+    {
+      "ref": "ж",
+      "ocr": "н",
+      "count": 2
+    },
+    {
+      "ref": "ж",
+      "ocr": "з",
+      "count": 2
+    },
+    {
+      "ref": "ж",
+      "ocr": "ъ",
+      "count": 2
+    },
+    {
+      "ref": "м",
+      "ocr": "л",
+      "count": 2
+    },
+    {
+      "ref": "ѣ",
+      "ocr": "б",
+      "count": 2
+    },
+    {
+      "ref": "і",
+      "ocr": "ї",
+      "count": 2
+    },
+    {
+      "ref": "г",
+      "ocr": "к",
+      "count": 2
+    },
+    {
+      "ref": "у",
+      "ocr": "ю",
+      "count": 2
+    },
+    {
+      "ref": "с",
+      "ocr": "л",
+      "count": 2
+    },
+    {
+      "ref": "т",
+      "ocr": "а",
+      "count": 2
+    },
+    {
+      "ref": "н",
+      "ocr": "в",
+      "count": 2
+    },
+    {
+      "ref": "я",
+      "ocr": "й",
+      "count": 2
+    },
+    {
+      "ref": "н",
+      "ocr": "п",
+      "count": 2
+    },
+    {
+      "ref": "о",
+      "ocr": "з",
+      "count": 2
+    },
+    {
+      "ref": "В",
+      "ocr": "б",
+      "count": 2
+    },
+    {
+      "ref": "л",
+      "ocr": "р",
+      "count": 2
+    },
+    {
+      "ref": "К",
+      "ocr": "И",
+      "count": 2
+    },
+    {
+      "ref": "К",
+      "ocr": "х",
+      "count": 2
+    },
+    {
+      "ref": "г",
+      "ocr": "ү",
+      "count": 2
+    },
+    {
+      "ref": "р",
+      "ocr": "д",
+      "count": 2
+    },
+    {
+      "ref": "к",
+      "ocr": "б",
+      "count": 2
+    },
+    {
+      "ref": "о",
+      "ocr": "є",
+      "count": 2
+    },
+    {
+      "ref": "в",
+      "ocr": "с",
+      "count": 2
+    },
+    {
+      "ref": "т",
+      "ocr": "м",
+      "count": 2
+    },
+    {
+      "ref": "п",
+      "ocr": "н",
+      "count": 2
+    },
+    {
+      "ref": "д",
+      "ocr": "б",
+      "count": 2
+    },
+    {
+      "ref": "р",
+      "ocr": "о",
+      "count": 2
+    },
+    {
+      "ref": "е",
+      "ocr": "а",
+      "count": 2
+    },
+    {
+      "ref": "р",
+      "ocr": "в",
+      "count": 2
+    },
+    {
+      "ref": "в",
+      "ocr": "м",
+      "count": 2
+    },
+    {
+      "ref": "д",
+      "ocr": "н",
+      "count": 2
+    },
+    {
+      "ref": "и",
+      "ocr": "ю",
+      "count": 2
+    },
+    {
+      "ref": "и",
+      "ocr": "т",
+      "count": 2
+    },
+    {
+      "ref": "ѣ",
+      "ocr": ")",
+      "count": 2
+    },
+    {
+      "ref": "и",
+      "ocr": "к",
+      "count": 1
+    },
+    {
+      "ref": "л",
+      "ocr": "і",
+      "count": 1
+    },
+    {
+      "ref": "і",
+      "ocr": "І",
+      "count": 1
+    },
+    {
+      "ref": "г",
+      "ocr": "Г",
+      "count": 1
+    },
+    {
+      "ref": "е",
+      "ocr": "ц",
+      "count": 1
+    },
+    {
+      "ref": "ц",
+      "ocr": "у",
+      "count": 1
+    },
+    {
+      "ref": "ч",
+      "ocr": "н",
+      "count": 1
+    },
+    {
+      "ref": "ѣ",
+      "ocr": "й",
+      "count": 1
+    },
+    {
+      "ref": "ы",
+      "ocr": "ю",
+      "count": 1
+    },
+    {
+      "ref": "К",
+      "ocr": "Х",
+      "count": 1
+    },
+    {
+      "ref": "г",
+      "ocr": "а",
+      "count": 1
+    },
+    {
+      "ref": "е",
+      "ocr": "(",
+      "count": 1
+    },
+    {
+      "ref": "х",
+      "ocr": "е",
+      "count": 1
+    },
+    {
+      "ref": "л",
+      "ocr": "в",
+      "count": 1
+    },
+    {
+      "ref": "к",
+      "ocr": "К",
+      "count": 1
+    },
+    {
+      "ref": "║",
+      "ocr": "/",
+      "count": 1
+    },
+    {
+      "ref": "й",
+      "ocr": "и",
+      "count": 1
+    },
+    {
+      "ref": "ю",
+      "ocr": "н",
+      "count": 1
+    },
+    {
+      "ref": "ж",
+      "ocr": "е",
+      "count": 1
+    },
+    {
+      "ref": "е",
+      "ocr": "і",
+      "count": 1
+    },
+    {
+      "ref": "ы",
+      "ocr": "л",
+      "count": 1
+    },
+    {
+      "ref": "м",
+      "ocr": "ц",
+      "count": 1
+    },
+    {
+      "ref": "с",
+      "ocr": "е",
+      "count": 1
+    },
+    {
+      "ref": "я",
+      "ocr": "Я",
+      "count": 1
+    },
+    {
+      "ref": "ѳ",
+      "ocr": "ф",
+      "count": 1
+    },
+    {
+      "ref": "м",
+      "ocr": "М",
+      "count": 1
+    },
+    {
+      "ref": "ч",
+      "ocr": "м",
+      "count": 1
+    },
+    {
+      "ref": "з",
+      "ocr": "ж",
+      "count": 1
+    },
+    {
+      "ref": "г",
+      "ocr": "и",
+      "count": 1
+    },
+    {
+      "ref": ";",
+      "ocr": ",",
+      "count": 1
+    },
+    {
+      "ref": "ъ",
+      "ocr": "к",
+      "count": 1
+    },
+    {
+      "ref": " ",
+      "ocr": "о",
+      "count": 1
+    },
+    {
+      "ref": "з",
+      "ocr": "л",
+      "count": 1
+    },
+    {
+      "ref": "х",
+      "ocr": "є",
+      "count": 1
+    },
+    {
+      "ref": "и",
+      "ocr": "е",
+      "count": 1
+    },
+    {
+      "ref": "м",
+      "ocr": "ш",
+      "count": 1
+    },
+    {
+      "ref": "ъ",
+      "ocr": "е",
+      "count": 1
+    },
+    {
+      "ref": "е",
+      "ocr": "я",
+      "count": 1
+    },
+    {
+      "ref": "ѣ",
+      "ocr": "о",
+      "count": 1
+    },
+    {
+      "ref": "л",
+      "ocr": "ъ",
+      "count": 1
+    },
+    {
+      "ref": "щ",
+      "ocr": "ш",
+      "count": 1
+    },
+    {
+      "ref": ",",
+      "ocr": ";",
+      "count": 1
+    },
+    {
+      "ref": "щ",
+      "ocr": "н",
+      "count": 1
+    },
+    {
+      "ref": "е",
+      "ocr": "ж",
+      "count": 1
+    },
+    {
+      "ref": "а",
+      "ocr": "я",
+      "count": 1
+    },
+    {
+      "ref": "г",
+      "ocr": "ш",
+      "count": 1
+    },
+    {
+      "ref": "ѣ",
+      "ocr": "у",
+      "count": 1
+    },
+    {
+      "ref": "г",
+      "ocr": "в",
+      "count": 1
+    },
+    {
+      "ref": "и",
+      "ocr": "ш",
+      "count": 1
+    },
+    {
+      "ref": "л",
+      "ocr": "и",
+      "count": 1
+    },
+    {
+      "ref": "м",
+      "ocr": "в",
+      "count": 1
+    },
+    {
+      "ref": "о",
+      "ocr": "ы",
+      "count": 1
+    },
+    {
+      "ref": "г",
+      "ocr": "о",
+      "count": 1
+    },
+    {
+      "ref": "є",
+      "ocr": "Є",
+      "count": 1
+    },
+    {
+      "ref": " ",
+      "ocr": "і",
+      "count": 1
+    },
+    {
+      "ref": "з",
+      "ocr": "с",
+      "count": 1
+    },
+    {
+      "ref": "д",
+      "ocr": "ѣ",
+      "count": 1
+    },
+    {
+      "ref": "ѣ",
+      "ocr": "т",
+      "count": 1
+    },
+    {
+      "ref": "ы",
+      "ocr": "ь",
+      "count": 1
+    },
+    {
+      "ref": "у",
+      "ocr": "ү",
+      "count": 1
+    },
+    {
+      "ref": "ц",
+      "ocr": "ж",
+      "count": 1
+    },
+    {
+      "ref": "о",
+      "ocr": "ó",
+      "count": 1
+    },
+    {
+      "ref": "ж",
+      "ocr": "ш",
+      "count": 1
+    },
+    {
+      "ref": "х",
+      "ocr": "к",
+      "count": 1
+    },
+    {
+      "ref": "ъ",
+      "ocr": "о",
+      "count": 1
+    },
+    {
+      "ref": "л",
+      "ocr": "ш",
+      "count": 1
+    },
+    {
+      "ref": ".",
+      "ocr": ",",
+      "count": 1
+    },
+    {
+      "ref": "ъ",
+      "ocr": "ѣ",
+      "count": 1
+    },
+    {
+      "ref": "ѣ",
+      "ocr": "ї",
+      "count": 1
+    },
+    {
+      "ref": "и",
+      "ocr": "ї",
+      "count": 1
+    },
+    {
+      "ref": "ь",
+      "ocr": "̾",
+      "count": 1
+    },
+    {
+      "ref": "щ",
+      "ocr": "ц",
+      "count": 1
+    },
+    {
+      "ref": "Т",
+      "ocr": "П",
+      "count": 1
+    },
+    {
+      "ref": "ф",
+      "ocr": "с",
+      "count": 1
+    },
+    {
+      "ref": "ѣ",
+      "ocr": "ф",
+      "count": 1
+    },
+    {
+      "ref": "г",
+      "ocr": "е",
+      "count": 1
+    },
+    {
+      "ref": "ѣ",
+      "ocr": "е",
+      "count": 1
+    },
+    {
+      "ref": "ц",
+      "ocr": "т",
+      "count": 1
+    },
+    {
+      "ref": "д",
+      "ocr": "о",
+      "count": 1
+    },
+    {
+      "ref": "ъ",
+      "ocr": "н",
+      "count": 1
+    },
+    {
+      "ref": "с",
+      "ocr": "и",
+      "count": 1
+    },
+    {
+      "ref": "я",
+      "ocr": "ц",
+      "count": 1
+    },
+    {
+      "ref": "П",
+      "ocr": "Б",
+      "count": 1
+    },
+    {
+      "ref": "д",
+      "ocr": "ъ",
+      "count": 1
+    },
+    {
+      "ref": "о",
+      "ocr": "к",
+      "count": 1
+    },
+    {
+      "ref": "р",
+      "ocr": "ό",
+      "count": 1
+    },
+    {
+      "ref": "у",
+      "ocr": "в",
+      "count": 1
+    },
+    {
+      "ref": "ю",
+      "ocr": "ъ",
+      "count": 1
+    },
+    {
+      "ref": "е",
+      "ocr": "г",
+      "count": 1
+    },
+    {
+      "ref": "п",
+      "ocr": "о",
+      "count": 1
+    },
+    {
+      "ref": "і",
+      "ocr": "о",
+      "count": 1
+    },
+    {
+      "ref": "я",
+      "ocr": "д",
+      "count": 1
+    },
+    {
+      "ref": "з",
+      "ocr": "и",
+      "count": 1
+    },
+    {
+      "ref": "р",
+      "ocr": "щ",
+      "count": 1
+    },
+    {
+      "ref": "а",
+      "ocr": "є",
+      "count": 1
+    },
+    {
+      "ref": "ф",
+      "ocr": "д",
+      "count": 1
+    },
+    {
+      "ref": "и",
+      "ocr": "р",
+      "count": 1
+    },
+    {
+      "ref": "л",
+      "ocr": "ό",
+      "count": 1
+    },
+    {
+      "ref": "о",
+      "ocr": "с",
+      "count": 1
+    },
+    {
+      "ref": "с",
+      "ocr": "т",
+      "count": 1
+    },
+    {
+      "ref": "я",
+      "ocr": "ю",
+      "count": 1
+    },
+    {
+      "ref": "ж",
+      "ocr": "в",
+      "count": 1
+    },
+    {
+      "ref": "н",
+      "ocr": "є",
+      "count": 1
+    },
+    {
+      "ref": "а",
+      "ocr": "ό",
+      "count": 1
+    },
+    {
+      "ref": " ",
+      "ocr": "т",
+      "count": 1
+    },
+    {
+      "ref": ".",
+      "ocr": "ы",
+      "count": 1
+    },
+    {
+      "ref": ".",
+      "ocr": " ",
+      "count": 1
+    },
+    {
+      "ref": ".",
+      "ocr": "…",
+      "count": 1
+    },
+    {
+      "ref": "ѣ",
+      "ocr": "р",
+      "count": 1
+    },
+    {
+      "ref": "к",
+      "ocr": "є",
+      "count": 1
+    },
+    {
+      "ref": "о",
+      "ocr": "ц",
+      "count": 1
+    },
+    {
+      "ref": "р",
+      "ocr": "н",
+      "count": 1
+    },
+    {
+      "ref": "л",
+      "ocr": "г",
+      "count": 1
+    },
+    {
+      "ref": "ш",
+      "ocr": "т",
+      "count": 1
+    },
+    {
+      "ref": "Я",
+      "ocr": "з",
+      "count": 1
+    },
+    {
+      "ref": "е",
+      "ocr": "т",
+      "count": 1
+    },
+    {
+      "ref": "о",
+      "ocr": "ю",
+      "count": 1
+    },
+    {
+      "ref": "х",
+      "ocr": "о",
+      "count": 1
+    },
+    {
+      "ref": "е",
+      "ocr": "п",
+      "count": 1
+    },
+    {
+      "ref": "й",
+      "ocr": "і",
+      "count": 1
+    },
+    {
+      "ref": " ",
+      "ocr": "д",
+      "count": 1
+    },
+    {
+      "ref": "т",
+      "ocr": "п",
+      "count": 1
+    },
+    {
+      "ref": "у",
+      "ocr": "є",
+      "count": 1
+    },
+    {
+      "ref": "с",
+      "ocr": " ",
+      "count": 1
+    },
+    {
+      "ref": "и",
+      "ocr": " ",
+      "count": 1
+    },
+    {
+      "ref": "х",
+      "ocr": ".",
+      "count": 1
+    },
+    {
+      "ref": "к",
+      "ocr": "Л",
+      "count": 1
+    },
+    {
+      "ref": "у",
+      "ocr": "ь",
+      "count": 1
+    },
+    {
+      "ref": "п",
+      "ocr": "в",
+      "count": 1
+    },
+    {
+      "ref": "о",
+      "ocr": "і",
+      "count": 1
+    },
+    {
+      "ref": "а",
+      "ocr": "с",
+      "count": 1
+    },
+    {
+      "ref": "и",
+      "ocr": ".",
+      "count": 1
+    },
+    {
+      "ref": "Т",
+      "ocr": "и",
+      "count": 1
+    },
+    {
+      "ref": "ы",
+      "ocr": "ц",
+      "count": 1
+    },
+    {
+      "ref": "ш",
+      "ocr": "ї",
+      "count": 1
+    },
+    {
+      "ref": "у",
+      "ocr": "и",
+      "count": 1
+    },
+    {
+      "ref": "т",
+      "ocr": " ",
+      "count": 1
+    },
+    {
+      "ref": ":",
+      "ocr": ";",
+      "count": 1
+    },
+    {
+      "ref": "г",
+      "ocr": "р",
+      "count": 1
+    },
+    {
+      "ref": "а",
+      "ocr": "н",
+      "count": 1
+    },
+    {
+      "ref": "ъ",
+      "ocr": "с",
+      "count": 1
+    },
+    {
+      "ref": "ц",
+      "ocr": "ч",
+      "count": 1
+    },
+    {
+      "ref": "а",
+      "ocr": "(",
+      "count": 1
+    },
+    {
+      "ref": "ш",
+      "ocr": "х",
+      "count": 1
+    },
+    {
+      "ref": "ъ",
+      "ocr": ")",
+      "count": 1
+    },
+    {
+      "ref": "з",
+      "ocr": "а",
+      "count": 1
+    },
+    {
+      "ref": "-",
+      "ocr": "–",
+      "count": 1
+    },
+    {
+      "ref": "р",
+      "ocr": "б",
+      "count": 1
+    },
+    {
+      "ref": "в",
+      "ocr": "г",
+      "count": 1
+    },
+    {
+      "ref": "ъ",
+      "ocr": "а",
+      "count": 1
+    },
+    {
+      "ref": "ы",
+      "ocr": "ү",
+      "count": 1
+    },
+    {
+      "ref": "л",
+      "ocr": "с",
+      "count": 1
+    },
+    {
+      "ref": ",",
+      "ocr": " ",
+      "count": 1
+    },
+    {
+      "ref": " ",
+      "ocr": ".",
+      "count": 1
+    },
+    {
+      "ref": "м",
+      "ocr": "щ",
+      "count": 1
+    },
+    {
+      "ref": "а",
+      "ocr": "и",
+      "count": 1
+    },
+    {
+      "ref": "с",
+      "ocr": "а",
+      "count": 1
+    },
+    {
+      "ref": "т",
+      "ocr": "є",
+      "count": 1
+    },
+    {
+      "ref": "в",
+      "ocr": "б",
+      "count": 1
+    },
+    {
+      "ref": "ѣ",
+      "ocr": "ү",
+      "count": 1
+    },
+    {
+      "ref": "С",
+      "ocr": "и",
+      "count": 1
+    },
+    {
+      "ref": "т",
+      "ocr": "с",
+      "count": 1
+    },
+    {
+      "ref": "р",
+      "ocr": "т",
+      "count": 1
+    },
+    {
+      "ref": "ш",
+      "ocr": "и",
+      "count": 1
+    },
+    {
+      "ref": "і",
+      "ocr": "с",
+      "count": 1
+    },
+    {
+      "ref": "й",
+      "ocr": "ѧ",
+      "count": 1
+    },
+    {
+      "ref": "о",
+      "ocr": "ω",
+      "count": 1
+    },
+    {
+      "ref": "а",
+      "ocr": "в",
+      "count": 1
+    },
+    {
+      "ref": "м",
+      "ocr": "о",
+      "count": 1
+    },
+    {
+      "ref": "к",
+      "ocr": "д",
+      "count": 1
+    },
+    {
+      "ref": "у",
+      "ocr": "і",
+      "count": 1
+    },
+    {
+      "ref": "у",
+      "ocr": "к",
+      "count": 1
+    },
+    {
+      "ref": "я",
+      "ocr": "а",
+      "count": 1
+    },
+    {
+      "ref": "в",
+      "ocr": "t",
+      "count": 1
+    },
+    {
+      "ref": "л",
+      "ocr": "є",
+      "count": 1
+    },
+    {
+      "ref": "е",
+      "ocr": "л",
+      "count": 1
+    },
+    {
+      "ref": "н",
+      "ocr": "ь",
+      "count": 1
+    },
+    {
+      "ref": "ы",
+      "ocr": "с",
+      "count": 1
+    },
+    {
+      "ref": "м",
+      "ocr": "ү",
+      "count": 1
+    },
+    {
+      "ref": "ч",
+      "ocr": "ф",
+      "count": 1
+    },
+    {
+      "ref": "н",
+      "ocr": "ц",
+      "count": 1
+    },
+    {
+      "ref": "о",
+      "ocr": "ό",
+      "count": 1
+    },
+    {
+      "ref": "и",
+      "ocr": "о",
+      "count": 1
+    },
+    {
+      "ref": "л",
+      "ocr": "ю",
+      "count": 1
+    },
+    {
+      "ref": "у",
+      "ocr": "ъ",
+      "count": 1
+    },
+    {
+      "ref": "ж",
+      "ocr": "к",
+      "count": 1
+    },
+    {
+      "ref": "т",
+      "ocr": "н",
+      "count": 1
+    },
+    {
+      "ref": "т",
+      "ocr": "ь",
+      "count": 1
+    },
+    {
+      "ref": "з",
+      "ocr": "б",
+      "count": 1
+    },
+    {
+      "ref": "а",
+      "ocr": "д",
+      "count": 1
+    },
+    {
+      "ref": "й",
+      "ocr": "о",
+      "count": 1
+    },
+    {
+      "ref": "ц",
+      "ocr": "║",
+      "count": 1
+    },
+    {
+      "ref": "а",
+      "ocr": "л",
+      "count": 1
+    },
+    {
+      "ref": "║",
+      "ocr": "о",
+      "count": 1
+    },
+    {
+      "ref": "а",
+      "ocr": "ж",
+      "count": 1
+    },
+    {
+      "ref": "л",
+      "ocr": "н",
+      "count": 1
+    },
+    {
+      "ref": "ь",
+      "ocr": "о",
+      "count": 1
+    },
+    {
+      "ref": "б",
+      "ocr": "г",
+      "count": 1
+    },
+    {
+      "ref": "ш",
+      "ocr": "і",
+      "count": 1
+    },
+    {
+      "ref": "и",
+      "ocr": "ү",
+      "count": 1
+    },
+    {
+      "ref": "г",
+      "ocr": "с",
+      "count": 1
+    },
+    {
+      "ref": "ы",
+      "ocr": "ъ",
+      "count": 1
+    },
+    {
+      "ref": "з",
+      "ocr": " ",
+      "count": 1
+    },
+    {
+      "ref": "и",
+      "ocr": "а",
+      "count": 1
+    },
+    {
+      "ref": "ш",
+      "ocr": "6",
+      "count": 1
+    },
+    {
+      "ref": "п",
+      "ocr": "0",
+      "count": 1
+    },
+    {
+      "ref": "и",
+      "ocr": "5",
+      "count": 1
+    },
+    {
+      "ref": "к",
+      "ocr": "-",
+      "count": 1
+    },
+    {
+      "ref": "г",
+      "ocr": "1",
+      "count": 1
+    },
+    {
+      "ref": "у",
+      "ocr": "6",
+      "count": 1
+    },
+    {
+      "ref": "ю",
+      "ocr": "0",
+      "count": 1
+    },
+    {
+      "ref": "ч",
+      "ocr": "6",
+      "count": 1
+    },
+    {
+      "ref": "и",
+      "ocr": ",",
+      "count": 1
+    },
+    {
+      "ref": "з",
+      "ocr": "Б",
+      "count": 1
+    },
+    {
+      "ref": "м",
+      "ocr": "р",
+      "count": 1
+    },
+    {
+      "ref": "-",
+      "ocr": "е",
+      "count": 1
+    },
+    {
+      "ref": " ",
+      "ocr": "с",
+      "count": 1
+    },
+    {
+      "ref": "л",
+      "ocr": "т",
+      "count": 1
+    },
+    {
+      "ref": "ю",
+      "ocr": ".",
+      "count": 1
+    },
+    {
+      "ref": "н",
+      "ocr": "3",
+      "count": 1
+    },
+    {
+      "ref": "а",
+      "ocr": "6",
+      "count": 1
+    },
+    {
+      "ref": "ш",
+      "ocr": "-",
+      "count": 1
+    },
+    {
+      "ref": "у",
+      "ocr": "3",
+      "count": 1
+    },
+    {
+      "ref": ".",
+      "ocr": "7",
+      "count": 1
+    },
+    {
+      "ref": "К",
+      "ocr": "о",
+      "count": 1
+    },
+    {
+      "ref": "а",
+      "ocr": "р",
+      "count": 1
+    },
+    {
+      "ref": "з",
+      "ocr": "о",
+      "count": 1
+    },
+    {
+      "ref": "а",
+      "ocr": "б",
+      "count": 1
+    },
+    {
+      "ref": "ъ",
+      "ocr": "є",
+      "count": 1
+    },
+    {
+      "ref": "е",
+      "ocr": "и",
+      "count": 1
+    },
+    {
+      "ref": "и",
+      "ocr": "(",
+      "count": 1
+    },
+    {
+      "ref": "ц",
+      "ocr": "х",
+      "count": 1
+    },
+    {
+      "ref": "у",
+      "ocr": ")",
+      "count": 1
+    },
+    {
+      "ref": "в",
+      "ocr": "ү",
+      "count": 1
+    },
+    {
+      "ref": "к",
+      "ocr": "н",
+      "count": 1
+    },
+    {
+      "ref": "н",
+      "ocr": "ү",
+      "count": 1
+    },
+    {
+      "ref": "т",
+      "ocr": "ч",
+      "count": 1
+    },
+    {
+      "ref": "ѣ",
+      "ocr": "є",
+      "count": 1
+    },
+    {
+      "ref": "н",
+      "ocr": "р",
+      "count": 1
+    },
+    {
+      "ref": "о",
+      "ocr": "(",
+      "count": 1
+    },
+    {
+      "ref": "б",
+      "ocr": "ь",
+      "count": 1
+    },
+    {
+      "ref": "а",
+      "ocr": "і",
+      "count": 1
+    },
+    {
+      "ref": "ш",
+      "ocr": "с",
+      "count": 1
+    }
+  ],
+  "insertions": [
+    {
+      "char": "ъ",
+      "count": 66
+    },
+    {
+      "char": " ",
+      "count": 36
+    },
+    {
+      "char": "о",
+      "count": 17
+    },
+    {
+      "char": "6",
+      "count": 17
+    },
+    {
+      "char": "и",
+      "count": 16
+    },
+    {
+      "char": "е",
+      "count": 16
+    },
+    {
+      "char": "н",
+      "count": 13
+    },
+    {
+      "char": "є",
+      "count": 12
+    },
+    {
+      "char": "0",
+      "count": 12
+    },
+    {
+      "char": "т",
+      "count": 12
+    },
+    {
+      "char": ",",
+      "count": 11
+    },
+    {
+      "char": "1",
+      "count": 11
+    },
+    {
+      "char": "р",
+      "count": 8
+    },
+    {
+      "char": "ь",
+      "count": 7
+    },
+    {
+      "char": ".",
+      "count": 7
+    },
+    {
+      "char": "а",
+      "count": 7
+    },
+    {
+      "char": "в",
+      "count": 7
+    },
+    {
+      "char": "м",
+      "count": 7
+    },
+    {
+      "char": "і",
+      "count": 6
+    },
+    {
+      "char": "с",
+      "count": 6
+    },
+    {
+      "char": "Л",
+      "count": 5
+    },
+    {
+      "char": "5",
+      "count": 5
+    },
+    {
+      "char": "Б",
+      "count": 5
+    },
+    {
+      "char": "3",
+      "count": 5
+    },
+    {
+      "char": "ү",
+      "count": 5
+    },
+    {
+      "char": "б",
+      "count": 5
+    },
+    {
+      "char": "д",
+      "count": 4
+    },
+    {
+      "char": "п",
+      "count": 3
+    },
+    {
+      "char": "-",
+      "count": 3
+    },
+    {
+      "char": "ж",
+      "count": 3
+    },
+    {
+      "char": "л",
+      "count": 3
+    },
+    {
+      "char": "ч",
+      "count": 3
+    },
+    {
+      "char": "–",
+      "count": 3
+    },
+    {
+      "char": "я",
+      "count": 2
+    },
+    {
+      "char": "й",
+      "count": 2
+    },
+    {
+      "char": "у",
+      "count": 2
+    },
+    {
+      "char": "з",
+      "count": 2
+    },
+    {
+      "char": "к",
+      "count": 2
+    },
+    {
+      "char": ")",
+      "count": 1
+    },
+    {
+      "char": "г",
+      "count": 1
+    },
+    {
+      "char": "ш",
+      "count": 1
+    },
+    {
+      "char": "Н",
+      "count": 1
+    },
+    {
+      "char": "á",
+      "count": 1
+    },
+    {
+      "char": "ω",
+      "count": 1
+    },
+    {
+      "char": "ӕ",
+      "count": 1
+    },
+    {
+      "char": "х",
+      "count": 1
+    },
+    {
+      "char": "Х",
+      "count": 1
+    },
+    {
+      "char": "(",
+      "count": 1
+    },
+    {
+      "char": "ю",
+      "count": 1
+    },
+    {
+      "char": "7",
+      "count": 1
+    }
+  ],
+  "deletions": [
+    {
+      "char": "ъ",
+      "count": 13
+    },
+    {
+      "char": " ",
+      "count": 10
+    },
+    {
+      "char": "ь",
+      "count": 5
+    },
+    {
+      "char": "6",
+      "count": 4
+    },
+    {
+      "char": "с",
+      "count": 4
+    },
+    {
+      "char": "║",
+      "count": 3
+    },
+    {
+      "char": "г",
+      "count": 3
+    },
+    {
+      "char": "л",
+      "count": 3
+    },
+    {
+      "char": "м",
+      "count": 2
+    },
+    {
+      "char": "ш",
+      "count": 2
+    },
+    {
+      "char": ".",
+      "count": 2
+    },
+    {
+      "char": "в",
+      "count": 2
+    },
+    {
+      "char": ",",
+      "count": 2
+    },
+    {
+      "char": "1",
+      "count": 2
+    },
+    {
+      "char": "0",
+      "count": 2
+    },
+    {
+      "char": "е",
+      "count": 2
+    },
+    {
+      "char": "т",
+      "count": 2
+    },
+    {
+      "char": "ѣ",
+      "count": 2
+    },
+    {
+      "char": "а",
+      "count": 2
+    },
+    {
+      "char": "ж",
+      "count": 2
+    },
+    {
+      "char": "К",
+      "count": 1
+    },
+    {
+      "char": "к",
+      "count": 1
+    },
+    {
+      "char": "є",
+      "count": 1
+    },
+    {
+      "char": "Л",
+      "count": 1
+    },
+    {
+      "char": "і",
+      "count": 1
+    },
+    {
+      "char": "5",
+      "count": 1
+    },
+    {
+      "char": "-",
+      "count": 1
+    },
+    {
+      "char": "П",
+      "count": 1
+    },
+    {
+      "char": "р",
+      "count": 1
+    },
+    {
+      "char": "2",
+      "count": 1
+    },
+    {
+      "char": "н",
+      "count": 1
+    },
+    {
+      "char": "ц",
+      "count": 1
+    },
+    {
+      "char": "я",
+      "count": 1
+    },
+    {
+      "char": ";",
+      "count": 1
+    },
+    {
+      "char": "у",
+      "count": 1
+    }
+  ],
+  "per_card": [
+    {
+      "filename": "001.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "о",
+          "ocr": "а",
+          "ctx_before": "іан"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "ято"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "ско"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "чно"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "исп"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "ъ",
+          "ctx_before": "ном"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "002.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "("
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "сво"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "ъ",
+          "ctx_before": "ных"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "ных"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "чин"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "оих"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "ных"
+        }
+      ],
+      "deletions": [
+        {
+          "ref": "ь",
+          "ctx_before": " ал"
+        }
+      ]
+    },
+    {
+      "filename": "003.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "‹"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "оры"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "пап"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "луш"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "004.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [],
+      "insertions": [
+        {
+          "ocr": " ",
+          "ctx_before": "яко"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "ких"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "005.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "и",
+          "ocr": "к",
+          "ctx_before": "т, "
+        },
+        {
+          "ref": "ж",
+          "ocr": "о",
+          "ctx_before": ", и"
+        },
+        {
+          "ref": "ы",
+          "ocr": "и",
+          "ctx_before": "а р"
+        },
+        {
+          "ref": "о",
+          "ocr": "а",
+          "ctx_before": "пот"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": " і "
+        },
+        {
+          "ref": "ы",
+          "ocr": "и",
+          "ctx_before": "а р"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "я",
+          "ctx_before": "т, "
+        },
+        {
+          "ocr": "и",
+          "ctx_before": "ти "
+        },
+        {
+          "ocr": "и",
+          "ctx_before": "ти "
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "006.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ы",
+          "ocr": "и",
+          "ctx_before": "коб"
+        },
+        {
+          "ref": "л",
+          "ocr": "і",
+          "ctx_before": "а ф"
+        },
+        {
+          "ref": "ы",
+          "ocr": "а",
+          "ctx_before": "аст"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "то "
+        },
+        {
+          "ref": "і",
+          "ocr": "І",
+          "ctx_before": "ій "
+        },
+        {
+          "ref": "ы",
+          "ocr": "и",
+          "ctx_before": "коб"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "о",
+          "ctx_before": "м ч"
+        }
+      ],
+      "deletions": [
+        {
+          "ref": "м",
+          "ctx_before": "тор"
+        },
+        {
+          "ref": "ъ",
+          "ctx_before": "ієв"
+        },
+        {
+          "ref": "ъ",
+          "ctx_before": "мѣл"
+        }
+      ]
+    },
+    {
+      "filename": "007.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "т",
+          "ocr": "щ",
+          "ctx_before": "ш"
+        },
+        {
+          "ref": "ы",
+          "ocr": "и",
+          "ctx_before": "коб"
+        },
+        {
+          "ref": "ы",
+          "ocr": "и",
+          "ctx_before": "ван"
+        },
+        {
+          "ref": "ѣ",
+          "ocr": "а",
+          "ctx_before": "я м"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "н",
+          "ctx_before": "ова"
+        }
+      ],
+      "deletions": [
+        {
+          "ref": "ш",
+          "ctx_before": ""
+        }
+      ]
+    },
+    {
+      "filename": "008.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "о",
+          "ocr": "а",
+          "ctx_before": "отк"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "009.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "ѣда"
+        },
+        {
+          "ref": "ъ",
+          "ocr": "ь",
+          "ctx_before": "аєш"
+        },
+        {
+          "ref": "г",
+          "ocr": "Г",
+          "ctx_before": "з К"
+        },
+        {
+          "ref": "е",
+          "ocr": "ц",
+          "ctx_before": "Нѣм"
+        },
+        {
+          "ref": "ц",
+          "ocr": "у",
+          "ctx_before": "ѣме"
+        },
+        {
+          "ref": "ъ",
+          "ocr": "в",
+          "ctx_before": "мец"
+        },
+        {
+          "ref": "ы",
+          "ocr": "и",
+          "ctx_before": "ъ р"
+        }
+      ],
+      "insertions": [],
+      "deletions": [
+        {
+          "ref": "К",
+          "ctx_before": " з "
+        }
+      ]
+    },
+    {
+      "filename": "010.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ѣ",
+          "ocr": "і",
+          "ctx_before": "кам"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "ико"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "й",
+          "ctx_before": " нѣ"
+        }
+      ],
+      "deletions": [
+        {
+          "ref": "║",
+          "ctx_before": "оє,"
+        }
+      ]
+    },
+    {
+      "filename": "011.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "рож"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": " вл"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "кущ"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": " ны"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "ены"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "012.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "ико"
+        },
+        {
+          "ref": "ы",
+          "ocr": "и",
+          "ctx_before": "дин"
+        },
+        {
+          "ref": "ы",
+          "ocr": "и",
+          "ctx_before": "очн"
+        },
+        {
+          "ref": "ы",
+          "ocr": "и",
+          "ctx_before": "и т"
+        },
+        {
+          "ref": "ъ",
+          "ocr": "ь",
+          "ctx_before": "дол"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "013.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ч",
+          "ocr": "н",
+          "ctx_before": "ѣ о"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "ико"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "ъ",
+          "ctx_before": "дов"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "ных"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "ров"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "ков"
+        }
+      ],
+      "deletions": [
+        {
+          "ref": "к",
+          "ctx_before": "Вен"
+        }
+      ]
+    },
+    {
+      "filename": "014.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "оны"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "ско"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "015.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "м",
+          "ocr": "и",
+          "ctx_before": "нно"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "ост"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "016.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [],
+      "insertions": [],
+      "deletions": [
+        {
+          "ref": "ъ",
+          "ctx_before": "деш"
+        }
+      ]
+    },
+    {
+      "filename": "017.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "вов"
+        },
+        {
+          "ref": "ы",
+          "ocr": "и",
+          "ctx_before": "сен"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "018.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ѣ",
+          "ocr": "й",
+          "ctx_before": "ово"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "ь",
+          "ctx_before": "рус"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "тых"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "019.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "я",
+          "ocr": "ѧ",
+          "ctx_before": "Пол"
+        },
+        {
+          "ref": "я",
+          "ocr": "ѧ",
+          "ctx_before": "прі"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "іят"
+        },
+        {
+          "ref": "я",
+          "ocr": "ѧ",
+          "ctx_before": "шис"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": ", ч"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "чер"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "кор"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "ъ",
+          "ctx_before": "них"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "020.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "ыча"
+        },
+        {
+          "ref": "е",
+          "ocr": "ѣ",
+          "ctx_before": "и в"
+        },
+        {
+          "ref": "ы",
+          "ocr": "ю",
+          "ctx_before": "вер"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "е",
+          "ctx_before": " иж"
+        },
+        {
+          "ocr": "о",
+          "ctx_before": "вер"
+        }
+      ],
+      "deletions": [
+        {
+          "ref": "ъ",
+          "ctx_before": "аук"
+        }
+      ]
+    },
+    {
+      "filename": "022.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": " вс"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "ско"
+        },
+        {
+          "ref": "ы",
+          "ocr": "и",
+          "ctx_before": "ы р"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "ско"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "вно"
+        },
+        {
+          "ref": "ы",
+          "ocr": "и",
+          "ctx_before": "а р"
+        },
+        {
+          "ref": "ѣ",
+          "ocr": "а",
+          "ctx_before": "ы н"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "и",
+          "ctx_before": "наш"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "023.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": " гр"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "реч"
+        },
+        {
+          "ref": "е",
+          "ocr": "о",
+          "ctx_before": "у ч"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "е",
+          "ctx_before": "теж"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "024.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ѣ",
+          "ocr": "ъ",
+          "ctx_before": "лиц"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": " и "
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "сны"
+        },
+        {
+          "ref": "ы",
+          "ocr": "и",
+          "ctx_before": "а б"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "025.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ы",
+          "ocr": "і",
+          "ctx_before": "лив"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "ивы"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "тов"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "ков"
+        },
+        {
+          "ref": "ы",
+          "ocr": "и",
+          "ctx_before": "е б"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "люд"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "ъ",
+          "ctx_before": "рых"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "ных"
+        }
+      ],
+      "deletions": [
+        {
+          "ref": "ь",
+          "ctx_before": "тел"
+        },
+        {
+          "ref": "є",
+          "ctx_before": " дѣ"
+        }
+      ]
+    },
+    {
+      "filename": "026.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "ъ л"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "и н"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "ъ",
+          "ctx_before": "рых"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "ных"
+        },
+        {
+          "ocr": "е",
+          "ctx_before": "виж"
+        }
+      ],
+      "deletions": [
+        {
+          "ref": ".",
+          "ctx_before": "али"
+        },
+        {
+          "ref": " ",
+          "ctx_before": "ли."
+        },
+        {
+          "ref": "Л",
+          "ctx_before": "и. "
+        },
+        {
+          "ref": "ь",
+          "ctx_before": ". Л"
+        },
+        {
+          "ref": "в",
+          "ctx_before": " Ль"
+        },
+        {
+          "ref": "і",
+          "ctx_before": "Льв"
+        },
+        {
+          "ref": "в",
+          "ctx_before": "ьві"
+        },
+        {
+          "ref": ",",
+          "ctx_before": "вів"
+        },
+        {
+          "ref": " ",
+          "ctx_before": "ів,"
+        },
+        {
+          "ref": "1",
+          "ctx_before": "в, "
+        },
+        {
+          "ref": "6",
+          "ctx_before": ", 1"
+        },
+        {
+          "ref": "0",
+          "ctx_before": " 16"
+        },
+        {
+          "ref": "5",
+          "ctx_before": "160"
+        },
+        {
+          "ref": "-",
+          "ctx_before": "605"
+        },
+        {
+          "ref": "1",
+          "ctx_before": "05-"
+        },
+        {
+          "ref": "6",
+          "ctx_before": "5-1"
+        },
+        {
+          "ref": "0",
+          "ctx_before": "-16"
+        },
+        {
+          "ref": "6",
+          "ctx_before": "160"
+        },
+        {
+          "ref": ",",
+          "ctx_before": "606"
+        },
+        {
+          "ref": " ",
+          "ctx_before": "06,"
+        },
+        {
+          "ref": "П",
+          "ctx_before": "6, "
+        },
+        {
+          "ref": "е",
+          "ctx_before": ", П"
+        },
+        {
+          "ref": "р",
+          "ctx_before": " Пе"
+        },
+        {
+          "ref": "е",
+          "ctx_before": "Пер"
+        },
+        {
+          "ref": "с",
+          "ctx_before": "ере"
+        },
+        {
+          "ref": "т",
+          "ctx_before": "рес"
+        },
+        {
+          "ref": " ",
+          "ctx_before": "ст."
+        },
+        {
+          "ref": "2",
+          "ctx_before": "т. "
+        },
+        {
+          "ref": "6",
+          "ctx_before": ". 2"
+        }
+      ]
+    },
+    {
+      "filename": "027.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": " ты"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "що "
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "030.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "час"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "кгр"
+        },
+        {
+          "ref": "ѣ",
+          "ocr": "ъ",
+          "ctx_before": " св"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "031.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ѣ",
+          "ocr": "ъ",
+          "ctx_before": "час"
+        },
+        {
+          "ref": "К",
+          "ocr": "Х",
+          "ctx_before": "бо "
+        },
+        {
+          "ref": "г",
+          "ocr": "а",
+          "ctx_before": "о К"
+        },
+        {
+          "ref": "г",
+          "ocr": "ы",
+          "ctx_before": "збѣ"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "е",
+          "ctx_before": " юж"
+        }
+      ],
+      "deletions": [
+        {
+          "ref": "ѣ",
+          "ctx_before": "озб"
+        }
+      ]
+    },
+    {
+      "filename": "032.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "е",
+          "ocr": "(",
+          "ctx_before": "утв"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "є",
+          "ctx_before": "утв"
+        },
+        {
+          "ocr": ")",
+          "ctx_before": "вер"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "лил"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "дѣл"
+        }
+      ],
+      "deletions": [
+        {
+          "ref": "г",
+          "ctx_before": "‹к"
+        },
+        {
+          "ref": " ",
+          "ctx_before": "о›…"
+        }
+      ]
+    },
+    {
+      "filename": "033.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ѣ",
+          "ocr": "ъ",
+          "ctx_before": "тыр"
+        },
+        {
+          "ref": "ы",
+          "ocr": "и",
+          "ctx_before": "в н"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "вны"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "то "
+        },
+        {
+          "ref": "х",
+          "ocr": "е",
+          "ctx_before": " ры"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "вен"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": " ма"
+        },
+        {
+          "ref": "ж",
+          "ocr": "с",
+          "ctx_before": " за"
+        },
+        {
+          "ref": "л",
+          "ocr": "в",
+          "ctx_before": " ва"
+        }
+      ],
+      "insertions": [],
+      "deletions": [
+        {
+          "ref": "л",
+          "ctx_before": "оли"
+        }
+      ]
+    },
+    {
+      "filename": "034.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "к",
+          "ocr": "К",
+          "ctx_before": "‹ "
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "сво"
+        },
+        {
+          "ref": "║",
+          "ocr": "/",
+          "ctx_before": "о ›"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "ыча"
+        },
+        {
+          "ref": "ы",
+          "ocr": "и",
+          "ctx_before": "овн"
+        },
+        {
+          "ref": "л",
+          "ocr": "м",
+          "ctx_before": "ым "
+        },
+        {
+          "ref": "ю",
+          "ocr": "о",
+          "ctx_before": "м л"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "ъ",
+          "ctx_before": "лил"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "035.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "о",
+          "ocr": "а",
+          "ctx_before": "чуд"
+        },
+        {
+          "ref": "й",
+          "ocr": "и",
+          "ctx_before": "оры"
+        },
+        {
+          "ref": "ѣ",
+          "ocr": "ы",
+          "ctx_before": "- р"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "ой "
+        },
+        {
+          "ref": "і",
+          "ocr": "е",
+          "ctx_before": "чуж"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "ем "
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "уща"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "ъ",
+          "ctx_before": "так"
+        },
+        {
+          "ocr": ".",
+          "ctx_before": "так"
+        },
+        {
+          "ocr": "и",
+          "ctx_before": "ным"
+        },
+        {
+          "ocr": "и",
+          "ctx_before": "дом"
+        },
+        {
+          "ocr": "и",
+          "ctx_before": "ным"
+        },
+        {
+          "ocr": "и",
+          "ctx_before": "лем"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "036.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ѣ",
+          "ocr": "ы",
+          "ctx_before": "ерв"
+        },
+        {
+          "ref": "я",
+          "ocr": "ѧ",
+          "ctx_before": "алс"
+        },
+        {
+          "ref": "я",
+          "ocr": "ѧ",
+          "ctx_before": " св"
+        },
+        {
+          "ref": "я",
+          "ocr": "ѧ",
+          "ctx_before": "ы с"
+        },
+        {
+          "ref": "ѣ",
+          "ocr": "ы",
+          "ctx_before": "вѣр"
+        },
+        {
+          "ref": "з",
+          "ocr": "д",
+          "ctx_before": "ой "
+        },
+        {
+          "ref": "я",
+          "ocr": "ѧ",
+          "ctx_before": " ст"
+        },
+        {
+          "ref": "я",
+          "ocr": "ѧ",
+          "ctx_before": "жен"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "о н"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": " ",
+          "ctx_before": "На"
+        }
+      ],
+      "deletions": [
+        {
+          "ref": " ",
+          "ctx_before": " то"
+        },
+        {
+          "ref": "н",
+          "ctx_before": "то "
+        }
+      ]
+    },
+    {
+      "filename": "037.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ю",
+          "ocr": "н",
+          "ctx_before": "къ "
+        },
+        {
+          "ref": "ж",
+          "ocr": "е",
+          "ctx_before": "ъ ю"
+        },
+        {
+          "ref": "ѣ",
+          "ocr": "ь",
+          "ctx_before": "тал"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "п",
+          "ctx_before": "къ "
+        },
+        {
+          "ocr": "о",
+          "ctx_before": "къ "
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "рил"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "039.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "я",
+          "ocr": "ѧ",
+          "ctx_before": " св"
+        },
+        {
+          "ref": "я",
+          "ocr": "ѧ",
+          "ctx_before": "ран"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "оры"
+        },
+        {
+          "ref": "я",
+          "ocr": "ѧ",
+          "ctx_before": "є с"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "ъ",
+          "ctx_before": "ках"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "оих"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "040.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "чи "
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "оже"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "то "
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "041.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "иле"
+        },
+        {
+          "ref": "л",
+          "ocr": "м",
+          "ctx_before": "о з"
+        },
+        {
+          "ref": "е",
+          "ocr": "і",
+          "ctx_before": " зл"
+        },
+        {
+          "ref": "ы",
+          "ocr": "и",
+          "ctx_before": " аб"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "сво"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "воє"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "н",
+          "ctx_before": "лец"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "044.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "оны"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "аны"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "045.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ы",
+          "ocr": "л",
+          "ctx_before": "ъ т"
+        },
+        {
+          "ref": "ѣ",
+          "ocr": "і",
+          "ctx_before": "аст"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "о",
+          "ctx_before": "ъ т"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "046.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ѣ",
+          "ocr": "і",
+          "ctx_before": "вят"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "прі"
+        },
+        {
+          "ref": "м",
+          "ocr": "ц",
+          "ctx_before": " в "
+        },
+        {
+          "ref": "ѣ",
+          "ocr": "в",
+          "ctx_before": "в м"
+        },
+        {
+          "ref": "с",
+          "ocr": "е",
+          "ctx_before": " мѣ"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "ъ",
+          "ctx_before": "арх"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "дом"
+        }
+      ],
+      "deletions": [
+        {
+          "ref": "ь",
+          "ctx_before": "пол"
+        }
+      ]
+    },
+    {
+      "filename": "047.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "я",
+          "ocr": "є",
+          "ctx_before": "цен"
+        }
+      ],
+      "insertions": [],
+      "deletions": [
+        {
+          "ref": "ъ",
+          "ctx_before": "ієв"
+        }
+      ]
+    },
+    {
+      "filename": "049.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "ди "
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "и в"
+        },
+        {
+          "ref": "ю",
+          "ocr": "о",
+          "ctx_before": "вєл"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": " ты"
+        },
+        {
+          "ref": "я",
+          "ocr": "Я",
+          "ctx_before": " … "
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "мо "
+        }
+      ],
+      "insertions": [],
+      "deletions": [
+        {
+          "ref": " ",
+          "ctx_before": "ва:"
+        }
+      ]
+    },
+    {
+      "filename": "051.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ѳ",
+          "ocr": "ф",
+          "ctx_before": "имо"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "на "
+        },
+        {
+          "ref": "а",
+          "ocr": "о",
+          "ctx_before": " ин"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "н",
+          "ctx_before": "ерг"
+        },
+        {
+          "ocr": "у",
+          "ctx_before": "ерг"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "052.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "оры"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": " Ст"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "- н"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "єм "
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "053.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ы",
+          "ocr": "и",
+          "ctx_before": "а т"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "055.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ѣ",
+          "ocr": "ъ",
+          "ctx_before": "вов"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": " ны"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "бны"
+        },
+        {
+          "ref": "с",
+          "ocr": "з",
+          "ctx_before": " ек"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "056.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "тро"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": " от"
+        },
+        {
+          "ref": "ц",
+          "ocr": "щ",
+          "ctx_before": "обе"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "роч"
+        },
+        {
+          "ref": "л",
+          "ocr": "м",
+          "ctx_before": "о з"
+        },
+        {
+          "ref": "ц",
+          "ocr": "щ",
+          "ctx_before": "зле"
+        },
+        {
+          "ref": "м",
+          "ocr": "М",
+          "ctx_before": "лъ "
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "прі"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "ъ",
+          "ctx_before": "ных"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": " он"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "сам"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "057.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "ую "
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "ь",
+          "ctx_before": "вол"
+        },
+        {
+          "ocr": "о",
+          "ctx_before": "кот"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "058.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "лъ "
+        },
+        {
+          "ref": "ч",
+          "ocr": "м",
+          "ctx_before": "м, "
+        },
+        {
+          "ref": "з",
+          "ocr": "ж",
+          "ctx_before": "оло"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "ых "
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "ъ",
+          "ctx_before": "рых"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "ках"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "060.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ѣ",
+          "ocr": "ь",
+          "ctx_before": " вс"
+        },
+        {
+          "ref": "і",
+          "ocr": "и",
+          "ctx_before": " пр"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "прі"
+        },
+        {
+          "ref": "і",
+          "ocr": "и",
+          "ctx_before": "атр"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "ыва"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "е",
+          "ctx_before": "е в"
+        }
+      ],
+      "deletions": [
+        {
+          "ref": " ",
+          "ctx_before": "акъ"
+        }
+      ]
+    },
+    {
+      "filename": "062.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ѣ",
+          "ocr": "в",
+          "ctx_before": "Заб"
+        },
+        {
+          "ref": "г",
+          "ocr": "и",
+          "ctx_before": "абѣ"
+        },
+        {
+          "ref": "ѣ",
+          "ocr": "ъ",
+          "ctx_before": "лит"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "а",
+          "ctx_before": "Заб"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "064.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ъ",
+          "ocr": "ь",
+          "ctx_before": "меш"
+        },
+        {
+          "ref": "о",
+          "ocr": "а",
+          "ctx_before": " ск"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "та "
+        },
+        {
+          "ref": ";",
+          "ocr": ",",
+          "ctx_before": "обѣ"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": " ",
+          "ctx_before": "ом,"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "065.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ъ",
+          "ocr": "ь",
+          "ctx_before": "меш"
+        }
+      ],
+      "insertions": [],
+      "deletions": [
+        {
+          "ref": ".",
+          "ctx_before": "стю"
+        }
+      ]
+    },
+    {
+      "filename": "067.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "и н"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "м м"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "и р"
+        },
+        {
+          "ref": "ы",
+          "ocr": "о",
+          "ctx_before": "ивн"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": " о "
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "коп"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "069.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": " то"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "070.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "г",
+          "ocr": "є",
+          "ctx_before": "о к"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "и з"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "мъ "
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "м Г"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "Гед"
+        },
+        {
+          "ref": "є",
+          "ocr": "ѣ",
+          "ctx_before": "мъ "
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": " Гр"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "ъ в"
+        },
+        {
+          "ref": "ж",
+          "ocr": "о",
+          "ctx_before": ", а"
+        },
+        {
+          "ref": "ъ",
+          "ocr": "к",
+          "ctx_before": " аж"
+        },
+        {
+          "ref": " ",
+          "ocr": "о",
+          "ctx_before": "ажъ"
+        },
+        {
+          "ref": "з",
+          "ocr": "л",
+          "ctx_before": "жъ "
+        },
+        {
+          "ref": "а",
+          "ocr": "о",
+          "ctx_before": "ъ з"
+        },
+        {
+          "ref": "х",
+          "ocr": "є",
+          "ctx_before": "ѣса"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "ъ",
+          "ctx_before": "рил"
+        }
+      ],
+      "deletions": [
+        {
+          "ref": "ъ",
+          "ctx_before": "ким"
+        },
+        {
+          "ref": "ъ",
+          "ctx_before": "ном"
+        },
+        {
+          "ref": "ъ",
+          "ctx_before": "ком"
+        },
+        {
+          "ref": "ъ",
+          "ctx_before": "ков"
+        },
+        {
+          "ref": "ъ",
+          "ctx_before": "оих"
+        },
+        {
+          "ref": "а",
+          "ctx_before": "є, "
+        },
+        {
+          "ref": "а",
+          "ctx_before": "лѣс"
+        }
+      ]
+    },
+    {
+      "filename": "071.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "и",
+          "ocr": "е",
+          "ctx_before": "рав"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "и в"
+        },
+        {
+          "ref": "о",
+          "ocr": "а",
+          "ctx_before": "уцк"
+        },
+        {
+          "ref": "м",
+          "ocr": "ш",
+          "ctx_before": "цко"
+        },
+        {
+          "ref": "ъ",
+          "ocr": "е",
+          "ctx_before": " юж"
+        }
+      ],
+      "insertions": [],
+      "deletions": [
+        {
+          "ref": "ц",
+          "ctx_before": " лу"
+        }
+      ]
+    },
+    {
+      "filename": "073.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": " да"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "и, "
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "йду"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "ъ",
+          "ctx_before": "нит"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "074.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "и",
+          "ocr": "і",
+          "ctx_before": "ятѣ"
+        }
+      ],
+      "insertions": [],
+      "deletions": [
+        {
+          "ref": "ѣ",
+          "ctx_before": "вят"
+        }
+      ]
+    },
+    {
+      "filename": "075.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ы",
+          "ocr": "о",
+          "ctx_before": "е т"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "е",
+          "ctx_before": "тыж"
+        },
+        {
+          "ocr": "н",
+          "ctx_before": " ро"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "076.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "е",
+          "ocr": "ѣ",
+          "ctx_before": "ъ м"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "вящ"
+        },
+        {
+          "ref": "е",
+          "ocr": "я",
+          "ctx_before": "тис"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "лтр"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "отр"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "ы ц"
+        },
+        {
+          "ref": "ы",
+          "ocr": "о",
+          "ctx_before": "овн"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "и н"
+        }
+      ],
+      "insertions": [],
+      "deletions": [
+        {
+          "ref": " ",
+          "ctx_before": "ит-"
+        },
+        {
+          "ref": "с",
+          "ctx_before": "т- "
+        },
+        {
+          "ref": "я",
+          "ctx_before": "- с"
+        },
+        {
+          "ref": ";",
+          "ctx_before": " ся"
+        }
+      ]
+    },
+    {
+      "filename": "077.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "то "
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "ам "
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "бы "
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "на "
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "ъ",
+          "ctx_before": "нен"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "был"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "ван"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "079.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": " то"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": " ма"
+        },
+        {
+          "ref": "ѣ",
+          "ocr": "и",
+          "ctx_before": " ан"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": " ма"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": " ма"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "ь",
+          "ctx_before": "фол"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "080.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ѣ",
+          "ocr": "о",
+          "ctx_before": " ан"
+        },
+        {
+          "ref": "и",
+          "ocr": "і",
+          "ctx_before": "іон"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "081.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": " от"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "082.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ж",
+          "ocr": "с",
+          "ctx_before": "яко"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "е",
+          "ctx_before": " иж"
+        },
+        {
+          "ocr": "я",
+          "ctx_before": "и, "
+        }
+      ],
+      "deletions": [
+        {
+          "ref": "л",
+          "ctx_before": "ири"
+        }
+      ]
+    },
+    {
+      "filename": "083.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "л",
+          "ocr": "ъ",
+          "ctx_before": "рил"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": " то"
+        },
+        {
+          "ref": "ы",
+          "ocr": "и",
+          "ctx_before": "ром"
+        },
+        {
+          "ref": "ы",
+          "ocr": "и",
+          "ctx_before": "коб"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "084.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [],
+      "insertions": [
+        {
+          "ocr": ",",
+          "ctx_before": "алъ"
+        },
+        {
+          "ocr": " ",
+          "ctx_before": "алъ"
+        },
+        {
+          "ocr": "Л",
+          "ctx_before": "алъ"
+        },
+        {
+          "ocr": "ь",
+          "ctx_before": "алъ"
+        },
+        {
+          "ocr": "в",
+          "ctx_before": "алъ"
+        },
+        {
+          "ocr": "і",
+          "ctx_before": "алъ"
+        },
+        {
+          "ocr": "в",
+          "ctx_before": "алъ"
+        },
+        {
+          "ocr": ",",
+          "ctx_before": "алъ"
+        },
+        {
+          "ocr": " ",
+          "ctx_before": "алъ"
+        },
+        {
+          "ocr": "1",
+          "ctx_before": "алъ"
+        },
+        {
+          "ocr": "6",
+          "ctx_before": "алъ"
+        },
+        {
+          "ocr": "0",
+          "ctx_before": "алъ"
+        },
+        {
+          "ocr": "5",
+          "ctx_before": "алъ"
+        },
+        {
+          "ocr": "-",
+          "ctx_before": "алъ"
+        },
+        {
+          "ocr": "1",
+          "ctx_before": "алъ"
+        },
+        {
+          "ocr": "6",
+          "ctx_before": "алъ"
+        },
+        {
+          "ocr": "0",
+          "ctx_before": "алъ"
+        },
+        {
+          "ocr": "6",
+          "ctx_before": "алъ"
+        },
+        {
+          "ocr": " ",
+          "ctx_before": "лъ,"
+        },
+        {
+          "ocr": "Б",
+          "ctx_before": "лъ,"
+        },
+        {
+          "ocr": "е",
+          "ctx_before": "лъ,"
+        },
+        {
+          "ocr": "р",
+          "ctx_before": "лъ,"
+        },
+        {
+          "ocr": "е",
+          "ctx_before": "лъ,"
+        },
+        {
+          "ocr": "с",
+          "ctx_before": "лъ,"
+        },
+        {
+          "ocr": "т",
+          "ctx_before": "лъ,"
+        },
+        {
+          "ocr": ".",
+          "ctx_before": "лъ,"
+        },
+        {
+          "ocr": " ",
+          "ctx_before": "лъ,"
+        },
+        {
+          "ocr": "3",
+          "ctx_before": "лъ,"
+        },
+        {
+          "ocr": "0",
+          "ctx_before": "лъ,"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "085.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ѣ",
+          "ocr": "ъ",
+          "ctx_before": " ум"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "ъ",
+          "ctx_before": "лим"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "086.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "я",
+          "ocr": "и",
+          "ctx_before": " сп"
+        },
+        {
+          "ref": "щ",
+          "ocr": "ш",
+          "ctx_before": "спя"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "лы "
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "и",
+          "ctx_before": "щим"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "ных"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "087.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "є",
+          "ocr": "ѣ",
+          "ctx_before": " от"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "сво"
+        },
+        {
+          "ref": ",",
+          "ocr": ";",
+          "ctx_before": "зил"
+        },
+        {
+          "ref": "є",
+          "ocr": "ѣ",
+          "ctx_before": " от"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "еті"
+        },
+        {
+          "ref": "м",
+          "ocr": "й",
+          "ctx_before": "єво"
+        },
+        {
+          "ref": "ж",
+          "ocr": "м",
+          "ctx_before": " Ро"
+        },
+        {
+          "ref": "щ",
+          "ocr": "н",
+          "ctx_before": "ожи"
+        },
+        {
+          "ref": "є",
+          "ocr": "ѣ",
+          "ctx_before": " по"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "ъ",
+          "ctx_before": "оєм"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "зил"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "так"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "час"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "сам"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "раз"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "тым"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "лом"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "бох"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "тов"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "088.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ь",
+          "ocr": "ъ",
+          "ctx_before": "под"
+        },
+        {
+          "ref": "ж",
+          "ocr": "н",
+          "ctx_before": "зво"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "лъ "
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "089.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ь",
+          "ocr": "ъ",
+          "ctx_before": "ниц"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": ".",
+          "ctx_before": "яти"
+        },
+        {
+          "ocr": " ",
+          "ctx_before": "яти"
+        },
+        {
+          "ocr": "Л",
+          "ctx_before": "яти"
+        },
+        {
+          "ocr": "ь",
+          "ctx_before": "яти"
+        },
+        {
+          "ocr": "в",
+          "ctx_before": "яти"
+        },
+        {
+          "ocr": "і",
+          "ctx_before": "яти"
+        },
+        {
+          "ocr": "в",
+          "ctx_before": "яти"
+        },
+        {
+          "ocr": ",",
+          "ctx_before": "яти"
+        },
+        {
+          "ocr": " ",
+          "ctx_before": "яти"
+        },
+        {
+          "ocr": "1",
+          "ctx_before": "яти"
+        },
+        {
+          "ocr": "6",
+          "ctx_before": "яти"
+        },
+        {
+          "ocr": "0",
+          "ctx_before": "яти"
+        },
+        {
+          "ocr": "5",
+          "ctx_before": "яти"
+        },
+        {
+          "ocr": " ",
+          "ctx_before": "яти"
+        },
+        {
+          "ocr": "-",
+          "ctx_before": "яти"
+        },
+        {
+          "ocr": " ",
+          "ctx_before": "яти"
+        },
+        {
+          "ocr": "1",
+          "ctx_before": "яти"
+        },
+        {
+          "ocr": "6",
+          "ctx_before": "яти"
+        },
+        {
+          "ocr": "0",
+          "ctx_before": "яти"
+        },
+        {
+          "ocr": "6",
+          "ctx_before": "яти"
+        },
+        {
+          "ocr": ",",
+          "ctx_before": "яти"
+        },
+        {
+          "ocr": " ",
+          "ctx_before": "яти"
+        },
+        {
+          "ocr": "Б",
+          "ctx_before": "яти"
+        },
+        {
+          "ocr": "е",
+          "ctx_before": "яти"
+        },
+        {
+          "ocr": "р",
+          "ctx_before": "яти"
+        },
+        {
+          "ocr": "е",
+          "ctx_before": "яти"
+        },
+        {
+          "ocr": "с",
+          "ctx_before": "яти"
+        },
+        {
+          "ocr": "т",
+          "ctx_before": "яти"
+        },
+        {
+          "ocr": " ",
+          "ctx_before": "ти."
+        },
+        {
+          "ocr": "3",
+          "ctx_before": "ти."
+        },
+        {
+          "ocr": "0",
+          "ctx_before": "ти."
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "091.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "на "
+        },
+        {
+          "ref": "ы",
+          "ocr": "и",
+          "ctx_before": "тор"
+        },
+        {
+          "ref": "ы",
+          "ocr": "и",
+          "ctx_before": "м б"
+        },
+        {
+          "ref": "о",
+          "ocr": "а",
+          "ctx_before": "ожд"
+        },
+        {
+          "ref": "ж",
+          "ocr": "о",
+          "ctx_before": "так"
+        },
+        {
+          "ref": "е",
+          "ocr": "ж",
+          "ctx_before": "акж"
+        },
+        {
+          "ref": "ъ",
+          "ocr": "в",
+          "ctx_before": "чил"
+        }
+      ],
+      "insertions": [],
+      "deletions": [
+        {
+          "ref": "ж",
+          "ctx_before": "што"
+        },
+        {
+          "ref": "ъ",
+          "ctx_before": "тож"
+        },
+        {
+          "ref": "л",
+          "ctx_before": "учи"
+        }
+      ]
+    },
+    {
+      "filename": "093.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ы",
+          "ocr": "и",
+          "ctx_before": "нор"
+        },
+        {
+          "ref": "ж",
+          "ocr": "з",
+          "ctx_before": "кня"
+        },
+        {
+          "ref": "а",
+          "ocr": "я",
+          "ctx_before": "няж"
+        },
+        {
+          "ref": "г",
+          "ocr": "ш",
+          "ctx_before": " на"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "095.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ѣ",
+          "ocr": "и",
+          "ctx_before": "вер"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "аны"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "лъ "
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "оно"
+        },
+        {
+          "ref": "ѣ",
+          "ocr": "ъ",
+          "ctx_before": "шул"
+        },
+        {
+          "ref": "ѣ",
+          "ocr": "у",
+          "ctx_before": "лов"
+        },
+        {
+          "ref": "ж",
+          "ocr": "ъ",
+          "ctx_before": "ъ и"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "ет "
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "ъ",
+          "ctx_before": "нѣт"
+        },
+        {
+          "ocr": "м",
+          "ctx_before": "ъ и"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "бет"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "097.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "г",
+          "ocr": "в",
+          "ctx_before": "плю"
+        },
+        {
+          "ref": "и",
+          "ocr": "ш",
+          "ctx_before": "гав"
+        },
+        {
+          "ref": "л",
+          "ocr": "и",
+          "ctx_before": "ави"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "099.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "ія "
+        },
+        {
+          "ref": "е",
+          "ocr": "ѣ",
+          "ctx_before": "Пот"
+        },
+        {
+          "ref": "м",
+          "ocr": "в",
+          "ctx_before": "сра"
+        },
+        {
+          "ref": "о",
+          "ocr": "ы",
+          "ctx_before": "идн"
+        },
+        {
+          "ref": "ѣ",
+          "ocr": "і",
+          "ctx_before": "зам"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "100.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "на "
+        },
+        {
+          "ref": "ъ",
+          "ocr": "ь",
+          "ctx_before": "шил"
+        },
+        {
+          "ref": "ъ",
+          "ocr": "ь",
+          "ctx_before": "зал"
+        },
+        {
+          "ref": "ъ",
+          "ocr": "ь",
+          "ctx_before": "реч"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "103.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "г",
+          "ocr": "о",
+          "ctx_before": "К"
+        },
+        {
+          "ref": "є",
+          "ocr": "Є",
+          "ctx_before": "а, "
+        },
+        {
+          "ref": " ",
+          "ocr": "і",
+          "ctx_before": "н ║"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "и",
+          "ctx_before": "м в"
+        }
+      ],
+      "deletions": [
+        {
+          "ref": "║",
+          "ctx_before": "ин "
+        }
+      ]
+    },
+    {
+      "filename": "104.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ѣ",
+          "ocr": "а",
+          "ctx_before": "овс"
+        },
+        {
+          "ref": "м",
+          "ocr": "л",
+          "ctx_before": "всѣ"
+        },
+        {
+          "ref": "о",
+          "ocr": "а",
+          "ctx_before": "упр"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "ъ",
+          "ctx_before": "дыж"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": " он"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "ным"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "хом"
+        },
+        {
+          "ocr": "т",
+          "ctx_before": "овс"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "106.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "шля"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "107.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ы",
+          "ocr": "и",
+          "ctx_before": "ємн"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "ром"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "109.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": " от"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "ти "
+        },
+        {
+          "ref": "м",
+          "ocr": "н",
+          "ctx_before": " об"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "ми "
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "ъ",
+          "ctx_before": "рых"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "110.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "зь "
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "ал "
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "111.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "з",
+          "ocr": "с",
+          "ctx_before": "оло"
+        },
+        {
+          "ref": "т",
+          "ocr": "щ",
+          "ctx_before": ", ш"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "то "
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "нѣ "
+        },
+        {
+          "ref": "о",
+          "ocr": "а",
+          "ctx_before": "о в"
+        },
+        {
+          "ref": "ѣ",
+          "ocr": "б",
+          "ctx_before": " о "
+        },
+        {
+          "ref": "д",
+          "ocr": "ѣ",
+          "ctx_before": "о ѣ"
+        },
+        {
+          "ref": "ѣ",
+          "ocr": "т",
+          "ctx_before": " ѣд"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "ж",
+          "ctx_before": "оло"
+        }
+      ],
+      "deletions": [
+        {
+          "ref": "ш",
+          "ctx_before": "и, "
+        },
+        {
+          "ref": "ъ",
+          "ctx_before": "фал"
+        }
+      ]
+    },
+    {
+      "filename": "112.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ы",
+          "ocr": "и",
+          "ctx_before": "В т"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": " ты"
+        },
+        {
+          "ref": "я",
+          "ocr": "и",
+          "ctx_before": " кн"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "оны"
+        },
+        {
+          "ref": "ы",
+          "ocr": "ь",
+          "ctx_before": "зан"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "жно"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "го "
+        },
+        {
+          "ref": "з",
+          "ocr": "д",
+          "ctx_before": " за"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "лъ "
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "113.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ю",
+          "ocr": "о",
+          "ctx_before": "чи "
+        },
+        {
+          "ref": "ы",
+          "ocr": "и",
+          "ctx_before": "ран"
+        },
+        {
+          "ref": "л",
+          "ocr": "м",
+          "ctx_before": "ы, "
+        },
+        {
+          "ref": "у",
+          "ocr": "ү",
+          "ctx_before": ", л"
+        },
+        {
+          "ref": "ц",
+          "ocr": "ж",
+          "ctx_before": " лу"
+        },
+        {
+          "ref": "і",
+          "ocr": "ї",
+          "ctx_before": "уцк"
+        },
+        {
+          "ref": "о",
+          "ocr": "ó",
+          "ctx_before": " сл"
+        },
+        {
+          "ref": "е",
+          "ocr": "о",
+          "ctx_before": ", ч"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "зло"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "тин"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "я н"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "неб"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "н",
+          "ctx_before": "чи "
+        }
+      ],
+      "deletions": [
+        {
+          "ref": "г",
+          "ctx_before": " бѣ"
+        }
+      ]
+    },
+    {
+      "filename": "114.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ж",
+          "ocr": "ш",
+          "ctx_before": ", и"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "ер "
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "а- "
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "н",
+          "ctx_before": ", и"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": " єт"
+        }
+      ],
+      "deletions": [
+        {
+          "ref": "║",
+          "ctx_before": "ока"
+        }
+      ]
+    },
+    {
+      "filename": "116.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "жъ "
+        },
+        {
+          "ref": "х",
+          "ocr": "к",
+          "ctx_before": "іар"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "хов"
+        },
+        {
+          "ref": "ѣ",
+          "ocr": "ь",
+          "ctx_before": "емл"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "ско"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "с",
+          "ctx_before": "іар"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "117.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ъ",
+          "ocr": "о",
+          "ctx_before": "вил"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "118.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ж",
+          "ocr": "с",
+          "ctx_before": "а"
+        },
+        {
+          "ref": "л",
+          "ocr": "ш",
+          "ctx_before": "гор"
+        },
+        {
+          "ref": ".",
+          "ocr": ",",
+          "ctx_before": "жит"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "и",
+          "ctx_before": "а"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "жит"
+        },
+        {
+          "ocr": " ",
+          "ctx_before": "жит"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "120.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [],
+      "insertions": [
+        {
+          "ocr": "е",
+          "ctx_before": " юж"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "121.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "къ "
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": " то"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "ъ",
+          "ctx_before": "том"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "оим"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "ных"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": " им"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "122.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [],
+      "insertions": [
+        {
+          "ocr": "є",
+          "ctx_before": "Ниж"
+        },
+        {
+          "ocr": "й",
+          "ctx_before": "при"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "123.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ы",
+          "ocr": "о",
+          "ctx_before": "- н"
+        },
+        {
+          "ref": "ъ",
+          "ocr": "ѣ",
+          "ctx_before": "бѣд"
+        },
+        {
+          "ref": "ѣ",
+          "ocr": "і",
+          "ctx_before": ", н"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": " ",
+          "ctx_before": " за"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "124.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ы",
+          "ocr": "и",
+          "ctx_before": "х п"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "т",
+          "ctx_before": "ам "
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "126.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "скл"
+        },
+        {
+          "ref": "ѣ",
+          "ocr": "ї",
+          "ctx_before": " ун"
+        },
+        {
+          "ref": "м",
+          "ocr": "и",
+          "ctx_before": " та"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "амж"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "кал"
+        },
+        {
+          "ref": "і",
+          "ocr": "ї",
+          "ctx_before": " пр"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "и н"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "явн"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "ємн"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "рит"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "е м"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "рол"
+        },
+        {
+          "ref": "и",
+          "ocr": "ї",
+          "ctx_before": "зма"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "127.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "г",
+          "ocr": "к",
+          "ctx_before": "син"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "зна"
+        },
+        {
+          "ref": "о",
+          "ocr": "а",
+          "ctx_before": "баш"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "128.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "г",
+          "ocr": "к",
+          "ctx_before": "син"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "бач"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "гу "
+        },
+        {
+          "ref": "ь",
+          "ocr": "̾",
+          "ctx_before": "кил"
+        },
+        {
+          "ref": "у",
+          "ocr": "ю",
+          "ctx_before": " ст"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "и",
+          "ctx_before": "ти "
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "129.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "е",
+          "ocr": "ѣ",
+          "ctx_before": "о м"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": " ты"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "сво"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "130.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "ая "
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "131.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "м",
+          "ocr": "и",
+          "ctx_before": "оро"
+        },
+        {
+          "ref": "м",
+          "ocr": "и",
+          "ctx_before": " то"
+        },
+        {
+          "ref": "ѣ",
+          "ocr": "ъ",
+          "ctx_before": "наш"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "132.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ж",
+          "ocr": "м",
+          "ctx_before": "А и"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": " иж"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "рав"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "і",
+          "ctx_before": "ван"
+        }
+      ],
+      "deletions": [
+        {
+          "ref": "с",
+          "ctx_before": "али"
+        }
+      ]
+    },
+    {
+      "filename": "133.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ж",
+          "ocr": "м",
+          "ctx_before": "А и"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": " иж"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "и ж"
+        },
+        {
+          "ref": "щ",
+          "ocr": "ц",
+          "ctx_before": " хо"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "хощ"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "и п"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "пер"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "гоч"
+        },
+        {
+          "ref": "м",
+          "ocr": "л",
+          "ctx_before": "и з"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": " зм"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "134.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "с",
+          "ocr": "л",
+          "ctx_before": "м в"
+        },
+        {
+          "ref": "ѣ",
+          "ocr": "и",
+          "ctx_before": " вс"
+        },
+        {
+          "ref": "м",
+          "ocr": "т",
+          "ctx_before": "всѣ"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "а с"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "єст"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "є",
+          "ctx_before": "м в"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "135.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ы",
+          "ocr": "и",
+          "ctx_before": "ѣшн"
+        },
+        {
+          "ref": "ь",
+          "ocr": "ъ",
+          "ctx_before": "тал"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "136.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "Т",
+          "ocr": "П",
+          "ctx_before": ""
+        },
+        {
+          "ref": "ж",
+          "ocr": "с",
+          "ctx_before": "ъ, "
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "илы"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "в",
+          "ctx_before": "ъ, "
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "138.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "оны"
+        },
+        {
+          "ref": "ъ",
+          "ocr": "ь",
+          "ctx_before": "ков"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "140.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "оны"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "лов"
+        },
+        {
+          "ref": "я",
+          "ocr": "ѧ",
+          "ctx_before": "лис"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "сво"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "142.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ы",
+          "ocr": "и",
+          "ctx_before": "а н"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "143.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "прі"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "144.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "льв"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "дим"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": " вс"
+        }
+      ],
+      "insertions": [],
+      "deletions": [
+        {
+          "ref": "у",
+          "ctx_before": "ій "
+        }
+      ]
+    },
+    {
+      "filename": "145.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ф",
+          "ocr": "с",
+          "ctx_before": "нео"
+        },
+        {
+          "ref": "ѣ",
+          "ocr": "ф",
+          "ctx_before": "еоф"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "147.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "г",
+          "ocr": "е",
+          "ctx_before": ""
+        },
+        {
+          "ref": "ѣ",
+          "ocr": "е",
+          "ctx_before": " оф"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "149.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "і",
+          "ocr": "е",
+          "ctx_before": "бож"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "151.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "ско"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "цко"
+        },
+        {
+          "ref": "м",
+          "ocr": "и",
+          "ctx_before": "аня"
+        },
+        {
+          "ref": "м",
+          "ocr": "и",
+          "ctx_before": "аня"
+        },
+        {
+          "ref": "е",
+          "ocr": "о",
+          "ctx_before": "а ч"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "153.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "е",
+          "ocr": "о",
+          "ctx_before": " пр"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "ъ",
+          "ctx_before": "оих"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "155.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ѣ",
+          "ocr": "ъ",
+          "ctx_before": "ред"
+        },
+        {
+          "ref": "ы",
+          "ocr": "и",
+          "ctx_before": "дим"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "156.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ц",
+          "ocr": "т",
+          "ctx_before": "лан"
+        },
+        {
+          "ref": "ѣ",
+          "ocr": "ъ",
+          "ctx_before": "анц"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "сво"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "шен"
+        },
+        {
+          "ref": "д",
+          "ocr": "о",
+          "ctx_before": "въ "
+        },
+        {
+          "ref": "ѣ",
+          "ocr": "б",
+          "ctx_before": "ъ д"
+        },
+        {
+          "ref": "є",
+          "ocr": "ѣ",
+          "ctx_before": " дѣ"
+        },
+        {
+          "ref": "ъ",
+          "ocr": "н",
+          "ctx_before": "ѣєт"
+        },
+        {
+          "ref": "с",
+          "ocr": "и",
+          "ctx_before": "єтъ"
+        },
+        {
+          "ref": "я",
+          "ocr": "ц",
+          "ctx_before": "тъс"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "у",
+          "ctx_before": "лан"
+        },
+        {
+          "ocr": "и",
+          "ctx_before": "зос"
+        }
+      ],
+      "deletions": [
+        {
+          "ref": "ь",
+          "ctx_before": "пол"
+        },
+        {
+          "ref": "г",
+          "ctx_before": "и к"
+        }
+      ]
+    },
+    {
+      "filename": "157.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [],
+      "insertions": [
+        {
+          "ocr": "ъ",
+          "ctx_before": "чих"
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": " их"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "158.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "сво"
+        },
+        {
+          "ref": "ѣ",
+          "ocr": "ъ",
+          "ctx_before": "реб"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "прі"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "то "
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "159.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "П",
+          "ocr": "Б",
+          "ctx_before": ""
+        },
+        {
+          "ref": "д",
+          "ocr": "ъ",
+          "ctx_before": "По"
+        },
+        {
+          "ref": "т",
+          "ocr": "а",
+          "ctx_before": " ко"
+        },
+        {
+          "ref": "о",
+          "ocr": "к",
+          "ctx_before": "кот"
+        },
+        {
+          "ref": "р",
+          "ocr": "ό",
+          "ctx_before": "ото"
+        },
+        {
+          "ref": "у",
+          "ocr": "в",
+          "ctx_before": "тор"
+        },
+        {
+          "ref": "ю",
+          "ocr": "ъ",
+          "ctx_before": "ору"
+        },
+        {
+          "ref": "е",
+          "ocr": "г",
+          "ctx_before": "ю н"
+        },
+        {
+          "ref": "п",
+          "ocr": "о",
+          "ctx_before": " не"
+        },
+        {
+          "ref": "і",
+          "ocr": "о",
+          "ctx_before": "епр"
+        },
+        {
+          "ref": "я",
+          "ocr": "д",
+          "ctx_before": "прі"
+        },
+        {
+          "ref": "з",
+          "ocr": "и",
+          "ctx_before": "рія"
+        },
+        {
+          "ref": "н",
+          "ocr": "в",
+          "ctx_before": "іяз"
+        },
+        {
+          "ref": "ь",
+          "ocr": "ъ",
+          "ctx_before": "язн"
+        },
+        {
+          "ref": "р",
+          "ocr": "щ",
+          "ctx_before": "ь т"
+        },
+        {
+          "ref": "а",
+          "ocr": "є",
+          "ctx_before": " тр"
+        },
+        {
+          "ref": "ф",
+          "ocr": "д",
+          "ctx_before": "тра"
+        },
+        {
+          "ref": "и",
+          "ocr": "р",
+          "ctx_before": "раф"
+        },
+        {
+          "ref": "л",
+          "ocr": "ό",
+          "ctx_before": "афи"
+        },
+        {
+          "ref": "о",
+          "ocr": "с",
+          "ctx_before": "фил"
+        },
+        {
+          "ref": "с",
+          "ocr": "т",
+          "ctx_before": "ило"
+        },
+        {
+          "ref": "я",
+          "ocr": "ю",
+          "ctx_before": "лос"
+        },
+        {
+          "ref": "ж",
+          "ocr": "в",
+          "ctx_before": " , "
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": ", ж"
+        },
+        {
+          "ref": "н",
+          "ocr": "є",
+          "ctx_before": "е к"
+        },
+        {
+          "ref": "я",
+          "ocr": "й",
+          "ctx_before": " кн"
+        },
+        {
+          "ref": "ж",
+          "ocr": "н",
+          "ctx_before": "кня"
+        },
+        {
+          "ref": "а",
+          "ocr": "ό",
+          "ctx_before": "няж"
+        },
+        {
+          "ref": " ",
+          "ocr": "т",
+          "ctx_before": "яжа"
+        },
+        {
+          "ref": ".",
+          "ocr": "ы",
+          "ctx_before": "жа "
+        },
+        {
+          "ref": ".",
+          "ocr": " ",
+          "ctx_before": "а ."
+        },
+        {
+          "ref": ".",
+          "ocr": "…",
+          "ctx_before": " .."
+        },
+        {
+          "ref": "н",
+          "ocr": "п",
+          "ctx_before": "лъ "
+        },
+        {
+          "ref": "ѣ",
+          "ocr": "р",
+          "ctx_before": "ъ н"
+        },
+        {
+          "ref": "к",
+          "ocr": "є",
+          "ctx_before": " нѣ"
+        },
+        {
+          "ref": "о",
+          "ocr": "з",
+          "ctx_before": "нѣк"
+        },
+        {
+          "ref": "т",
+          "ocr": "а",
+          "ctx_before": "ѣко"
+        },
+        {
+          "ref": "о",
+          "ocr": "ц",
+          "ctx_before": "кот"
+        },
+        {
+          "ref": "р",
+          "ocr": "н",
+          "ctx_before": "ото"
+        },
+        {
+          "ref": "В",
+          "ocr": "б",
+          "ctx_before": "го "
+        },
+        {
+          "ref": "л",
+          "ocr": "г",
+          "ctx_before": " Во"
+        },
+        {
+          "ref": "ш",
+          "ocr": "т",
+          "ctx_before": "о- "
+        },
+        {
+          "ref": "н",
+          "ocr": "в",
+          "ctx_before": " ши"
+        },
+        {
+          "ref": "м",
+          "ocr": "н",
+          "ctx_before": "а и"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": " им"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": "мен"
+        },
+        {
+          "ref": "м",
+          "ocr": "й",
+          "ctx_before": "ене"
+        },
+        {
+          "ref": "Я",
+          "ocr": "з",
+          "ctx_before": "ем "
+        },
+        {
+          "ref": "н",
+          "ocr": "и",
+          "ctx_before": "м Я"
+        },
+        {
+          "ref": "е",
+          "ocr": "т",
+          "ctx_before": " Ян"
+        },
+        {
+          "ref": "г",
+          "ocr": "є",
+          "ctx_before": "Яне"
+        },
+        {
+          "ref": "о",
+          "ocr": "ю",
+          "ctx_before": "нег"
+        },
+        {
+          "ref": "В",
+          "ocr": "б",
+          "ctx_before": "до "
+        },
+        {
+          "ref": "л",
+          "ocr": "р",
+          "ctx_before": " Во"
+        },
+        {
+          "ref": "о",
+          "ocr": "з",
+          "ctx_before": "Вол"
+        },
+        {
+          "ref": "х",
+          "ocr": "о",
+          "ctx_before": "оло"
+        },
+        {
+          "ref": "е",
+          "ocr": "п",
+          "ctx_before": "кон"
+        },
+        {
+          "ref": "й",
+          "ocr": "і",
+          "ctx_before": "оне"
+        },
+        {
+          "ref": " ",
+          "ocr": "д",
+          "ctx_before": "ней"
+        },
+        {
+          "ref": "т",
+          "ocr": "п",
+          "ctx_before": "ей "
+        },
+        {
+          "ref": "у",
+          "ocr": "є",
+          "ctx_before": "й т"
+        },
+        {
+          "ref": "с",
+          "ocr": " ",
+          "ctx_before": "тур"
+        },
+        {
+          "ref": "и",
+          "ocr": " ",
+          "ctx_before": "рск"
+        },
+        {
+          "ref": "х",
+          "ocr": ".",
+          "ctx_before": "ски"
+        },
+        {
+          "ref": "к",
+          "ocr": "Л",
+          "ctx_before": "их "
+        },
+        {
+          "ref": "у",
+          "ocr": "ь",
+          "ctx_before": "х к"
+        },
+        {
+          "ref": "п",
+          "ocr": "в",
+          "ctx_before": " ку"
+        },
+        {
+          "ref": "о",
+          "ocr": "і",
+          "ctx_before": "куп"
+        },
+        {
+          "ref": "а",
+          "ocr": "с",
+          "ctx_before": "пов"
+        },
+        {
+          "ref": "и",
+          "ocr": ".",
+          "ctx_before": "ват"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "г",
+          "ctx_before": "По"
+        },
+        {
+          "ocr": "з",
+          "ctx_before": " ко"
+        },
+        {
+          "ocr": "а",
+          "ctx_before": "ю н"
+        },
+        {
+          "ocr": "з",
+          "ctx_before": " , "
+        },
+        {
+          "ocr": "л",
+          "ctx_before": "е к"
+        },
+        {
+          "ocr": "ч",
+          "ctx_before": "о- "
+        },
+        {
+          "ocr": "ч",
+          "ctx_before": "на "
+        },
+        {
+          "ocr": "ж",
+          "ctx_before": " ко"
+        },
+        {
+          "ocr": "ү",
+          "ctx_before": "кон"
+        },
+        {
+          "ocr": " ",
+          "ctx_before": "кон"
+        },
+        {
+          "ocr": "т",
+          "ctx_before": "тур"
+        },
+        {
+          "ocr": "є",
+          "ctx_before": "тур"
+        },
+        {
+          "ocr": "і",
+          "ctx_before": "рск"
+        },
+        {
+          "ocr": "н",
+          "ctx_before": "рск"
+        },
+        {
+          "ocr": "о",
+          "ctx_before": "рск"
+        },
+        {
+          "ocr": "б",
+          "ctx_before": "рск"
+        },
+        {
+          "ocr": "л",
+          "ctx_before": "рск"
+        },
+        {
+          "ocr": "а",
+          "ctx_before": "рск"
+        },
+        {
+          "ocr": "ш",
+          "ctx_before": "рск"
+        },
+        {
+          "ocr": "н",
+          "ctx_before": "рск"
+        },
+        {
+          "ocr": "ү",
+          "ctx_before": "рск"
+        },
+        {
+          "ocr": ",",
+          "ctx_before": "пов"
+        },
+        {
+          "ocr": " ",
+          "ctx_before": "пов"
+        },
+        {
+          "ocr": "1",
+          "ctx_before": "пов"
+        },
+        {
+          "ocr": "6",
+          "ctx_before": "пов"
+        },
+        {
+          "ocr": "0",
+          "ctx_before": "пов"
+        },
+        {
+          "ocr": "5",
+          "ctx_before": "пов"
+        },
+        {
+          "ocr": " ",
+          "ctx_before": "пов"
+        },
+        {
+          "ocr": "–",
+          "ctx_before": "пов"
+        },
+        {
+          "ocr": " ",
+          "ctx_before": "пов"
+        },
+        {
+          "ocr": "1",
+          "ctx_before": "пов"
+        },
+        {
+          "ocr": "6",
+          "ctx_before": "пов"
+        },
+        {
+          "ocr": "0",
+          "ctx_before": "пов"
+        },
+        {
+          "ocr": "6",
+          "ctx_before": "пов"
+        },
+        {
+          "ocr": ",",
+          "ctx_before": "пов"
+        },
+        {
+          "ocr": " ",
+          "ctx_before": "пов"
+        },
+        {
+          "ocr": "Б",
+          "ctx_before": "пов"
+        },
+        {
+          "ocr": "е",
+          "ctx_before": "пов"
+        },
+        {
+          "ocr": "р",
+          "ctx_before": "пов"
+        },
+        {
+          "ocr": "е",
+          "ctx_before": "пов"
+        },
+        {
+          "ocr": "3",
+          "ctx_before": "ти "
+        },
+        {
+          "ocr": "6",
+          "ctx_before": "ти "
+        }
+      ],
+      "deletions": [
+        {
+          "ref": "т",
+          "ctx_before": "нь "
+        }
+      ]
+    },
+    {
+      "filename": "160.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "я",
+          "ocr": "ѧ",
+          "ctx_before": "лас"
+        },
+        {
+          "ref": "ы",
+          "ocr": "и",
+          "ctx_before": "льн"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "ьны"
+        },
+        {
+          "ref": "е",
+          "ocr": "є",
+          "ctx_before": " Ян"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "аны"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "н",
+          "ctx_before": " да"
+        }
+      ],
+      "deletions": [
+        {
+          "ref": "ж",
+          "ctx_before": "а и"
+        },
+        {
+          "ref": "ъ",
+          "ctx_before": " иж"
+        },
+        {
+          "ref": " ",
+          "ctx_before": "ижъ"
+        }
+      ]
+    },
+    {
+      "filename": "161.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "К",
+          "ocr": "И",
+          "ctx_before": " з "
+        },
+        {
+          "ref": "К",
+          "ocr": "И",
+          "ctx_before": "ти "
+        },
+        {
+          "ref": "о",
+          "ocr": "а",
+          "ctx_before": "рек"
+        },
+        {
+          "ref": "о",
+          "ocr": "а",
+          "ctx_before": "ом "
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "ъ",
+          "ctx_before": "ных"
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "162.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "Т",
+          "ocr": "и",
+          "ctx_before": ""
+        },
+        {
+          "ref": "ы",
+          "ocr": "ц",
+          "ctx_before": "Т"
+        },
+        {
+          "ref": "ж",
+          "ocr": "ъ",
+          "ctx_before": "Тыє"
+        },
+        {
+          "ref": "К",
+          "ocr": "х",
+          "ctx_before": "єж "
+        },
+        {
+          "ref": "г",
+          "ocr": "ү",
+          "ctx_before": "ж К"
+        },
+        {
+          "ref": "р",
+          "ocr": "д",
+          "ctx_before": " Кг"
+        },
+        {
+          "ref": "е",
+          "ocr": "о",
+          "ctx_before": "Кгр"
+        },
+        {
+          "ref": "к",
+          "ocr": "б",
+          "ctx_before": "гре"
+        },
+        {
+          "ref": "о",
+          "ocr": "є",
+          "ctx_before": "рек"
+        },
+        {
+          "ref": "в",
+          "ocr": "с",
+          "ctx_before": "еко"
+        },
+        {
+          "ref": "е",
+          "ocr": "ъ",
+          "ctx_before": "ков"
+        },
+        {
+          "ref": "т",
+          "ocr": "м",
+          "ctx_before": " и "
+        },
+        {
+          "ref": "ш",
+          "ocr": "ї",
+          "ctx_before": " пи"
+        },
+        {
+          "ref": "у",
+          "ocr": "и",
+          "ctx_before": "пиш"
+        },
+        {
+          "ref": "т",
+          "ocr": " ",
+          "ctx_before": "ишу"
+        },
+        {
+          "ref": ":",
+          "ocr": ";",
+          "ctx_before": "шут"
+        },
+        {
+          "ref": "а",
+          "ocr": "о",
+          "ctx_before": "бод"
+        },
+        {
+          "ref": "г",
+          "ocr": "р",
+          "ctx_before": "ай "
+        },
+        {
+          "ref": "с",
+          "ocr": "з",
+          "ctx_before": " го"
+        },
+        {
+          "ref": "п",
+          "ocr": "н",
+          "ctx_before": "гос"
+        },
+        {
+          "ref": "д",
+          "ocr": "б",
+          "ctx_before": "спо"
+        },
+        {
+          "ref": "а",
+          "ocr": "н",
+          "ctx_before": "под"
+        },
+        {
+          "ref": "р",
+          "ocr": "о",
+          "ctx_before": "ода"
+        },
+        {
+          "ref": "ъ",
+          "ocr": "с",
+          "ctx_before": "дар"
+        },
+        {
+          "ref": "ц",
+          "ocr": "ч",
+          "ctx_before": "ръ "
+        },
+        {
+          "ref": "е",
+          "ocr": "а",
+          "ctx_before": "ъ ц"
+        },
+        {
+          "ref": "а",
+          "ocr": "о",
+          "ctx_before": "цес"
+        },
+        {
+          "ref": "р",
+          "ocr": "в",
+          "ctx_before": "еса"
+        },
+        {
+          "ref": "а",
+          "ocr": "(",
+          "ctx_before": "ъ н"
+        },
+        {
+          "ref": "ш",
+          "ocr": "х",
+          "ctx_before": " на"
+        },
+        {
+          "ref": "ъ",
+          "ocr": ")",
+          "ctx_before": "наш"
+        },
+        {
+          "ref": "з",
+          "ocr": "а",
+          "ctx_before": "шъ "
+        },
+        {
+          "ref": "д",
+          "ocr": "б",
+          "ctx_before": "ъ з"
+        },
+        {
+          "ref": "-",
+          "ocr": "–",
+          "ctx_before": "здо"
+        },
+        {
+          "ref": "р",
+          "ocr": "б",
+          "ctx_before": "о- "
+        },
+        {
+          "ref": "в",
+          "ocr": "г",
+          "ctx_before": " ро"
+        },
+        {
+          "ref": "ъ",
+          "ocr": "а",
+          "ctx_before": "ров"
+        },
+        {
+          "ref": "ы",
+          "ocr": "ү",
+          "ctx_before": "ъ б"
+        },
+        {
+          "ref": "л",
+          "ocr": "с",
+          "ctx_before": " бы"
+        },
+        {
+          "ref": ",",
+          "ocr": " ",
+          "ctx_before": "ылъ"
+        },
+        {
+          "ref": " ",
+          "ocr": ".",
+          "ctx_before": "лъ,"
+        },
+        {
+          "ref": "ж",
+          "ocr": "з",
+          "ctx_before": "ъ, "
+        },
+        {
+          "ref": "е",
+          "ocr": "а",
+          "ctx_before": ", ж"
+        },
+        {
+          "ref": "м",
+          "ocr": "щ",
+          "ctx_before": "же "
+        },
+        {
+          "ref": "ы",
+          "ocr": "о",
+          "ctx_before": "е м"
+        },
+        {
+          "ref": "К",
+          "ocr": "х",
+          "ctx_before": "мы "
+        },
+        {
+          "ref": "г",
+          "ocr": "ү",
+          "ctx_before": "ы К"
+        },
+        {
+          "ref": "р",
+          "ocr": "д",
+          "ctx_before": " Кг"
+        },
+        {
+          "ref": "е",
+          "ocr": "о",
+          "ctx_before": "Кгр"
+        },
+        {
+          "ref": "к",
+          "ocr": "б",
+          "ctx_before": "гре"
+        },
+        {
+          "ref": "о",
+          "ocr": "є",
+          "ctx_before": "рек"
+        },
+        {
+          "ref": "в",
+          "ocr": "с",
+          "ctx_before": "еко"
+        },
+        {
+          "ref": "е",
+          "ocr": "ъ",
+          "ctx_before": "ков"
+        },
+        {
+          "ref": "а",
+          "ocr": "и",
+          "ctx_before": "о п"
+        },
+        {
+          "ref": "с",
+          "ocr": "а",
+          "ctx_before": "пан"
+        },
+        {
+          "ref": "т",
+          "ocr": "є",
+          "ctx_before": "анс"
+        },
+        {
+          "ref": "в",
+          "ocr": "м",
+          "ctx_before": "нст"
+        },
+        {
+          "ref": "в",
+          "ocr": "б",
+          "ctx_before": "ом "
+        },
+        {
+          "ref": "ю",
+          "ocr": "о",
+          "ctx_before": "око"
+        },
+        {
+          "ref": "ѣ",
+          "ocr": "ү",
+          "ctx_before": "ю с"
+        },
+        {
+          "ref": "д",
+          "ocr": "н",
+          "ctx_before": " сѣ"
+        },
+        {
+          "ref": "м",
+          "ocr": "т",
+          "ctx_before": "ѣди"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "Л",
+          "ctx_before": ""
+        },
+        {
+          "ocr": "м",
+          "ctx_before": "Тыє"
+        },
+        {
+          "ocr": "т",
+          "ctx_before": " пи"
+        },
+        {
+          "ocr": "р",
+          "ctx_before": "бод"
+        },
+        {
+          "ocr": "є",
+          "ctx_before": "спо"
+        },
+        {
+          "ocr": "о",
+          "ctx_before": "ъ н"
+        },
+        {
+          "ocr": "ү",
+          "ctx_before": "ъ н"
+        },
+        {
+          "ocr": "т",
+          "ctx_before": "ъ н"
+        },
+        {
+          "ocr": "и",
+          "ctx_before": "ъ н"
+        },
+        {
+          "ocr": " ",
+          "ctx_before": "здо"
+        },
+        {
+          "ocr": "о",
+          "ctx_before": "ъ б"
+        },
+        {
+          "ocr": "н",
+          "ctx_before": "ъ б"
+        },
+        {
+          "ocr": "о",
+          "ctx_before": "о п"
+        },
+        {
+          "ocr": "ч",
+          "ctx_before": "о п"
+        },
+        {
+          "ocr": "л",
+          "ctx_before": "око"
+        },
+        {
+          "ocr": "б",
+          "ctx_before": "ю с"
+        },
+        {
+          "ocr": ".",
+          "ctx_before": "имо"
+        },
+        {
+          "ocr": " ",
+          "ctx_before": "имо"
+        },
+        {
+          "ocr": "Н",
+          "ctx_before": "имо"
+        },
+        {
+          "ocr": "а",
+          "ctx_before": "имо"
+        },
+        {
+          "ocr": "б",
+          "ctx_before": "имо"
+        },
+        {
+          "ocr": "і",
+          "ctx_before": "имо"
+        },
+        {
+          "ocr": "б",
+          "ctx_before": "имо"
+        },
+        {
+          "ocr": ",",
+          "ctx_before": "имо"
+        },
+        {
+          "ocr": " ",
+          "ctx_before": "имо"
+        },
+        {
+          "ocr": "1",
+          "ctx_before": "имо"
+        },
+        {
+          "ocr": "6",
+          "ctx_before": "имо"
+        },
+        {
+          "ocr": "0",
+          "ctx_before": "имо"
+        },
+        {
+          "ocr": "5",
+          "ctx_before": "имо"
+        },
+        {
+          "ocr": " ",
+          "ctx_before": "имо"
+        },
+        {
+          "ocr": "–",
+          "ctx_before": "имо"
+        },
+        {
+          "ocr": " ",
+          "ctx_before": "имо"
+        },
+        {
+          "ocr": "1",
+          "ctx_before": "имо"
+        },
+        {
+          "ocr": "6",
+          "ctx_before": "имо"
+        },
+        {
+          "ocr": "0",
+          "ctx_before": "имо"
+        },
+        {
+          "ocr": "6",
+          "ctx_before": "имо"
+        },
+        {
+          "ocr": ",",
+          "ctx_before": "имо"
+        },
+        {
+          "ocr": " ",
+          "ctx_before": "имо"
+        },
+        {
+          "ocr": "Б",
+          "ctx_before": "имо"
+        },
+        {
+          "ocr": "е",
+          "ctx_before": "имо"
+        },
+        {
+          "ocr": "р",
+          "ctx_before": "имо"
+        },
+        {
+          "ocr": "е",
+          "ctx_before": "имо"
+        },
+        {
+          "ocr": "с",
+          "ctx_before": "имо"
+        },
+        {
+          "ocr": "т",
+          "ctx_before": "имо"
+        },
+        {
+          "ocr": ".",
+          "ctx_before": "имо"
+        },
+        {
+          "ocr": " ",
+          "ctx_before": "имо"
+        },
+        {
+          "ocr": "3",
+          "ctx_before": "имо"
+        },
+        {
+          "ocr": "6",
+          "ctx_before": "имо"
+        }
+      ],
+      "deletions": [
+        {
+          "ref": "м",
+          "ctx_before": "тво"
+        }
+      ]
+    },
+    {
+      "filename": "163.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "г",
+          "ocr": "ы",
+          "ctx_before": "и в"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "оны"
+        },
+        {
+          "ref": "є",
+          "ocr": "е",
+          "ctx_before": "оты"
+        }
+      ],
+      "insertions": [],
+      "deletions": []
+    },
+    {
+      "filename": "164.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "ѣ",
+          "ocr": "і",
+          "ctx_before": " Ян"
+        },
+        {
+          "ref": "я",
+          "ocr": "й",
+          "ctx_before": "шис"
+        },
+        {
+          "ref": "е",
+          "ocr": "ѣ",
+          "ctx_before": "орб"
+        },
+        {
+          "ref": "с",
+          "ocr": "л",
+          "ctx_before": "про"
+        },
+        {
+          "ref": "ы",
+          "ocr": "и",
+          "ctx_before": " аб"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "т",
+          "ctx_before": " Ян"
+        },
+        {
+          "ocr": "к",
+          "ctx_before": "про"
+        }
+      ],
+      "deletions": [
+        {
+          "ref": "с",
+          "ctx_before": "вши"
+        }
+      ]
+    },
+    {
+      "filename": "165.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "С",
+          "ocr": "и",
+          "ctx_before": ""
+        },
+        {
+          "ref": "т",
+          "ocr": "с",
+          "ctx_before": "С"
+        },
+        {
+          "ref": "р",
+          "ocr": "т",
+          "ctx_before": "Ста"
+        },
+        {
+          "ref": "ш",
+          "ocr": "и",
+          "ctx_before": "тар"
+        },
+        {
+          "ref": "і",
+          "ocr": "с",
+          "ctx_before": "арш"
+        },
+        {
+          "ref": "й",
+          "ocr": "ѧ",
+          "ctx_before": "рші"
+        },
+        {
+          "ref": "н",
+          "ocr": "п",
+          "ctx_before": "ій "
+        },
+        {
+          "ref": "а",
+          "ocr": "о",
+          "ctx_before": "й н"
+        },
+        {
+          "ref": "о",
+          "ocr": "ω",
+          "ctx_before": "на "
+        },
+        {
+          "ref": "а",
+          "ocr": "в",
+          "ctx_before": "м з"
+        },
+        {
+          "ref": "м",
+          "ocr": "о",
+          "ctx_before": " за"
+        },
+        {
+          "ref": "к",
+          "ocr": "д",
+          "ctx_before": "зам"
+        },
+        {
+          "ref": "у",
+          "ocr": "і",
+          "ctx_before": "амк"
+        },
+        {
+          "ref": "у",
+          "ocr": "к",
+          "ctx_before": "у, "
+        },
+        {
+          "ref": "я",
+          "ocr": "а",
+          "ctx_before": ", у"
+        },
+        {
+          "ref": "в",
+          "ocr": "t",
+          "ctx_before": "уяз"
+        },
+        {
+          "ref": "л",
+          "ocr": "є",
+          "ctx_before": "язв"
+        },
+        {
+          "ref": "е",
+          "ocr": "л",
+          "ctx_before": "звл"
+        },
+        {
+          "ref": "н",
+          "ocr": "ь",
+          "ctx_before": "вле"
+        },
+        {
+          "ref": "н",
+          "ocr": "и",
+          "ctx_before": "н о"
+        },
+        {
+          "ref": "ы",
+          "ocr": "с",
+          "ctx_before": " он"
+        },
+        {
+          "ref": "м",
+          "ocr": "ү",
+          "ctx_before": "оны"
+        },
+        {
+          "ref": "и",
+          "ocr": "ю",
+          "ctx_before": "ным"
+        },
+        {
+          "ref": "ч",
+          "ocr": "ф",
+          "ctx_before": "ми "
+        },
+        {
+          "ref": "е",
+          "ocr": "о",
+          "ctx_before": "и ч"
+        },
+        {
+          "ref": "в",
+          "ocr": "м",
+          "ctx_before": "чер"
+        },
+        {
+          "ref": "о",
+          "ocr": "а",
+          "ctx_before": "ерв"
+        },
+        {
+          "ref": "н",
+          "ocr": "ц",
+          "ctx_before": "рво"
+        },
+        {
+          "ref": "ы",
+          "ocr": "і",
+          "ctx_before": "вон"
+        },
+        {
+          "ref": "м",
+          "ocr": "и",
+          "ctx_before": "оны"
+        },
+        {
+          "ref": "и",
+          "ocr": "ю",
+          "ctx_before": "ным"
+        },
+        {
+          "ref": "м",
+          "ocr": "н",
+          "ctx_before": "и, "
+        },
+        {
+          "ref": "о",
+          "ocr": "ό",
+          "ctx_before": ", м"
+        },
+        {
+          "ref": "и",
+          "ocr": "о",
+          "ctx_before": "мов"
+        },
+        {
+          "ref": "л",
+          "ocr": "ю",
+          "ctx_before": "ови"
+        },
+        {
+          "ref": "м",
+          "ocr": "н",
+          "ctx_before": "ил "
+        },
+        {
+          "ref": "у",
+          "ocr": "ъ",
+          "ctx_before": "л м"
+        },
+        {
+          "ref": "ж",
+          "ocr": "к",
+          "ctx_before": "у, "
+        },
+        {
+          "ref": "е",
+          "ocr": "ъ",
+          "ctx_before": ", ж"
+        },
+        {
+          "ref": "т",
+          "ocr": "н",
+          "ctx_before": "же "
+        },
+        {
+          "ref": "ы",
+          "ocr": "а",
+          "ctx_before": "е т"
+        },
+        {
+          "ref": "т",
+          "ocr": "ь",
+          "ctx_before": " єс"
+        },
+        {
+          "ref": "з",
+          "ocr": "б",
+          "ctx_before": "ст "
+        },
+        {
+          "ref": "р",
+          "ocr": "о",
+          "ctx_before": "т з"
+        },
+        {
+          "ref": "а",
+          "ocr": "д",
+          "ctx_before": " зр"
+        },
+        {
+          "ref": "й",
+          "ocr": "о",
+          "ctx_before": "зра"
+        },
+        {
+          "ref": "ц",
+          "ocr": "║",
+          "ctx_before": "рай"
+        },
+        {
+          "ref": "а",
+          "ocr": "л",
+          "ctx_before": "айц"
+        },
+        {
+          "ref": "║",
+          "ocr": "о",
+          "ctx_before": "йца"
+        },
+        {
+          "ref": "а",
+          "ocr": "ж",
+          "ctx_before": "ца║"
+        },
+        {
+          "ref": "л",
+          "ocr": "н",
+          "ctx_before": "а║а"
+        },
+        {
+          "ref": "ь",
+          "ocr": "о",
+          "ctx_before": "║ал"
+        },
+        {
+          "ref": "б",
+          "ocr": "г",
+          "ctx_before": "аль"
+        },
+        {
+          "ref": "ш",
+          "ocr": "і",
+          "ctx_before": "бо "
+        },
+        {
+          "ref": "п",
+          "ocr": "н",
+          "ctx_before": "о ш"
+        },
+        {
+          "ref": "и",
+          "ocr": "ү",
+          "ctx_before": " шп"
+        },
+        {
+          "ref": "г",
+          "ocr": "с",
+          "ctx_before": "шпи"
+        },
+        {
+          "ref": "ъ",
+          "ocr": "ь",
+          "ctx_before": "пиг"
+        },
+        {
+          "ref": "т",
+          "ocr": "м",
+          "ctx_before": "лис"
+        },
+        {
+          "ref": "ы",
+          "ocr": "ъ",
+          "ctx_before": "ист"
+        },
+        {
+          "ref": "з",
+          "ocr": " ",
+          "ctx_before": "ы є"
+        },
+        {
+          "ref": "д",
+          "ocr": "н",
+          "ctx_before": " єз"
+        },
+        {
+          "ref": "и",
+          "ocr": "а",
+          "ctx_before": "єзд"
+        },
+        {
+          "ref": "ш",
+          "ocr": "6",
+          "ctx_before": "шъ "
+        },
+        {
+          "ref": "п",
+          "ocr": "0",
+          "ctx_before": "ъ ш"
+        },
+        {
+          "ref": "и",
+          "ocr": "5",
+          "ctx_before": " шп"
+        },
+        {
+          "ref": "к",
+          "ocr": "-",
+          "ctx_before": "шпи"
+        },
+        {
+          "ref": "г",
+          "ocr": "1",
+          "ctx_before": "пик"
+        },
+        {
+          "ref": "у",
+          "ocr": "6",
+          "ctx_before": "икг"
+        },
+        {
+          "ref": "ю",
+          "ocr": "0",
+          "ctx_before": "кгу"
+        },
+        {
+          "ref": "ч",
+          "ocr": "6",
+          "ctx_before": "гую"
+        },
+        {
+          "ref": "и",
+          "ocr": ",",
+          "ctx_before": "уюч"
+        },
+        {
+          "ref": "з",
+          "ocr": "Б",
+          "ctx_before": "чи "
+        },
+        {
+          "ref": "м",
+          "ocr": "р",
+          "ctx_before": " зе"
+        },
+        {
+          "ref": "-",
+          "ocr": "е",
+          "ctx_before": "зем"
+        },
+        {
+          "ref": " ",
+          "ocr": "с",
+          "ctx_before": "ем-"
+        },
+        {
+          "ref": "л",
+          "ocr": "т",
+          "ctx_before": "м- "
+        },
+        {
+          "ref": "ю",
+          "ocr": ".",
+          "ctx_before": "- л"
+        },
+        {
+          "ref": "н",
+          "ocr": "3",
+          "ctx_before": "лю "
+        },
+        {
+          "ref": "а",
+          "ocr": "6",
+          "ctx_before": "ю н"
+        },
+        {
+          "ref": "ш",
+          "ocr": "-",
+          "ctx_before": " на"
+        },
+        {
+          "ref": "у",
+          "ocr": "3",
+          "ctx_before": "наш"
+        },
+        {
+          "ref": ".",
+          "ocr": "7",
+          "ctx_before": "ашу"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "с",
+          "ctx_before": ""
+        },
+        {
+          "ocr": "п",
+          "ctx_before": ""
+        },
+        {
+          "ocr": "ъ",
+          "ctx_before": "ном"
+        },
+        {
+          "ocr": "о",
+          "ctx_before": "м з"
+        },
+        {
+          "ocr": "н",
+          "ctx_before": "м з"
+        },
+        {
+          "ocr": "á",
+          "ctx_before": "уяз"
+        },
+        {
+          "ocr": "п",
+          "ctx_before": "н о"
+        },
+        {
+          "ocr": "р",
+          "ctx_before": "ми "
+        },
+        {
+          "ocr": "є",
+          "ctx_before": "ми "
+        },
+        {
+          "ocr": "ω",
+          "ctx_before": "ил "
+        },
+        {
+          "ocr": "ӕ",
+          "ctx_before": "у, "
+        },
+        {
+          "ocr": "м",
+          "ctx_before": " єс"
+        },
+        {
+          "ocr": "о",
+          "ctx_before": "ст "
+        },
+        {
+          "ocr": "м",
+          "ctx_before": "бо "
+        },
+        {
+          "ocr": " ",
+          "ctx_before": ", з"
+        },
+        {
+          "ocr": "ү",
+          "ctx_before": ", з"
+        },
+        {
+          "ocr": "т",
+          "ctx_before": ", з"
+        },
+        {
+          "ocr": "є",
+          "ctx_before": ", з"
+        },
+        {
+          "ocr": "к",
+          "ctx_before": ", з"
+        },
+        {
+          "ocr": "а",
+          "ctx_before": ", з"
+        },
+        {
+          "ocr": "т",
+          "ctx_before": ", з"
+        },
+        {
+          "ocr": "и",
+          "ctx_before": ", з"
+        },
+        {
+          "ocr": "є",
+          "ctx_before": " з "
+        },
+        {
+          "ocr": "д",
+          "ctx_before": " з "
+        },
+        {
+          "ocr": "н",
+          "ctx_before": " з "
+        },
+        {
+          "ocr": "а",
+          "ctx_before": " з "
+        },
+        {
+          "ocr": " ",
+          "ctx_before": "лис"
+        },
+        {
+          "ocr": "м",
+          "ctx_before": "лис"
+        },
+        {
+          "ocr": "и",
+          "ctx_before": "лис"
+        },
+        {
+          "ocr": "м",
+          "ctx_before": "лис"
+        },
+        {
+          "ocr": "о",
+          "ctx_before": "лис"
+        },
+        {
+          "ocr": "х",
+          "ctx_before": "лис"
+        },
+        {
+          "ocr": "о",
+          "ctx_before": "лис"
+        },
+        {
+          "ocr": "д",
+          "ctx_before": "лис"
+        },
+        {
+          "ocr": "о",
+          "ctx_before": "лис"
+        },
+        {
+          "ocr": "ж",
+          "ctx_before": "ты "
+        },
+        {
+          "ocr": " ",
+          "ctx_before": "ы є"
+        },
+        {
+          "ocr": "–",
+          "ctx_before": "ы є"
+        },
+        {
+          "ocr": " ",
+          "ctx_before": "ы є"
+        },
+        {
+          "ocr": "н",
+          "ctx_before": "ы є"
+        },
+        {
+          "ocr": "о",
+          "ctx_before": "ы є"
+        },
+        {
+          "ocr": ".",
+          "ctx_before": "ишъ"
+        },
+        {
+          "ocr": " ",
+          "ctx_before": "ишъ"
+        },
+        {
+          "ocr": "Л",
+          "ctx_before": "ишъ"
+        },
+        {
+          "ocr": "ь",
+          "ctx_before": "ишъ"
+        },
+        {
+          "ocr": "в",
+          "ctx_before": "ишъ"
+        },
+        {
+          "ocr": "і",
+          "ctx_before": "ишъ"
+        },
+        {
+          "ocr": "в",
+          "ctx_before": "ишъ"
+        },
+        {
+          "ocr": ",",
+          "ctx_before": "ишъ"
+        },
+        {
+          "ocr": "1",
+          "ctx_before": "шъ "
+        }
+      ],
+      "deletions": []
+    },
+    {
+      "filename": "166.jpeg",
+      "folder": "Auto-Color0002",
+      "substitutions": [
+        {
+          "ref": "К",
+          "ocr": "о",
+          "ctx_before": ""
+        },
+        {
+          "ref": "а",
+          "ocr": "р",
+          "ctx_before": "К"
+        },
+        {
+          "ref": "з",
+          "ocr": "о",
+          "ctx_before": "Ка"
+        },
+        {
+          "ref": "а",
+          "ocr": "б",
+          "ctx_before": "Каз"
+        },
+        {
+          "ref": "л",
+          "ocr": "р",
+          "ctx_before": "аза"
+        },
+        {
+          "ref": "ъ",
+          "ocr": "є",
+          "ctx_before": "зал"
+        },
+        {
+          "ref": "е",
+          "ocr": "и",
+          "ctx_before": "в т"
+        },
+        {
+          "ref": "м",
+          "ocr": "т",
+          "ctx_before": " те"
+        },
+        {
+          "ref": "н",
+          "ocr": "и",
+          "ctx_before": "тем"
+        },
+        {
+          "ref": "и",
+          "ocr": "(",
+          "ctx_before": "емн"
+        },
+        {
+          "ref": "ц",
+          "ocr": "х",
+          "ctx_before": "мни"
+        },
+        {
+          "ref": "у",
+          "ocr": ")",
+          "ctx_before": "ниц"
+        },
+        {
+          "ref": "в",
+          "ocr": "ү",
+          "ctx_before": "цу "
+        },
+        {
+          "ref": "к",
+          "ocr": "н",
+          "ctx_before": "у в"
+        },
+        {
+          "ref": "и",
+          "ocr": "т",
+          "ctx_before": " вк"
+        },
+        {
+          "ref": "н",
+          "ocr": "ү",
+          "ctx_before": "вки"
+        },
+        {
+          "ref": "у",
+          "ocr": "ю",
+          "ctx_before": "кин"
+        },
+        {
+          "ref": "т",
+          "ocr": "ч",
+          "ctx_before": "ину"
+        },
+        {
+          "ref": "ѣ",
+          "ocr": "є",
+          "ctx_before": ", п"
+        },
+        {
+          "ref": "н",
+          "ocr": "р",
+          "ctx_before": " пѣ"
+        },
+        {
+          "ref": "я",
+          "ocr": "є",
+          "ctx_before": "пѣн"
+        },
+        {
+          "ref": "ѣ",
+          "ocr": ")",
+          "ctx_before": "няз"
+        },
+        {
+          "ref": "о",
+          "ocr": "(",
+          "ctx_before": "ѣ с"
+        },
+        {
+          "ref": "б",
+          "ocr": "ь",
+          "ctx_before": " со"
+        },
+        {
+          "ref": "ѣ",
+          "ocr": ")",
+          "ctx_before": "соб"
+        },
+        {
+          "ref": "р",
+          "ocr": "в",
+          "ctx_before": "поб"
+        },
+        {
+          "ref": "а",
+          "ocr": "і",
+          "ctx_before": "обр"
+        },
+        {
+          "ref": "ш",
+          "ocr": "с",
+          "ctx_before": "рав"
+        },
+        {
+          "ref": "и",
+          "ocr": "т",
+          "ctx_before": "авш"
+        }
+      ],
+      "insertions": [
+        {
+          "ocr": "Х",
+          "ctx_before": ""
+        },
+        {
+          "ocr": "м",
+          "ctx_before": " в "
+        },
+        {
+          "ocr": "є",
+          "ctx_before": " в "
+        },
+        {
+          "ocr": "с",
+          "ctx_before": " в "
+        },
+        {
+          "ocr": "б",
+          "ctx_before": "цу "
+        },
+        {
+          "ocr": "а",
+          "ctx_before": "няз"
+        },
+        {
+          "ocr": "(",
+          "ctx_before": "няз"
+        },
+        {
+          "ocr": "д",
+          "ctx_before": "няз"
+        },
+        {
+          "ocr": "є",
+          "ctx_before": "зѣ "
+        },
+        {
+          "ocr": "о",
+          "ctx_before": "зѣ "
+        },
+        {
+          "ocr": "о",
+          "ctx_before": "ѣ п"
+        },
+        {
+          "ocr": "д",
+          "ctx_before": "ѣ п"
+        },
+        {
+          "ocr": "р",
+          "ctx_before": "ѣ п"
+        },
+        {
+          "ocr": "и",
+          "ctx_before": "поб"
+        },
+        {
+          "ocr": "т",
+          "ctx_before": "поб"
+        },
+        {
+          "ocr": "ү",
+          "ctx_before": "поб"
+        },
+        {
+          "ocr": "ю",
+          "ctx_before": "поб"
+        },
+        {
+          "ocr": ".",
+          "ctx_before": "поб"
+        },
+        {
+          "ocr": " ",
+          "ctx_before": "поб"
+        },
+        {
+          "ocr": "Л",
+          "ctx_before": "поб"
+        },
+        {
+          "ocr": "ь",
+          "ctx_before": "поб"
+        },
+        {
+          "ocr": ",",
+          "ctx_before": "рав"
+        },
+        {
+          "ocr": " ",
+          "ctx_before": "рав"
+        },
+        {
+          "ocr": "1",
+          "ctx_before": "рав"
+        },
+        {
+          "ocr": "6",
+          "ctx_before": "рав"
+        },
+        {
+          "ocr": "0",
+          "ctx_before": "рав"
+        },
+        {
+          "ocr": "5",
+          "ctx_before": "рав"
+        },
+        {
+          "ocr": "-",
+          "ctx_before": "рав"
+        },
+        {
+          "ocr": "1",
+          "ctx_before": "рав"
+        },
+        {
+          "ocr": "6",
+          "ctx_before": "рав"
+        },
+        {
+          "ocr": "0",
+          "ctx_before": "рав"
+        },
+        {
+          "ocr": "6",
+          "ctx_before": "рав"
+        },
+        {
+          "ocr": ",",
+          "ctx_before": "рав"
+        },
+        {
+          "ocr": " ",
+          "ctx_before": "рав"
+        },
+        {
+          "ocr": "Б",
+          "ctx_before": "рав"
+        },
+        {
+          "ocr": "є",
+          "ctx_before": "рав"
+        },
+        {
+          "ocr": "р",
+          "ctx_before": "рав"
+        },
+        {
+          "ocr": "є",
+          "ctx_before": "рав"
+        },
+        {
+          "ocr": " ",
+          "ctx_before": "ши."
+        },
+        {
+          "ocr": "3",
+          "ctx_before": "ши."
+        },
+        {
+          "ocr": "7",
+          "ctx_before": "ши."
+        }
+      ],
+      "deletions": []
+    }
+  ]
+}

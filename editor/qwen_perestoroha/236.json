@@ -1,0 +1,21 @@
+{
+  "filename": "236.jpeg",
+  "card_numbers": {
+    "primary": "12",
+    "secondary": null,
+    "tertiary": "202",
+    "notes": "12 top-left pencil, 202 bottom-right corner"
+  },
+  "lines": [
+    "По спротивным обычаєм моє овєчки",
+    "на мєнє жалуются и за пастыря",
+    "мєнє не признавают.",
+    "Львів, 1605-1606, Перест. 41."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 41."
+  },
+  "notes": "Word признавают has a correction mark/dot over the з"
+}

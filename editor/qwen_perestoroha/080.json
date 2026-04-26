@@ -1,0 +1,22 @@
+{
+  "filename": "080.jpeg",
+  "card_numbers": {
+    "primary": null,
+    "secondary": null,
+    "tertiary": null,
+    "notes": "65 bottom-right pencil"
+  },
+  "lines": [
+    "Митрополит, не благомудрствующи",
+    "о том, аще слушают пастыря,...",
+    "не с ним Діонисій екзарх отпра-",
+    "вивъ.",
+    "Львів, 1605-1606, Перест. 30."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 30."
+  },
+  "notes": "65 visible in bottom-right corner (pencil). Card number 21 faintly visible in top-left (pencil)."
+}

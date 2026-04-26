@@ -1,0 +1,22 @@
+{
+  "filename": "400.jpeg",
+  "card_numbers": {
+    "primary": "345",
+    "secondary": "19",
+    "tertiary": null,
+    "notes": "19 top-right ink, 345 bottom-left pencil"
+  },
+  "lines": [
+    "Шляхти ємъ воякии прохвилятъ о рєзольтусъ-",
+    "кау под малымъ, коториї зъ вєвкомоти",
+    "прємная абыло нєродицалєм и о на-",
+    "шу пєсицаловтє.",
+    "Львів, 1605-1606, Терем. 419."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Терем. 419."
+  },
+  "notes": "Orthography appears to be from a polemical or later 17th-century source with mixed Cyrillic features. Some words difficult to parse (прохвилятъ, рєзольтусъ-, вєвкомоти, нєродицалєм, пєсицаловтє) - may be specialized terms or misspellings in the original scholar's copy."
+}

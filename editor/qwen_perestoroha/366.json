@@ -1,0 +1,19 @@
+{
+  "filename": "366.jpeg",
+  "card_numbers": {
+    "primary": "6",
+    "secondary": null,
+    "tertiary": "313",
+    "notes": "6 bottom-right, 313 top-left"
+  },
+  "lines": [
+    "Шомо еси, не здаваша",
+    "Јеји, 1605-1606, Єрус. 4т"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Єрус. 4т"
+  },
+  "notes": ""
+}

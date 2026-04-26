@@ -1,0 +1,25 @@
+{
+  "filename": "057.jpeg",
+  "card_numbers": {
+    "primary": "20",
+    "secondary": "48",
+    "tertiary": null,
+    "notes": "20 top-left pencil, 48 bottom-right pencil"
+  },
+  "lines": [
+    "За поводом діавольским наprod",
+    "Кирил луцкий, который||недавно был",
+    "на тую єпископію наступивъ за по-",
+    "данням княжати пана воєводи києв-",
+    "ского, с пинского на луцкое, и у вели-",
+    "кои лащъ у него был,",
+    "Львів, 1605-1606, Пересторога, 28-",
+    "29"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Пересторога, 28-29"
+  },
+  "notes": "Text appears to be from a polemic work (Пересторога). Word 'лащъ' on line 6 is uncertain - could be 'лазъ' or similar. Double vertical line ║ on line 2 indicates manuscript break."
+}

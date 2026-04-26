@@ -1,0 +1,4 @@
+- [User profile — Dmitry](user_profile.md) — senior NLP/data engineer, terse style, prefers action over discussion, deep domain knowledge of historical Ukrainian
+- [Working style](feedback_working_style.md) — run experiments in parallel, don't ask permission on obvious steps, lead with data tables
+- [Analyze error reports after every iteration](feedback_iteration_analysis.md) — after each OCR prompt run, do a full op-breakdown (subs + ins + dels + per-card) before reporting; aggregate CER hides dominant classes
+- [Experiment log](project_experiment_log.md) — full record of 2026-04-11/12 prompt optimization: what worked (source-specialization, orientation, balanced ъ rule), what didn't (upscaling, glyph reference, higher effort), noise floor measurements, remaining paths to <3%

@@ -1,0 +1,23 @@
+{
+  "filename": "260.jpeg",
+  "card_numbers": {
+    "primary": "260",
+    "secondary": "19",
+    "tertiary": null,
+    "notes": "260 top-left, 19 bottom-right"
+  },
+  "lines": [
+    "Ловигүртъ есмь на зде, а игода ро—",
+    "зумѣни доброє, не удѣдаши есмь иемин—",
+    "нъ … дрѫжи не прїимаш и нарица—",
+    "си го далъ христе, но бѣзъ разе уга—",
+    "мѫ вѣс?",
+    "Неби, 1605-1606, Терем. 42."
+  ],
+  "source": {
+    "city": "Неби",
+    "date": "1605-1606",
+    "reference": "Терем. 42"
+  },
+  "notes": "Card is upside down in image; several lines end with hyphens indicating word continuation; some characters uncertain: line 1 'Ловигүртъ' unclear; line 2 'удѣдаши' unclear; line 5 'мѫ вѣс?' ending unclear"
+}

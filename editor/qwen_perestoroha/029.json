@@ -1,0 +1,20 @@
+{
+  "filename": "029.jpeg",
+  "card_numbers": {
+    "primary": "26",
+    "secondary": null,
+    "tertiary": null,
+    "notes": "26 top-left pencil, 26 bottom-right pencil"
+  },
+  "lines": [
+    "...простого люде стану у иновѣрство",
+    "и отщепенство приходили",
+    "Львів, 1605-1606, Перест 26"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест 26"
+  },
+  "notes": ""
+}

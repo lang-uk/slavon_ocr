@@ -1,0 +1,20 @@
+{
+  "filename": "125.jpeg",
+  "card_numbers": {
+    "primary": "102",
+    "secondary": "13",
+    "tertiary": null,
+    "notes": "102 top-left, 13 bottom-right"
+  },
+  "lines": [
+    "Аєніа, 1605-1606, Тречєм. 33",
+    "бємь и по цей гень ягам",
+    "І make γoг бємьчγ нωтамь ωдєo"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Тречєм. 33"
+  },
+  "notes": ""
+}

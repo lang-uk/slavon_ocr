@@ -1,0 +1,25 @@
+{
+  "filename": "479.jpeg",
+  "card_numbers": {
+    "primary": null,
+    "secondary": "221",
+    "tertiary": null,
+    "notes": "221 top-left (appears bottom-right in rotated image)"
+  },
+  "lines": [
+    "За і укрєинс(ь)кою, которая єстєрєй",
+    "- наставо християнскїя, яко єстє нєколико",
+    "- писмє сьветскихъ и бравъ духовнїхъ и дїя но-",
+    "го, же сьами уцерквє христіанскїє, матєрь",
+    "и наипращоде бєжше кождьй ємоль, є",
+    "рочєнє биваю, перєжіє, омываємъся ом",
+    "продсаванїихъ божиахъ.",
+    "Кєнїгъ, 1605-1606, Львов м. 55"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Кєнїгъ м. 55"
+  },
+  "notes": "Card rotated 180° in image. Reference reads 'Кєнїгъ' (König/Knieg reference). Line 3 hyphenated: 'но-го'."
+}

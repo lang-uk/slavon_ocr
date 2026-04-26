@@ -1,0 +1,20 @@
+{
+  "filename": "144.jpeg",
+  "card_numbers": {
+    "primary": "144",
+    "secondary": "9",
+    "tertiary": null,
+    "notes": "144 top-left ink, 9 bottom-right corner ink"
+  },
+  "lines": [
+    "шуморонокъ мѣсцѣ и богачевскїй",
+    "пущина, моѣ бє града и форты",
+    "лѣтїб, 1605-1606, Лєецем. 35"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Лєецем. 35"
+  },
+  "notes": "Card upside down in image. 'бє' on line 2 - uncertain if є or е. 'Лєецем' uncertain - possibly variant form of Львовом or different source abbreviation. Source reference line transcribed as written, appears to differ from standard Kroynik format."
+}

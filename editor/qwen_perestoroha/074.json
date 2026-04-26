@@ -1,0 +1,21 @@
+{
+  "filename": "074.jpeg",
+  "card_numbers": {
+    "primary": "09",
+    "secondary": "8",
+    "tertiary": null,
+    "notes": "09 top-left pencil, 8 bottom-right pencil"
+  },
+  "lines": [
+    "У мене ондагилла єсен обáгвє",
+    "анєр го правимá боронєн̾",
+    "обáмтýовас напирáячý",
+    "Лóгiв, 1605-1606, Лєпсèм. 29."
+  ],
+  "source": {
+    "city": "Логів",
+    "date": "1605-1606",
+    "reference": "Лєпсèм. 29."
+  },
+  "notes": "Card rotated 180°. Some words are difficult to read precisely - 'ондагилла', 'анєр', and 'обáмтýовас' may contain errors in original or are difficult archaic forms that require expert verification. The reference 'Лєпсèм' appears to be an abbreviation, possibly relating to Lypskyi or a similar 17th-century source."
+}

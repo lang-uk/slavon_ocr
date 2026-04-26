@@ -1,0 +1,23 @@
+{
+  "filename": "313.jpeg",
+  "card_numbers": {
+    "primary": "16",
+    "secondary": "269",
+    "tertiary": null,
+    "notes": "16 bottom-right, 269 bottom-left (upside down)"
+  },
+  "lines": [
+    "И свято отъца Флориана, коропи",
+    "За сугуби, тоу великого проповѣдника,",
+    "в разумѣніе отродию, и",
+    "копрѣми павшии и къиелами вонши",
+    "бас слово.",
+    "Андрiй, 1605 - 1606, Стефан. 45."
+  ],
+  "source": {
+    "city": "Андрiй",
+    "date": "1605-1606",
+    "reference": "Стефан. 45"
+  },
+  "notes": "Image upside down. Second line: 'тоу' could be 'тому'. Third line: 'отродию' unclear - possibly 'отродью'. Fourth line: 'копрѣми' and 'къиелами' are difficult readings - may need verification."
+}

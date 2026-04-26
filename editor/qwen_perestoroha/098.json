@@ -1,0 +1,13 @@
+{
+  "filename": "098.jpeg",
+  "card_numbers": {
+    "primary": "98",
+    "secondary": null,
+    "tertiary": null,
+    "notes": "98 top-left corner"
+  },
+  "lines": null,
+  "source": null,
+  "notes": "Card is heavily faded/overexposed; text is barely visible and cannot be reliably transcribed. Only the card number 98 is clearly visible in the top-left corner.",
+  "error_type": "illegible"
+}

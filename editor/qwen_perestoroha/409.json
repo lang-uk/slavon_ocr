@@ -1,0 +1,25 @@
+{
+  "filename": "409.jpeg",
+  "card_numbers": {
+    "primary": "22",
+    "secondary": null,
+    "tertiary": "353",
+    "notes": "22 top-left pencil, 353 bottom-right pencil"
+  },
+  "lines": [
+    "В чахъ якаѥ єст ѻбыда, припатрѣсѧ.",
+    "По томъ у кроля собѣ зѣднали, абы нє",
+    "тольк[о] духов[ного] духовного(!), алє и свѣщ-",
+    "кого вряду никому, кто нє єст папѣжан,",
+    "а Русин, коли нє унїятѣм, и вперєд у",
+    "незнаѣмых питают, єсли Полякъ, ч",
+    "єст католикъ, а єсли Русин, ч єст",
+    "унїятъ. Львів, 1605-1606, Берест. 50."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Берест. 50."
+  },
+  "notes": "Line 3: [о] and [ного] appear to be editorial insertions in brackets; card shows '(!)' after духовного; Line 6 ends with 'ч' which may be incomplete abbreviation (perhaps 'чи'); Line 7 repeats 'ч єст' pattern"
+}

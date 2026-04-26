@@ -1,0 +1,26 @@
+{
+  "filename": "264.jpeg",
+  "card_numbers": {
+    "primary": "18",
+    "secondary": "779",
+    "tertiary": null,
+    "notes": "18 bottom-right, 779 top-right corner"
+  },
+  "lines": [
+    "Письмо и письмо, обличени",
+    "мумоніта кіевого Отшікора,",
+    "фолєнція, и пішоеєє згоди, орех-",
+    "жандарма сунрацького, о діієми",
+    "суґубь, а митрополита Микита",
+    "собачить, а митамит унтерґаль-",
+    "катії/бесід у корого звесте обличен",
+    "и на суд змодвива.",
+    "Лебід, 1605-1606, Львов. 42-43"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Лебід. 42-43"
+  },
+  "notes": "Card was upside down in image. Some characters uncertain due to handwriting quality and image rotation. Line 3 'пішоеєє' possibly 'пiшоеєє' or similar. Line 6 'митамит' uncertain - possibly a variant of митрополит. Line 7 'катії/бесід' has slash mark."
+}

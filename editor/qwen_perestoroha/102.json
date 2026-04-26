@@ -1,0 +1,22 @@
+{
+  "filename": "102.jpeg",
+  "card_numbers": {
+    "primary": "13",
+    "secondary": null,
+    "tertiary": "82",
+    "notes": "13 top-left ink, 82 bottom-right corner"
+  },
+  "lines": [
+    "Кирил луцкій упалъ у хоробу,",
+    "поѣхавъ до Сандомѣра на ль-",
+    "карство; дано потомъ знати,",
+    "ажебы львыгъ умерти.",
+    "Львів, 1605 - 1606, Перест. 30"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 30"
+  },
+  "notes": "Line 2-3 hyphenation: ль-карство split across lines. 'львыгъ' on line 4 appears to be 'львгъ' (abbreviation with titlo over вг)."
+}

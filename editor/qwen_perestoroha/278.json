@@ -1,0 +1,20 @@
+{
+  "filename": "278.jpeg",
+  "card_numbers": {
+    "primary": "9",
+    "secondary": "238",
+    "tertiary": "238",
+    "notes": "9 top-left pencil, 238 top-right ink, 238 bottom-right stamped"
+  },
+  "lines": [
+    "И потоиь, потоамне списавшїися,",
+    "до папъже есте утекли.",
+    "Львів, 1605-1606, Перест. 43."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 43."
+  },
+  "notes": "Line 1: 'потоиь' is unusual reading - could be 'потоамь' or similar; 'потоамне' appears to be non-standard form, possibly a transcription difficulty or archaic form; otherwise clear transcription."
+}

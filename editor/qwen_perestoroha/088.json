@@ -1,0 +1,22 @@
+{
+  "filename": "088.jpeg",
+  "card_numbers": {
+    "primary": "13",
+    "secondary": null,
+    "tertiary": "9.7.",
+    "notes": "13 bottom-right corner (small pencil), 9.7. top-left (faint pencil)"
+  },
+  "lines": [
+    "Дри котормъ сьдущеню ботова боза",
+    "судъ покажути, нє при доменю на",
+    "судъде бонєи порбаві его дуга",
+    "нєсємкі і кутулі.",
+    "Львів, 1605 - 1606, Берест. 30."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Берест. 30."
+  },
+  "notes": "Card appears upside down in image. Orthography shows 17th century Ukrainian sources style - uses є predominantly. Some letters are challenging due to handwriting style - particularly the last line where words like 'нєсємкі' and 'кутулі' have unusual forms. 'Дри котормъ' may be 'Дри которомъ' with missing letter. 'ботова боза' is uncertain reading."
+}

@@ -1,0 +1,22 @@
+{
+  "filename": "045.jpeg",
+  "card_numbers": {
+    "primary": "21",
+    "secondary": null,
+    "tertiary": "m",
+    "notes": "21 bottom-right corner ink, m top-left corner"
+  },
+  "lines": [
+    "Мне божіу, славнішіи намірихотє",
+    "мєніє раємті прєсвітлу",
+    "матері, гірачаиі мугпершу",
+    "об'явив,",
+    "Львів, 1605-1606, Львов. 24."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Львов. 24."
+  },
+  "notes": "Card rotated 180° in image. Lines transcribed reading bottom-to-top. Line 5 appears to be a source reference rather than the actual text. First line may contain a typo or unusual form 'намірихотє' — could be 'намір хотє' or something else. 'об'явив' uses apostrophe which is unusual for archaic orthography."
+}

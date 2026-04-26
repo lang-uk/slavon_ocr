@@ -1,0 +1,308 @@
+{
+  "seed": -1,
+  "size": 30,
+  "n_buckets": 1,
+  "from": "test split",
+  "cards": [
+    {
+      "key": "Auto-Color0002/011.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "011.jpeg",
+      "source_reference": "Перест. 26.",
+      "ref_chars": 244,
+      "errors": 5,
+      "cer_flat": 0.020491803278688523,
+      "bucket": 0
+    },
+    {
+      "key": "Auto-Color0002/019.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "019.jpeg",
+      "source_reference": "Перест. 26.",
+      "ref_chars": 139,
+      "errors": 8,
+      "cer_flat": 0.05755395683453238,
+      "bucket": 0
+    },
+    {
+      "key": "Auto-Color0002/026.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "026.jpeg",
+      "source_reference": "Берест. 26",
+      "ref_chars": 95,
+      "errors": 34,
+      "cer_flat": 0.35789473684210527,
+      "bucket": 0
+    },
+    {
+      "key": "Auto-Color0002/027.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "027.jpeg",
+      "source_reference": "Перест. 26",
+      "ref_chars": 87,
+      "errors": 2,
+      "cer_flat": 0.022988505747126436,
+      "bucket": 0
+    },
+    {
+      "key": "Auto-Color0002/039.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "039.jpeg",
+      "source_reference": "Перест. 27",
+      "ref_chars": 111,
+      "errors": 6,
+      "cer_flat": 0.05405405405405406,
+      "bucket": 0
+    },
+    {
+      "key": "Auto-Color0002/041.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "041.jpeg",
+      "source_reference": "Перест. 27",
+      "ref_chars": 112,
+      "errors": 7,
+      "cer_flat": 0.0625,
+      "bucket": 0
+    },
+    {
+      "key": "Auto-Color0002/045.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "045.jpeg",
+      "source_reference": "Перест. 27",
+      "ref_chars": 89,
+      "errors": 3,
+      "cer_flat": 0.033707865168539325,
+      "bucket": 0
+    },
+    {
+      "key": "Auto-Color0002/067.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "067.jpeg",
+      "source_reference": "Перест. 29",
+      "ref_chars": 177,
+      "errors": 6,
+      "cer_flat": 0.03389830508474576,
+      "bucket": 0
+    },
+    {
+      "key": "Auto-Color0002/079.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "079.jpeg",
+      "source_reference": "Перест. 29-30",
+      "ref_chars": 127,
+      "errors": 6,
+      "cer_flat": 0.047244094488188976,
+      "bucket": 0
+    },
+    {
+      "key": "Auto-Color0002/081.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "081.jpeg",
+      "source_reference": "Перест. 30.",
+      "ref_chars": 25,
+      "errors": 1,
+      "cer_flat": 0.04,
+      "bucket": 0
+    },
+    {
+      "key": "Auto-Color0002/087.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "087.jpeg",
+      "source_reference": "Перест. 30.",
+      "ref_chars": 231,
+      "errors": 19,
+      "cer_flat": 0.08225108225108226,
+      "bucket": 0
+    },
+    {
+      "key": "Auto-Color0002/095.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "095.jpeg",
+      "source_reference": "Перест. 30",
+      "ref_chars": 149,
+      "errors": 11,
+      "cer_flat": 0.0738255033557047,
+      "bucket": 0
+    },
+    {
+      "key": "Auto-Color0002/097.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "097.jpeg",
+      "source_reference": "Перест. 30",
+      "ref_chars": 97,
+      "errors": 3,
+      "cer_flat": 0.030927835051546393,
+      "bucket": 0
+    },
+    {
+      "key": "Auto-Color0002/099.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "099.jpeg",
+      "source_reference": "Перест. 30.",
+      "ref_chars": 147,
+      "errors": 5,
+      "cer_flat": 0.034013605442176874,
+      "bucket": 0
+    },
+    {
+      "key": "Auto-Color0002/101.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "101.jpeg",
+      "source_reference": "Перест. 30",
+      "ref_chars": 55,
+      "errors": 0,
+      "cer_flat": 0.0,
+      "bucket": 0
+    },
+    {
+      "key": "Auto-Color0002/104.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "104.jpeg",
+      "source_reference": "Перест. 31.",
+      "ref_chars": 204,
+      "errors": 8,
+      "cer_flat": 0.0392156862745098,
+      "bucket": 0
+    },
+    {
+      "key": "Auto-Color0002/112.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "112.jpeg",
+      "source_reference": "Перест. 31.",
+      "ref_chars": 253,
+      "errors": 9,
+      "cer_flat": 0.03557312252964427,
+      "bucket": 0
+    },
+    {
+      "key": "Auto-Color0002/113.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "113.jpeg",
+      "source_reference": "Перест. 31",
+      "ref_chars": 207,
+      "errors": 14,
+      "cer_flat": 0.06763285024154589,
+      "bucket": 0
+    },
+    {
+      "key": "Auto-Color0002/121.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "121.jpeg",
+      "source_reference": "Перест. 33",
+      "ref_chars": 152,
+      "errors": 6,
+      "cer_flat": 0.039473684210526314,
+      "bucket": 0
+    },
+    {
+      "key": "Auto-Color0002/126.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "126.jpeg",
+      "source_reference": "Перест. 33",
+      "ref_chars": 217,
+      "errors": 13,
+      "cer_flat": 0.059907834101382486,
+      "bucket": 0
+    },
+    {
+      "key": "Auto-Color0002/130.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "130.jpeg",
+      "source_reference": "Перест. 34.",
+      "ref_chars": 54,
+      "errors": 1,
+      "cer_flat": 0.018518518518518517,
+      "bucket": 0
+    },
+    {
+      "key": "Auto-Color0002/140.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "140.jpeg",
+      "source_reference": "Перест. 35",
+      "ref_chars": 59,
+      "errors": 4,
+      "cer_flat": 0.06779661016949153,
+      "bucket": 0
+    },
+    {
+      "key": "Auto-Color0002/145.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "145.jpeg",
+      "source_reference": "Перест. 35",
+      "ref_chars": 78,
+      "errors": 2,
+      "cer_flat": 0.02564102564102564,
+      "bucket": 0
+    },
+    {
+      "key": "Auto-Color0002/149.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "149.jpeg",
+      "source_reference": "Перест. 34-35.",
+      "ref_chars": 132,
+      "errors": 1,
+      "cer_flat": 0.007575757575757576,
+      "bucket": 0
+    },
+    {
+      "key": "Auto-Color0002/153.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "153.jpeg",
+      "source_reference": "Перест. 35.",
+      "ref_chars": 89,
+      "errors": 2,
+      "cer_flat": 0.02247191011235955,
+      "bucket": 0
+    },
+    {
+      "key": "Auto-Color0002/158.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "158.jpeg",
+      "source_reference": "Перест. 36.",
+      "ref_chars": 159,
+      "errors": 4,
+      "cer_flat": 0.025157232704402517,
+      "bucket": 0
+    },
+    {
+      "key": "Auto-Color0002/159.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "159.jpeg",
+      "source_reference": "Перест. 36.",
+      "ref_chars": 127,
+      "errors": 113,
+      "cer_flat": 0.889763779527559,
+      "bucket": 0
+    },
+    {
+      "key": "Auto-Color0002/161.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "161.jpeg",
+      "source_reference": "Перест. 36.",
+      "ref_chars": 132,
+      "errors": 6,
+      "cer_flat": 0.045454545454545456,
+      "bucket": 0
+    },
+    {
+      "key": "Auto-Color0002/169.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "169.jpeg",
+      "source_reference": "Перест. 37.",
+      "ref_chars": 139,
+      "errors": 3,
+      "cer_flat": 0.02158273381294964,
+      "bucket": 0
+    },
+    {
+      "key": "Auto-Color0002/171.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "171.jpeg",
+      "source_reference": "Перест. 37.",
+      "ref_chars": 103,
+      "errors": 2,
+      "cer_flat": 0.019417475728155338,
+      "bucket": 0
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "filename": "265.jpeg",
+  "card_numbers": {
+    "primary": "19",
+    "secondary": "225",
+    "tertiary": null,
+    "notes": "19 top-left pencil, 225 bottom-right pencil"
+  },
+  "lines": [
+    "А штож єще бóльшъ иншого мнѣ",
+    "учинити? Школу грецкую кто за-",
+    "ложил, если не Крекове и патріар-",
+    "ха сам?",
+    "Львóв, 1605-1606, Перест.43."
+  ],
+  "source": {
+    "city": "Львóв",
+    "date": "1605-1606",
+    "reference": "Перест.43."
+  },
+  "notes": ""
+}

@@ -1,0 +1,13 @@
+{
+  "filename": "333.jpeg",
+  "card_numbers": {
+    "primary": null,
+    "secondary": null,
+    "tertiary": null,
+    "notes": ""
+  },
+  "lines": null,
+  "source": null,
+  "notes": "Image is severely overexposed/faded. Only faint purple smudges and artifacts are visible; no legible handwritten text can be discerned.",
+  "error_type": "illegible"
+}

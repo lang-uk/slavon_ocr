@@ -1,0 +1,20 @@
+{
+  "filename": "085.jpeg",
+  "card_numbers": {
+    "primary": "8",
+    "secondary": null,
+    "tertiary": "70",
+    "notes": "8 top-left pencil, 70 bottom-right corner"
+  },
+  "lines": [
+    "Пам будучи собѣ веселимъ,",
+    "Кирилъ свое на утъ маетъ,",
+    "Львів, 1605-1606, Перест. 30."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 30."
+  },
+  "notes": "First letter of line 1 ambiguous - could be Пам or Пьам. Card uses 17th-century Ruthenian orthography with yat (ѣ) and hard sign (ъ). 'Перест.' is abbreviation for Пересторога text."
+}

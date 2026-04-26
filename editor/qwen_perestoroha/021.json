@@ -1,0 +1,13 @@
+{
+  "filename": "021.jpeg",
+  "card_numbers": {
+    "primary": null,
+    "secondary": null,
+    "tertiary": null,
+    "notes": ""
+  },
+  "lines": null,
+  "source": null,
+  "notes": "Card is blank - only contains smudges and paper artifacts, no visible handwritten text",
+  "error_type": "blank"
+}

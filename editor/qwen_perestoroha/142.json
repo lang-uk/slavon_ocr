@@ -1,0 +1,21 @@
+{
+  "filename": "142.jpeg",
+  "card_numbers": {
+    "primary": "13",
+    "secondary": null,
+    "tertiary": "18",
+    "notes": "13 bottom-right ink, 18 top-left faded ink"
+  },
+  "lines": [
+    "а коли моє на тіє не хочу",
+    "перешити, не прилучити ще й",
+    "омиралодачи моє посланка.",
+    "Авгіб, 1605 - 1606, Стеєм. 35"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Стеєм. 35"
+  },
+  "notes": "Text is written upside down relative to image orientation. Card numbers: 13 in bottom-right corner, 18 faintly in top-left. Third line appears incomplete or possibly contains transcription difficulty - 'омиралодачи моє посланка' seems unusual; may need verification."
+}

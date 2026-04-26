@@ -1,0 +1,20 @@
+{
+  "filename": "122.jpeg",
+  "card_numbers": {
+    "primary": "8",
+    "secondary": "99",
+    "tertiary": null,
+    "notes": "8 top-left pencil, 99 bottom-right pencil"
+  },
+  "lines": [
+    "Нижли календар новый приняти",
+    "мусьили",
+    "Львів, 1605 - 1606, Перест. 33"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 33"
+  },
+  "notes": ""
+}

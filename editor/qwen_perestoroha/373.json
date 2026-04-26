@@ -1,0 +1,25 @@
+{
+  "filename": "373.jpeg",
+  "card_numbers": {
+    "primary": "320",
+    "secondary": null,
+    "tertiary": null,
+    "notes": "320 top-left pencil (upside down in image)"
+  },
+  "lines": [
+    "Орган каліки мои и по воскресению",
+    "своемъ хранимъ мипрудинъ его по сѣеу",
+    "ановендовѣлнѣмъпрѣдъ мипуединимъ",
+    "Темперансальнаго иука не ом-",
+    "угавмьниа, аке тую гуиѣ драпанио",
+    "дѣло номдерекатисъ вѣе аме по сѣеу.",
+    "Лѣто 6, 1605 - 1606, Лїтопис. 47-78.",
+    "320"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Літопис. 47-78"
+  },
+  "notes": "Card shows text that appears garbled or potentially in cipher/transposition. The words do not form coherent Ukrainian/Ruthenian. Some letters are difficult to read (possible ѳ, ы, ї, ѫ, ѧ, ѯ, ѵ characters). Bottom number '6' is in bottom-right corner."
+}

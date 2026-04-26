@@ -1,0 +1,21 @@
+{
+  "filename": "177.jpeg",
+  "card_numbers": {
+    "primary": "10",
+    "secondary": "177",
+    "tertiary": null,
+    "notes": "10 bottom-right ink, 177 top-left pencil"
+  },
+  "lines": [
+    "Брюссая скара, ате мон лсе",
+    "Блєудрор ѳриики матиє кагалт",
+    "υсєародн у хремианирамъ",
+    "Агнiб, 1605-1606, Львєвм. 38."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Львєвм. 38."
+  },
+  "notes": "Card image is upside down; transcription is challenging. Lines 1-3 appear to be excerpts from a 17th-century source; line 4 is the source reference. Some characters uncertain due to poor image orientation. 'Брюссая скара' may be 'Брюсся скара' (meaning something like 'Brysia's treasure/casket'). 'Львєвм' is the source abbreviation."
+}

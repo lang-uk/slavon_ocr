@@ -1,0 +1,21 @@
+{
+  "filename": "356.jpeg",
+  "card_numbers": {
+    "primary": "303",
+    "secondary": null,
+    "tertiary": null,
+    "notes": "303 top-left pencil, upside down"
+  },
+  "lines": [
+    "Покрове и милосте великий еси ты —",
+    "дугъ в богослужение непочатое со архиереи —",
+    "сводомъ собьщє прїшѧти.",
+    "Київ, 1605-1606, Тарасм. 47."
+  ],
+  "source": {
+    "city": "Київ",
+    "date": "1605-1606",
+    "reference": "Тарасм. 47."
+  },
+  "notes": "Card is upside down in image"
+}

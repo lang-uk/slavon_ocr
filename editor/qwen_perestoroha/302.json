@@ -1,0 +1,21 @@
+{
+  "filename": "302.jpeg",
+  "card_numbers": {
+    "primary": "280",
+    "secondary": null,
+    "tertiary": "ВІ",
+    "notes": "280 top-right (pencil, inverted), ВІ bottom-right (pencil, inverted)"
+  },
+  "lines": [
+    "и єденкѣмъ моємъ укрінці он 160",
+    "ампіра забравъшъ, покажнѣть во-",
+    "десъ токавсє туго.",
+    "Медвідь, 1605 - 1606, Стефан. 414."
+  ],
+  "source": {
+    "city": "Медвідь",
+    "date": "1605-1606",
+    "reference": "Стефан. 414"
+  },
+  "notes": "Card is upside down (rotated 180°). Text is in early Ukrainian/Ruthenian. Line 2 ends with hyphen, line 3 continues the word. 'Медвідь' is likely a scholar's citation reference (possibly a modern researcher's work on Ukrainian chronicles)."
+}

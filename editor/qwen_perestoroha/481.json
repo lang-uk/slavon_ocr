@@ -1,0 +1,13 @@
+{
+  "filename": "481.jpeg",
+  "card_numbers": {
+    "primary": "28",
+    "secondary": null,
+    "tertiary": "1418",
+    "notes": "28 bottom-right ink, 1418 top-left pencil"
+  },
+  "lines": null,
+  "source": null,
+  "notes": "Card is upside down; text begins 'Харків' but handwriting is extremely difficult to read at this angle. Unable to transcribe with confidence. Please rotate image 180 degrees and reprocess.",
+  "error_type": "illegible"
+}

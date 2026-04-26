@@ -1,0 +1,21 @@
+{
+  "filename": "153.jpeg",
+  "card_numbers": {
+    "primary": "12",
+    "secondary": "124",
+    "tertiary": null,
+    "notes": "12 top-left pencil, 124 bottom-right pencil"
+  },
+  "lines": [
+    "а найбарзѣй у Берестю Потеи",
+    "получилъ, такъ же мустьли отъ",
+    "домовъ своихъ прегъ розбъгнутися.",
+    "Львѣвъ, 1605-1606, Берест. 35."
+  ],
+  "source": {
+    "city": "Львѣвъ",
+    "date": "1605-1606",
+    "reference": "Берест. 35."
+  },
+  "notes": ""
+}

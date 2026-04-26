@@ -1,0 +1,21 @@
+{
+  "filename": "069.jpeg",
+  "card_numbers": {
+    "primary": "12",
+    "secondary": null,
+    "tertiary": "56",
+    "notes": "12 top-left pencil, 56 bottom-right corner"
+  },
+  "lines": [
+    "Нимшѣ кгда Григорко с тымъ поѣхалъ,",
+    "будучи на одномъ мѣщу подпилый,",
+    "спомѧнулъ тоє, з чимъ посланъ",
+    "Львiвъ, 1605 - 1606, Берест. 29"
+  ],
+  "source": {
+    "city": "Львiвъ",
+    "date": "1605 - 1606",
+    "reference": "Берест. 29"
+  },
+  "notes": ""
+}

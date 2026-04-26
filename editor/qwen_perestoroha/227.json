@@ -1,0 +1,22 @@
+{
+  "filename": "227.jpeg",
+  "card_numbers": {
+    "primary": "24",
+    "secondary": "194",
+    "tertiary": null,
+    "notes": "24 top-left pencil, 194 bottom-right pencil"
+  },
+  "lines": [
+    "и для того, не для кого иншаго, только",
+    "ко бы сам на столице у покою",
+    "следил, хочей наемником, а не",
+    "пастырем.",
+    "Львів, 1605-1606, Берест. 41."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Берест. 41."
+  },
+  "notes": ""
+}

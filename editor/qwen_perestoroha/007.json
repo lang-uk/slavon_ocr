@@ -1,0 +1,21 @@
+{
+  "filename": "007.jpeg",
+  "card_numbers": {
+    "primary": "7",
+    "secondary": null,
+    "tertiary": null,
+    "notes": "7 top-left ink mark"
+  },
+  "lines": [
+    "имo скôди на мнюцє лтъвaє х",
+    "веркôвaє ємáрôжвaтисє грôвôдъ-",
+    "бôвaєсъ лдьмô, и мпôс.",
+    "Авдіє, 1605-1606, Лєпсвм. 25"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Авдіє. 25"
+  },
+  "notes": "Card appears upside down in image. Text is early 17th century Ruthenian. Reference indicates Avdiiv (Aвдієв) chronicle, page/skazannya 25. Some characters difficult to read due to image orientation."
+}

@@ -1,0 +1,28 @@
+{
+  "filename": "464.jpeg",
+  "card_numbers": {
+    "primary": "22",
+    "secondary": "404",
+    "tertiary": null,
+    "notes": "22 top-left pencil, 404 bottom-right pencil"
+  },
+  "lines": [
+    "седмое, ... осмое, иже Петръ святый...",
+    "во Антиохії седьхъ лѣтъ евангелизовалъ",
+    "в Понте ... о чомъ историкъ костела",
+    "римского церковный... пишетъ: девятое,",
+    "иже и зъ власныхъ же мѣстъ єго явнє",
+    "таи же Евсевій ... пишетъ: десятое,",
+    "иже Іриней,.. выписуючи лицьбу єписко-",
+    "повъ римскихъ и споминаячи[и] Климен-",
+    "та, ... который апостоловъ зналъ добре ...",
+    "и третъимъ єпископомъ єго быти лицьитъ,",
+    "Львів, 1605-1606, Перест. 54."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 54."
+  },
+  "notes": "Text from 'Пересторога' polemical work. Mixed orthography with є/е coexisting. Line 8 has editorial insertion [и]. Line 10 reads 'лицитъ' (possibly variant or error for 'лить'). Card has dual numbering system."
+}

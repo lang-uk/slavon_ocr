@@ -1,0 +1,24 @@
+{
+  "filename": "321.jpeg",
+  "card_numbers": {
+    "primary": "2",
+    "secondary": "244",
+    "tertiary": null,
+    "notes": "2 top-left pencil, 244 top-right pencil, 244 bottom-right corner pencil"
+  },
+  "lines": [
+    "И пишетъ Потеи в техъ же остатных",
+    "книткахъ своихъ нынешнихъ о новом",
+    "календару, который естѣ въ Римѣ по руску",
+    "выdrukовавши, принесли зъ Риму, ква-",
+    "ляги той богопротивный календар, акъ",
+    "єсть добрый и вельми потребный,",
+    "Львів, 1605-1606, Берест. 45"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Берест. 45"
+  },
+  "notes": "Top-left small number '2'. Top-right and bottom-right show '244'. Line 3: 'єстѣ' appears to have combining diacritic. Line 5: 'акъ' not 'якъ'. 'ква-' hyphenated at line break. Line 6: 'єсть' with є. Reference at bottom: Львів, 1605-1606, Берест. 45"
+}

@@ -1,0 +1,21 @@
+{
+  "filename": "210.jpeg",
+  "card_numbers": {
+    "primary": "12",
+    "secondary": null,
+    "tertiary": "180",
+    "notes": "12 top-left pencil, 180 bottom-right pencil"
+  },
+  "lines": [
+    "Найдовалися таковые люде, же",
+    "звели пана воеводу кієвского",
+    "до згоды з гетманом коронным.",
+    "Львів, 1605-1606, Перест. 40."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 40."
+  },
+  "notes": ""
+}

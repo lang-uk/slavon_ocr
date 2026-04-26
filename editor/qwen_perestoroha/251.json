@@ -1,0 +1,25 @@
+{
+  "filename": "251.jpeg",
+  "card_numbers": {
+    "primary": "42",
+    "secondary": null,
+    "tertiary": null,
+    "notes": "42 at top of card (appears bottom due to rotation), ink"
+  },
+  "lines": [
+    "А месяц, когда напечатано отъиское",
+    "и другая церковная в руках еѵхетъ,",
+    "тако имъетъ ъ его поданъ патріархо-",
+    "-же наступпомъ, однако болше не ли-",
+    "емъ за дланю твоего патіара,",
+    "которыі и сами неболы и нас ни -",
+    "такъ разговѣти не имъютъ.",
+    "Иоди, 1605-1606, Бѣрем. 42."
+  ],
+  "source": {
+    "city": "Іоди",
+    "date": "1605-1606",
+    "reference": "Бѣрем. 42."
+  },
+  "notes": "Card rotated 180 degrees in image. Some characters unclear: line 2 'еѵхетъ' could be 'еѵхатъ'; line 3 'ъ' uncertain; line 4 'наступпомъ' uncertain; line 5 'патіара' uncertain; line 6 'которыі' and 'неболы' uncertain. Transcribed as written."
+}

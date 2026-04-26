@@ -1,0 +1,24 @@
+{
+  "filename": "299.jpeg",
+  "card_numbers": {
+    "primary": "258",
+    "secondary": null,
+    "tertiary": "19",
+    "notes": "258 top-left (appears as upside-down 852), 19 bottom-right corner"
+  },
+  "lines": [
+    "и б трезвєнность в митєх, аще есть аа бы-258",
+    "иу здорову, послону служики свою службу в",
+    "черкив, работала на вас хрсницькаго",
+    "житна в нарекание великим, которому",
+    "єсми б пол слухняи каяти дєлити до ума",
+    "оне до крьсє",
+    "Мавриб, 1605 - 1606, Ілереев. 44"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Ілереев. 44"
+  },
+  "notes": "Card is upside down. Some words difficult to read with certainty: 'послону' could be 'послуху' or 'послушнику'; 'служики' uncertain; 'хрсницькаго' possibly 'хресницького'; 'пол слухняи' uncertain reading. 'Ілереев' - name unclear, possibly 'Ілерієв' or similar."
+}

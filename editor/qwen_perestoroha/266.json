@@ -1,0 +1,22 @@
+{
+  "filename": "266.jpeg",
+  "card_numbers": {
+    "primary": "16",
+    "secondary": "226",
+    "tertiary": null,
+    "notes": "16 top-left faint ink, 226 bottom-right faint pencil"
+  },
+  "lines": [
+    "И грамматику грецкую из словен-",
+    "ским письмом не Арсений ли,...",
+    "во Львове ... учил в школѣ два",
+    "лѣтъ?",
+    "Львів, 1605 - 1606, Берест. 43."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Берест. 43"
+  },
+  "notes": ""
+}

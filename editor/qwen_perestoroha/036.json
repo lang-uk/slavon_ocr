@@ -1,0 +1,24 @@
+{
+  "filename": "036.jpeg",
+  "card_numbers": {
+    "primary": null,
+    "secondary": null,
+    "tertiary": null,
+    "notes": "33 top-left (upside down)"
+  },
+  "lines": [
+    "«Іапервѣі смараеться у свѣтимішо(го)»,",
+    "патріархи, абы єсь ѣе гуяекаловиь",
+    "ку розумієнюи науки вітри прироо",
+    "- сьбввіі ростають, а ен на ти маєтнюо",
+    "смѣлиї єбовии рабѡвати надголосенъ",
+    "на тожє жьажуеть",
+    "Адолі, 1605-1606, Льревн. 2.7"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Лерев. 2.7"
+  },
+  "notes": "Text is upside down in image. Several characters are difficult to read due to handwriting quality - transcribed based on best judgment. Line 2 'гуяекаловиь' uncertain, line 5 'смѣлиї' and 'надголосенъ' somewhat unclear. Card has number 33 in top-left corner (appears upside down in source image)."
+}

@@ -1,0 +1,20 @@
+{
+  "filename": "205.jpeg",
+  "card_numbers": {
+    "primary": null,
+    "secondary": null,
+    "tertiary": null,
+    "notes": "9tv top-left pencil (illegible marking)"
+  },
+  "lines": [
+    "Кропив… ноцаи га киті …",
+    "змїи вєо Іаґура,",
+    "Мнїї, 1605-1606, Нєрєєм. 40"
+  ],
+  "source": {
+    "city": "Мнїї",
+    "date": "1605-1606",
+    "reference": "Нєрєєм. 40"
+  },
+  "notes": "Text is handwritten in purple ink. Card appears rotated in image. Top-left has '9tv' in pencil (unclear marking). Lines 2-3 reference appears to be from chronicle source. Some characters uncertain: 'ноцаи' possibly 'ночи' or similar, 'га' possibly 'я', 'Іаґура' possibly a name or place. 'Мнїї' for reference city unclear - could be Мнїїв or similar. 'Нєрєєм' is obscure reference - possibly an abbreviated source title."
+}

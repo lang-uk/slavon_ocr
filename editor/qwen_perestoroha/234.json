@@ -1,0 +1,21 @@
+{
+  "filename": "234.jpeg",
+  "card_numbers": {
+    "primary": "200",
+    "secondary": "15",
+    "tertiary": null,
+    "notes": "200 top-left pencil (upside-down in image), 15 bottom-right corner pencil"
+  },
+  "lines": [
+    "Ці, ннєсмѣлиі писарі — оба и нести-",
+    "халая рєчъ обєку[дєлаи] на наємтрз",
+    "ємущомє.",
+    "Львів, 1605-1606, Берест. 41."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Берест. 41."
+  },
+  "notes": "Card is upside-down in image. Line 2 contains bracketed expansion [дєлаи] — scholar wrote this in brackets, possibly an emendation or gloss. Some characters are difficult to read clearly due to handwriting quality. 'ннєсмѣлиі' appears to be written with double н at start."
+}

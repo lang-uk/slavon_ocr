@@ -1,0 +1,22 @@
+{
+  "filename": "024.jpeg",
+  "card_numbers": {
+    "primary": "14",
+    "secondary": "22",
+    "tertiary": null,
+    "notes": "14 top-left pencil (faint), 22 bottom-right pencil"
+  },
+  "lines": [
+    "За чим наступовали на столицѣ",
+    "митрополитове и епископове неш-",
+    "кусные, не такіє, якіє исперва",
+    "бывали:",
+    "Львів, 1605-1606, Перест. 26"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 26"
+  },
+  "notes": ""
+}

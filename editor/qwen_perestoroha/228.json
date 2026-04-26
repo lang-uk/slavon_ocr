@@ -1,0 +1,21 @@
+{
+  "filename": "228.jpeg",
+  "card_numbers": {
+    "primary": "228",
+    "secondary": null,
+    "tertiary": null,
+    "notes": "228 bottom-left (visible when card is rotated)"
+  },
+  "lines": [
+    "Шляхти енке мєсьцє бажаный предъбю",
+    "во карала о то. Якон и обыдал єго",
+    "кролевская милост сынути мно",
+    "спрашy. Медыб, 1605-1606, Львом. 41"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "41"
+  },
+  "notes": ""
+}

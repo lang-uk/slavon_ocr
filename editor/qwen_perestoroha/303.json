@@ -1,0 +1,21 @@
+{
+  "filename": "303.jpeg",
+  "card_numbers": {
+    "primary": "14",
+    "secondary": "261",
+    "tertiary": "261",
+    "notes": "14 top-left pencil, 261 top-right ink, 261 bottom-right pencil"
+  },
+  "lines": [
+    "И зубъгъся великїй народ, хотяли вас",
+    "загубити, аже вас великая сторона",
+    "ваша и уряд замковый оборонил.",
+    "Львів, 1605-1606, Перест. 44"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 44"
+  },
+  "notes": ""
+}

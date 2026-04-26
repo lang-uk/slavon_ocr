@@ -1,0 +1,1841 @@
+{
+  "run_id": "prod_all152",
+  "prompt": "perestoroha_ocr_preset",
+  "source_folder": "Auto-Color0002_oriented",
+  "sample_path": "editor/samples/all152.json",
+  "n_cards": 152,
+  "elapsed_s": 1840.7,
+  "max_tokens": 4096,
+  "max_thinking_tokens": 2048,
+  "model": null,
+  "effort": null,
+  "status_counts": {
+    "ok_thinking": 152
+  },
+  "records": [
+    {
+      "key": "Auto-Color0002/165.jpeg",
+      "filename": "165.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/165.json",
+      "elapsed_s": 27.14
+    },
+    {
+      "key": "Auto-Color0002/166.jpeg",
+      "filename": "166.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/166.json",
+      "elapsed_s": 27.59
+    },
+    {
+      "key": "Auto-Color0002/177.jpeg",
+      "filename": "177.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/177.json",
+      "elapsed_s": 30.86
+    },
+    {
+      "key": "Auto-Color0002/159.jpeg",
+      "filename": "159.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/159.json",
+      "elapsed_s": 22.87
+    },
+    {
+      "key": "Auto-Color0002/168.jpeg",
+      "filename": "168.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/168.json",
+      "elapsed_s": 27.0
+    },
+    {
+      "key": "Auto-Color0002/162.jpeg",
+      "filename": "162.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/162.json",
+      "elapsed_s": 39.5
+    },
+    {
+      "key": "Auto-Color0002/118.jpeg",
+      "filename": "118.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/118.json",
+      "elapsed_s": 26.63
+    },
+    {
+      "key": "Auto-Color0002/037.jpeg",
+      "filename": "037.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/037.json",
+      "elapsed_s": 23.65
+    },
+    {
+      "key": "Auto-Color0002/070.jpeg",
+      "filename": "070.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/070.json",
+      "elapsed_s": 39.15
+    },
+    {
+      "key": "Auto-Color0002/087.jpeg",
+      "filename": "087.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/087.json",
+      "elapsed_s": 37.91
+    },
+    {
+      "key": "Auto-Color0002/026.jpeg",
+      "filename": "026.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/026.json",
+      "elapsed_s": 39.99
+    },
+    {
+      "key": "Auto-Color0002/133.jpeg",
+      "filename": "133.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/133.json",
+      "elapsed_s": 42.76
+    },
+    {
+      "key": "Auto-Color0002/007.jpeg",
+      "filename": "007.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/007.json",
+      "elapsed_s": 45.13
+    },
+    {
+      "key": "Auto-Color0002/095.jpeg",
+      "filename": "095.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/095.json",
+      "elapsed_s": 56.79
+    },
+    {
+      "key": "Auto-Color0002/140.jpeg",
+      "filename": "140.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/140.json",
+      "elapsed_s": 29.34
+    },
+    {
+      "key": "Auto-Color0002/156.jpeg",
+      "filename": "156.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/156.json",
+      "elapsed_s": 66.09
+    },
+    {
+      "key": "Auto-Color0002/113.jpeg",
+      "filename": "113.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/113.json",
+      "elapsed_s": 36.91
+    },
+    {
+      "key": "Auto-Color0002/036.jpeg",
+      "filename": "036.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/036.json",
+      "elapsed_s": 33.58
+    },
+    {
+      "key": "Auto-Color0002/041.jpeg",
+      "filename": "041.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/041.json",
+      "elapsed_s": 22.8
+    },
+    {
+      "key": "Auto-Color0002/144.jpeg",
+      "filename": "144.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/144.json",
+      "elapsed_s": 30.44
+    },
+    {
+      "key": "Auto-Color0002/164.jpeg",
+      "filename": "164.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/164.json",
+      "elapsed_s": 57.27
+    },
+    {
+      "key": "Auto-Color0002/009.jpeg",
+      "filename": "009.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/009.json",
+      "elapsed_s": 46.48
+    },
+    {
+      "key": "Auto-Color0002/035.jpeg",
+      "filename": "035.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/035.json",
+      "elapsed_s": 30.52
+    },
+    {
+      "key": "Auto-Color0002/062.jpeg",
+      "filename": "062.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/062.json",
+      "elapsed_s": 46.1
+    },
+    {
+      "key": "Auto-Color0002/126.jpeg",
+      "filename": "126.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/126.json",
+      "elapsed_s": 103.45
+    },
+    {
+      "key": "Auto-Color0002/019.jpeg",
+      "filename": "019.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/019.json",
+      "elapsed_s": 52.99
+    },
+    {
+      "key": "Auto-Color0002/032.jpeg",
+      "filename": "032.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/032.json",
+      "elapsed_s": 37.51
+    },
+    {
+      "key": "Auto-Color0002/083.jpeg",
+      "filename": "083.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/083.json",
+      "elapsed_s": 19.57
+    },
+    {
+      "key": "Auto-Color0002/122.jpeg",
+      "filename": "122.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/122.json",
+      "elapsed_s": 22.41
+    },
+    {
+      "key": "Auto-Color0002/060.jpeg",
+      "filename": "060.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/060.json",
+      "elapsed_s": 20.14
+    },
+    {
+      "key": "Auto-Color0002/039.jpeg",
+      "filename": "039.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/039.json",
+      "elapsed_s": 32.61
+    },
+    {
+      "key": "Auto-Color0002/172.jpeg",
+      "filename": "172.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/172.json",
+      "elapsed_s": 26.51
+    },
+    {
+      "key": "Auto-Color0002/114.jpeg",
+      "filename": "114.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/114.json",
+      "elapsed_s": 27.98
+    },
+    {
+      "key": "Auto-Color0002/049.jpeg",
+      "filename": "049.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/049.json",
+      "elapsed_s": 33.85
+    },
+    {
+      "key": "Auto-Color0002/056.jpeg",
+      "filename": "056.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/056.json",
+      "elapsed_s": 31.14
+    },
+    {
+      "key": "Auto-Color0002/135.jpeg",
+      "filename": "135.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/135.json",
+      "elapsed_s": 35.39
+    },
+    {
+      "key": "Auto-Color0002/077.jpeg",
+      "filename": "077.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/077.json",
+      "elapsed_s": 22.5
+    },
+    {
+      "key": "Auto-Color0002/076.jpeg",
+      "filename": "076.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/076.json",
+      "elapsed_s": 37.81
+    },
+    {
+      "key": "Auto-Color0002/034.jpeg",
+      "filename": "034.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/034.json",
+      "elapsed_s": 61.19
+    },
+    {
+      "key": "Auto-Color0002/079.jpeg",
+      "filename": "079.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/079.json",
+      "elapsed_s": 28.09
+    },
+    {
+      "key": "Auto-Color0002/179.jpeg",
+      "filename": "179.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/179.json",
+      "elapsed_s": 62.75
+    },
+    {
+      "key": "Auto-Color0002/161.jpeg",
+      "filename": "161.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/161.json",
+      "elapsed_s": 26.87
+    },
+    {
+      "key": "Auto-Color0002/107.jpeg",
+      "filename": "107.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/107.json",
+      "elapsed_s": 22.24
+    },
+    {
+      "key": "Auto-Color0002/116.jpeg",
+      "filename": "116.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/116.json",
+      "elapsed_s": 53.04
+    },
+    {
+      "key": "Auto-Color0002/051.jpeg",
+      "filename": "051.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/051.json",
+      "elapsed_s": 27.43
+    },
+    {
+      "key": "Auto-Color0002/052.jpeg",
+      "filename": "052.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/052.json",
+      "elapsed_s": 28.89
+    },
+    {
+      "key": "Auto-Color0002/033.jpeg",
+      "filename": "033.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/033.json",
+      "elapsed_s": 25.65
+    },
+    {
+      "key": "Auto-Color0002/174.jpeg",
+      "filename": "174.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/174.json",
+      "elapsed_s": 28.87
+    },
+    {
+      "key": "Auto-Color0002/178.jpeg",
+      "filename": "178.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/178.json",
+      "elapsed_s": 38.25
+    },
+    {
+      "key": "Auto-Color0002/091.jpeg",
+      "filename": "091.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/091.json",
+      "elapsed_s": 41.58
+    },
+    {
+      "key": "Auto-Color0002/111.jpeg",
+      "filename": "111.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/111.json",
+      "elapsed_s": 56.12
+    },
+    {
+      "key": "Auto-Color0002/006.jpeg",
+      "filename": "006.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/006.json",
+      "elapsed_s": 58.25
+    },
+    {
+      "key": "Auto-Color0002/003.jpeg",
+      "filename": "003.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/003.json",
+      "elapsed_s": 43.25
+    },
+    {
+      "key": "Auto-Color0002/046.jpeg",
+      "filename": "046.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/046.json",
+      "elapsed_s": 38.48
+    },
+    {
+      "key": "Auto-Color0002/005.jpeg",
+      "filename": "005.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/005.json",
+      "elapsed_s": 55.23
+    },
+    {
+      "key": "Auto-Color0002/160.jpeg",
+      "filename": "160.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/160.json",
+      "elapsed_s": 82.26
+    },
+    {
+      "key": "Auto-Color0002/180.jpeg",
+      "filename": "180.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/180.json",
+      "elapsed_s": 32.26
+    },
+    {
+      "key": "Auto-Color0002/081.jpeg",
+      "filename": "081.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/081.json",
+      "elapsed_s": 29.38
+    },
+    {
+      "key": "Auto-Color0002/031.jpeg",
+      "filename": "031.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/031.json",
+      "elapsed_s": 58.19
+    },
+    {
+      "key": "Auto-Color0002/085.jpeg",
+      "filename": "085.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/085.json",
+      "elapsed_s": 32.73
+    },
+    {
+      "key": "Auto-Color0002/138.jpeg",
+      "filename": "138.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/138.json",
+      "elapsed_s": 30.47
+    },
+    {
+      "key": "Auto-Color0002/024.jpeg",
+      "filename": "024.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/024.json",
+      "elapsed_s": 33.05
+    },
+    {
+      "key": "Auto-Color0002/175.jpeg",
+      "filename": "175.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/175.json",
+      "elapsed_s": 46.66
+    },
+    {
+      "key": "Auto-Color0002/121.jpeg",
+      "filename": "121.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/121.json",
+      "elapsed_s": 23.85
+    },
+    {
+      "key": "Auto-Color0002/025.jpeg",
+      "filename": "025.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/025.json",
+      "elapsed_s": 32.92
+    },
+    {
+      "key": "Auto-Color0002/013.jpeg",
+      "filename": "013.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/013.json",
+      "elapsed_s": 36.13
+    },
+    {
+      "key": "Auto-Color0002/104.jpeg",
+      "filename": "104.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/104.json",
+      "elapsed_s": 60.95
+    },
+    {
+      "key": "Auto-Color0002/086.jpeg",
+      "filename": "086.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/086.json",
+      "elapsed_s": 33.31
+    },
+    {
+      "key": "Auto-Color0002/112.jpeg",
+      "filename": "112.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/112.json",
+      "elapsed_s": 40.73
+    },
+    {
+      "key": "Auto-Color0002/123.jpeg",
+      "filename": "123.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/123.json",
+      "elapsed_s": 32.83
+    },
+    {
+      "key": "Auto-Color0002/099.jpeg",
+      "filename": "099.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/099.json",
+      "elapsed_s": 22.81
+    },
+    {
+      "key": "Auto-Color0002/067.jpeg",
+      "filename": "067.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/067.json",
+      "elapsed_s": 25.65
+    },
+    {
+      "key": "Auto-Color0002/045.jpeg",
+      "filename": "045.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/045.json",
+      "elapsed_s": 19.88
+    },
+    {
+      "key": "Auto-Color0002/089.jpeg",
+      "filename": "089.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/089.json",
+      "elapsed_s": 25.01
+    },
+    {
+      "key": "Auto-Color0002/020.jpeg",
+      "filename": "020.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/020.json",
+      "elapsed_s": 44.69
+    },
+    {
+      "key": "Auto-Color0002/103.jpeg",
+      "filename": "103.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/103.json",
+      "elapsed_s": 21.02
+    },
+    {
+      "key": "Auto-Color0002/073.jpeg",
+      "filename": "073.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/073.json",
+      "elapsed_s": 28.08
+    },
+    {
+      "key": "Auto-Color0002/075.jpeg",
+      "filename": "075.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/075.json",
+      "elapsed_s": 65.89
+    },
+    {
+      "key": "Auto-Color0002/155.jpeg",
+      "filename": "155.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/155.json",
+      "elapsed_s": 31.26
+    },
+    {
+      "key": "Auto-Color0002/131.jpeg",
+      "filename": "131.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/131.json",
+      "elapsed_s": 20.36
+    },
+    {
+      "key": "Auto-Color0002/097.jpeg",
+      "filename": "097.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/097.json",
+      "elapsed_s": 56.0
+    },
+    {
+      "key": "Auto-Color0002/002.jpeg",
+      "filename": "002.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/002.json",
+      "elapsed_s": 50.29
+    },
+    {
+      "key": "Auto-Color0002/173.jpeg",
+      "filename": "173.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/173.json",
+      "elapsed_s": 24.47
+    },
+    {
+      "key": "Auto-Color0002/030.jpeg",
+      "filename": "030.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/030.json",
+      "elapsed_s": 69.05
+    },
+    {
+      "key": "Auto-Color0002/065.jpeg",
+      "filename": "065.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/065.json",
+      "elapsed_s": 23.0
+    },
+    {
+      "key": "Auto-Color0002/022.jpeg",
+      "filename": "022.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/022.json",
+      "elapsed_s": 75.13
+    },
+    {
+      "key": "Auto-Color0002/128.jpeg",
+      "filename": "128.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/128.json",
+      "elapsed_s": 38.61
+    },
+    {
+      "key": "Auto-Color0002/127.jpeg",
+      "filename": "127.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/127.json",
+      "elapsed_s": 27.19
+    },
+    {
+      "key": "Auto-Color0002/109.jpeg",
+      "filename": "109.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/109.json",
+      "elapsed_s": 25.98
+    },
+    {
+      "key": "Auto-Color0002/088.jpeg",
+      "filename": "088.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/088.json",
+      "elapsed_s": 22.69
+    },
+    {
+      "key": "Auto-Color0002/074.jpeg",
+      "filename": "074.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/074.json",
+      "elapsed_s": 45.65
+    },
+    {
+      "key": "Auto-Color0002/134.jpeg",
+      "filename": "134.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/134.json",
+      "elapsed_s": 28.41
+    },
+    {
+      "key": "Auto-Color0002/145.jpeg",
+      "filename": "145.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/145.json",
+      "elapsed_s": 39.95
+    },
+    {
+      "key": "Auto-Color0002/158.jpeg",
+      "filename": "158.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/158.json",
+      "elapsed_s": 26.28
+    },
+    {
+      "key": "Auto-Color0002/012.jpeg",
+      "filename": "012.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/012.json",
+      "elapsed_s": 43.0
+    },
+    {
+      "key": "Auto-Color0002/129.jpeg",
+      "filename": "129.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/129.json",
+      "elapsed_s": 100.14
+    },
+    {
+      "key": "Auto-Color0002/157.jpeg",
+      "filename": "157.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/157.json",
+      "elapsed_s": 18.55
+    },
+    {
+      "key": "Auto-Color0002/071.jpeg",
+      "filename": "071.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/071.json",
+      "elapsed_s": 39.78
+    },
+    {
+      "key": "Auto-Color0002/082.jpeg",
+      "filename": "082.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/082.json",
+      "elapsed_s": 58.06
+    },
+    {
+      "key": "Auto-Color0002/027.jpeg",
+      "filename": "027.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/027.json",
+      "elapsed_s": 23.46
+    },
+    {
+      "key": "Auto-Color0002/170.jpeg",
+      "filename": "170.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/170.json",
+      "elapsed_s": 40.68
+    },
+    {
+      "key": "Auto-Color0002/093.jpeg",
+      "filename": "093.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/093.json",
+      "elapsed_s": 30.83
+    },
+    {
+      "key": "Auto-Color0002/153.jpeg",
+      "filename": "153.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/153.json",
+      "elapsed_s": 24.66
+    },
+    {
+      "key": "Auto-Color0002/058.jpeg",
+      "filename": "058.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/058.json",
+      "elapsed_s": 51.75
+    },
+    {
+      "key": "Auto-Color0002/053.jpeg",
+      "filename": "053.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/053.json",
+      "elapsed_s": 25.25
+    },
+    {
+      "key": "Auto-Color0002/136.jpeg",
+      "filename": "136.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/136.json",
+      "elapsed_s": 51.82
+    },
+    {
+      "key": "Auto-Color0002/169.jpeg",
+      "filename": "169.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/169.json",
+      "elapsed_s": 33.9
+    },
+    {
+      "key": "Auto-Color0002/100.jpeg",
+      "filename": "100.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/100.json",
+      "elapsed_s": 40.39
+    },
+    {
+      "key": "Auto-Color0002/001.jpeg",
+      "filename": "001.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/001.json",
+      "elapsed_s": 43.1
+    },
+    {
+      "key": "Auto-Color0002/011.jpeg",
+      "filename": "011.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/011.json",
+      "elapsed_s": 43.8
+    },
+    {
+      "key": "Auto-Color0002/132.jpeg",
+      "filename": "132.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/132.json",
+      "elapsed_s": 34.38
+    },
+    {
+      "key": "Auto-Color0002/064.jpeg",
+      "filename": "064.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/064.json",
+      "elapsed_s": 28.41
+    },
+    {
+      "key": "Auto-Color0002/040.jpeg",
+      "filename": "040.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/040.json",
+      "elapsed_s": 26.82
+    },
+    {
+      "key": "Auto-Color0002/080.jpeg",
+      "filename": "080.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/080.json",
+      "elapsed_s": 40.81
+    },
+    {
+      "key": "Auto-Color0002/130.jpeg",
+      "filename": "130.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/130.json",
+      "elapsed_s": 24.34
+    },
+    {
+      "key": "Auto-Color0002/171.jpeg",
+      "filename": "171.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/171.json",
+      "elapsed_s": 41.66
+    },
+    {
+      "key": "Auto-Color0002/014.jpeg",
+      "filename": "014.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/014.json",
+      "elapsed_s": 29.53
+    },
+    {
+      "key": "Auto-Color0002/151.jpeg",
+      "filename": "151.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/151.json",
+      "elapsed_s": 39.29
+    },
+    {
+      "key": "Auto-Color0002/044.jpeg",
+      "filename": "044.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/044.json",
+      "elapsed_s": 26.18
+    },
+    {
+      "key": "Auto-Color0002/163.jpeg",
+      "filename": "163.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/163.json",
+      "elapsed_s": 36.12
+    },
+    {
+      "key": "Auto-Color0002/055.jpeg",
+      "filename": "055.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/055.json",
+      "elapsed_s": 30.3
+    },
+    {
+      "key": "Auto-Color0002/147.jpeg",
+      "filename": "147.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/147.json",
+      "elapsed_s": 22.51
+    },
+    {
+      "key": "Auto-Color0002/110.jpeg",
+      "filename": "110.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/110.json",
+      "elapsed_s": 34.38
+    },
+    {
+      "key": "Auto-Color0002/023.jpeg",
+      "filename": "023.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/023.json",
+      "elapsed_s": 34.11
+    },
+    {
+      "key": "Auto-Color0002/057.jpeg",
+      "filename": "057.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/057.json",
+      "elapsed_s": 36.19
+    },
+    {
+      "key": "Auto-Color0002/124.jpeg",
+      "filename": "124.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/124.json",
+      "elapsed_s": 27.23
+    },
+    {
+      "key": "Auto-Color0002/017.jpeg",
+      "filename": "017.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/017.json",
+      "elapsed_s": 21.11
+    },
+    {
+      "key": "Auto-Color0002/018.jpeg",
+      "filename": "018.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/018.json",
+      "elapsed_s": 32.79
+    },
+    {
+      "key": "Auto-Color0002/010.jpeg",
+      "filename": "010.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/010.json",
+      "elapsed_s": 30.93
+    },
+    {
+      "key": "Auto-Color0002/016.jpeg",
+      "filename": "016.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/016.json",
+      "elapsed_s": 17.59
+    },
+    {
+      "key": "Auto-Color0002/120.jpeg",
+      "filename": "120.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/120.json",
+      "elapsed_s": 34.86
+    },
+    {
+      "key": "Auto-Color0002/106.jpeg",
+      "filename": "106.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/106.json",
+      "elapsed_s": 30.9
+    },
+    {
+      "key": "Auto-Color0002/142.jpeg",
+      "filename": "142.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/142.json",
+      "elapsed_s": 25.4
+    },
+    {
+      "key": "Auto-Color0002/015.jpeg",
+      "filename": "015.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/015.json",
+      "elapsed_s": 19.9
+    },
+    {
+      "key": "Auto-Color0002/069.jpeg",
+      "filename": "069.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/069.json",
+      "elapsed_s": 28.62
+    },
+    {
+      "key": "Auto-Color0002/008.jpeg",
+      "filename": "008.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/008.json",
+      "elapsed_s": 29.36
+    },
+    {
+      "key": "Auto-Color0002/004.jpeg",
+      "filename": "004.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/004.json",
+      "elapsed_s": 52.82
+    },
+    {
+      "key": "Auto-Color0002/143.jpeg",
+      "filename": "143.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/143.json",
+      "elapsed_s": 29.61
+    },
+    {
+      "key": "Auto-Color0002/047.jpeg",
+      "filename": "047.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/047.json",
+      "elapsed_s": 46.14
+    },
+    {
+      "key": "Auto-Color0002/149.jpeg",
+      "filename": "149.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/149.json",
+      "elapsed_s": 20.59
+    },
+    {
+      "key": "Auto-Color0002/176.jpeg",
+      "filename": "176.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/176.json",
+      "elapsed_s": 24.88
+    },
+    {
+      "key": "Auto-Color0002/117.jpeg",
+      "filename": "117.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/117.json",
+      "elapsed_s": 35.71
+    },
+    {
+      "key": "Auto-Color0002/029.jpeg",
+      "filename": "029.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/029.json",
+      "elapsed_s": 26.49
+    },
+    {
+      "key": "Auto-Color0002/043.jpeg",
+      "filename": "043.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/043.json",
+      "elapsed_s": 23.84
+    },
+    {
+      "key": "Auto-Color0002/084.jpeg",
+      "filename": "084.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/084.json",
+      "elapsed_s": 35.08
+    },
+    {
+      "key": "Auto-Color0002/102.jpeg",
+      "filename": "102.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/102.json",
+      "elapsed_s": 35.27
+    },
+    {
+      "key": "Auto-Color0002/101.jpeg",
+      "filename": "101.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/101.json",
+      "elapsed_s": 43.09
+    },
+    {
+      "key": "Auto-Color0002/119.jpeg",
+      "filename": "119.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/119.json",
+      "elapsed_s": 23.82
+    },
+    {
+      "key": "Auto-Color0002/154.jpeg",
+      "filename": "154.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/154.json",
+      "elapsed_s": 24.01
+    },
+    {
+      "key": "Auto-Color0002/139.jpeg",
+      "filename": "139.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/139.json",
+      "elapsed_s": 26.82
+    },
+    {
+      "key": "Auto-Color0002/125.jpeg",
+      "filename": "125.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/125.json",
+      "elapsed_s": 33.72
+    },
+    {
+      "key": "Auto-Color0002/181.jpeg",
+      "filename": "181.jpeg",
+      "thinking_attempt": {
+        "returncode": 0,
+        "stderr_tail": ""
+      },
+      "non_thinking_attempt": null,
+      "final_status": "ok_thinking",
+      "output_path": "output/Auto-Color0002_oriented/runs/prod_all152/181.json",
+      "elapsed_s": 15.0
+    }
+  ]
+}

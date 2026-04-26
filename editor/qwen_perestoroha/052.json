@@ -1,0 +1,21 @@
+{
+  "filename": "052.jpeg",
+  "card_numbers": {
+    "primary": "19",
+    "secondary": "45",
+    "tertiary": null,
+    "notes": "19 top-left pencil/ink, 45 bottom-right ink"
+  },
+  "lines": [
+    "Братства пофундовали, которые",
+    "потомъ король Стефан за залеце-",
+    "нем его привилѣями умножилъ.",
+    "Львів, 1605-1606, Перест. 28."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 28."
+  },
+  "notes": ""
+}

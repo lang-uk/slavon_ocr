@@ -1,0 +1,13 @@
+{
+  "filename": "001.jpeg",
+  "card_numbers": {
+    "primary": null,
+    "secondary": null,
+    "tertiary": null,
+    "notes": ""
+  },
+  "lines": null,
+  "source": null,
+  "notes": "Unable to render image - file may be corrupted or empty",
+  "error_type": "illegible"
+}

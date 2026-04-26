@@ -1,0 +1,21 @@
+{
+  "filename": "145.jpeg",
+  "card_numbers": {
+    "primary": "12",
+    "secondary": null,
+    "tertiary": "116",
+    "notes": "12 top-left faint pencil, 116 bottom-right pencil"
+  },
+  "lines": [
+    "<А они>... мушьи у иномъ великѫ",
+    "исправномъ на жертовницѫ з дому",
+    "принести вина",
+    "Львів, 1605-1606, Перест. 35"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 35"
+  },
+  "notes": "First line begins with angle brackets around 'А они' - indicates editorial framing. Word 'мушьи' appears to be handwritten shorthand or possibly 'мусьми' - unclear reading."
+}

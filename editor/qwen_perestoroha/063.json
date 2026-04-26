@@ -1,0 +1,13 @@
+{
+  "filename": "063.jpeg",
+  "card_numbers": {
+    "primary": null,
+    "secondary": null,
+    "tertiary": null,
+    "notes": ""
+  },
+  "lines": null,
+  "source": null,
+  "notes": "Card is blank - only shows paper texture and minor artifacts, no visible handwriting",
+  "error_type": "blank"
+}

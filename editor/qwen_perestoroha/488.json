@@ -1,0 +1,20 @@
+{
+  "filename": "488.jpeg",
+  "card_numbers": {
+    "primary": "55",
+    "secondary": null,
+    "tertiary": "168",
+    "notes": "168 top-left pencil, 55 bottom (appears as top when card is upside down)"
+  },
+  "lines": [
+    "А другиестороны — наши намірiходї",
+    "хорошьшы и зъєднєншїи не спѣшєа,",
+    "Лвїв, 1605-1606, Берест. 55"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Берест. 55"
+  },
+  "notes": "Image shows card upside down. Bottom-right corner has faint mark that looks like '11' or 'И'. First line: 'намірiходї' uncertain — could be 'наміриходї' or similar."
+}

@@ -1,0 +1,22 @@
+{
+  "filename": "292.jpeg",
+  "card_numbers": {
+    "primary": "251",
+    "secondary": null,
+    "tertiary": "18",
+    "notes": "251 bottom-left ink, 18 bottom-right corner ink"
+  },
+  "lines": [
+    "И тако такъ несправедлива правда в нидѣ-",
+    "що єя розумна і в землянскі",
+    "потсвѣдъ нѣткыва не вергана даже",
+    "до конца.",
+    "Львів, 1605-1606, Берест. 44."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Берест. 44."
+  },
+  "notes": ""
+}

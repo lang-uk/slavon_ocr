@@ -1,0 +1,23 @@
+{
+  "filename": "276.jpeg",
+  "card_numbers": {
+    "primary": "236",
+    "secondary": null,
+    "tertiary": null,
+    "notes": "236 at beginning of first line (pencil), 96 bottom-right corner (pencil)"
+  },
+  "lines": [
+    "А нашъ концептъ бьянкика у своеи епішкі-",
+    "ніі попавъ документами и шноженствомъ,",
+    "Берестовъ, уѣівое ватом, и сякии",
+    "бурхачоде мене забігавот, а по нійт-",
+    "-діяли, поже кнїж вѣрен укаѣєш,",
+    "Абід, 1605-1606, Берест. 43."
+  ],
+  "source": {
+    "city": "Абід",
+    "date": "1605-1606",
+    "reference": "Берест. 43"
+  },
+  "notes": "Card is upside-down in image; handwriting difficult to decipher - some words appear to be transliterations or abbreviations that are not standard archaic Ukrainian. Words like 'концептъ', 'бьянкика', 'уѣівое', 'бурхачоде' are unusual and may contain errors in original or are abbreviations."
+}

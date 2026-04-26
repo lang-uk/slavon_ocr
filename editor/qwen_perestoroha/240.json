@@ -1,0 +1,20 @@
+{
+  "filename": "240.jpeg",
+  "card_numbers": {
+    "primary": "12",
+    "secondary": null,
+    "tertiary": "2056",
+    "notes": "12 top-left pencil, 2056 bottom-right pencil"
+  },
+  "lines": [
+    "А бряди и достоѥнства духовные",
+    "для чого маємо тратити?",
+    "Львів, 1605-1606, Перест. 42"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 42"
+  },
+  "notes": ""
+}

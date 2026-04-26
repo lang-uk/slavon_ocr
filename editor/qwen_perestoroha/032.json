@@ -1,0 +1,22 @@
+{
+  "filename": "032.jpeg",
+  "card_numbers": {
+    "primary": "56",
+    "secondary": null,
+    "tertiary": "68",
+    "notes": "56 bottom-right ink, 68 top-left faint pencil"
+  },
+  "lines": [
+    "‹Крєа юже мо(т҃) мнораз ѹмбѫшє(н҃)є",
+    "своє на(к)емєнбо‹... под(ь)ска(л҃) а(д)є напѧ(с)р-",
+    "жа на(т҃)ыкши своєи свѣтъ, бл(а)гвѣ(г)",
+    "дѫховныя а(д)є мр(и)а(л҃)і(м҃),",
+    "Львѳі, 1605-1606, Лєресм. 26-17."
+  ],
+  "source": {
+    "city": "Львѳі",
+    "date": "1605-1606",
+    "reference": "Лєресм. 26-17"
+  },
+  "notes": "Card is upside down in image; reading from bottom up. Some abbreviations uncertain: на(к)емєнбо could be на камєнѣ or similar. Line 5 'Лєресм' uncertain - possibly 'Лєт. 26-17' or similar chronicle reference."
+}

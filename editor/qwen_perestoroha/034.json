@@ -1,0 +1,24 @@
+{
+  "filename": "034.jpeg",
+  "card_numbers": {
+    "primary": "13",
+    "secondary": "31",
+    "tertiary": null,
+    "notes": "13 top-left pencil, 31 bottom-right pencil"
+  },
+  "lines": [
+    "‹Кды ... тиранъ утвердихъ свое",
+    "панство}!.. позволилъ, абы обычаем",
+    "становымъ люд посполитый",
+    "патріарху обираи, а от патріар-",
+    "хов трехъ былъ посвяцоный и от",
+    "него потверконый.",
+    "Львів, 1605-1606, Берест. 26-27"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Берест. 26-27"
+  },
+  "notes": "Card shows mixed orthography - uses ъ in some word endings (тиранъ, утвердихъ, позволилъ, становымъ, трехъ, былъ) but not in others (свое, панство, абы, обычаем). Note: потверконый may be variant spelling of потверджоный. патріархов hyphenated across lines 4-5."
+}

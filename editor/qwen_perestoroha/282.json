@@ -1,0 +1,22 @@
+{
+  "filename": "282.jpeg",
+  "card_numbers": {
+    "primary": "16",
+    "secondary": "242",
+    "tertiary": null,
+    "notes": "16 top-left pencil, 242 top-right ink (small), 242 bottom-right corner (larger)"
+  },
+  "lines": [
+    "И вспоминаєте флоренского собору нб-",
+    "якую злоду, которую сам Богъ",
+    "праведный, судом своим не допустив-",
+    "ши, разлеталь ...",
+    "Львів, 1605-1606, Перест. 243"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 243"
+  },
+  "notes": "Line 1: 'нб-' is an abbreviation for 'небесную' (heavenly), continued on line 2. Line 5: reference number is 243, not 242."
+}

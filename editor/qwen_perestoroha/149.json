@@ -1,0 +1,22 @@
+{
+  "filename": "149.jpeg",
+  "card_numbers": {
+    "primary": "18",
+    "secondary": null,
+    "tertiary": "14",
+    "notes": "18 top-left faint ink, 1 14 bottom-right faint pencil/ink"
+  },
+  "lines": [
+    "А мы, совокупившися з бискупами",
+    "рымскими, згоду свою учинили и",
+    "на знак згоды у церкви божїй || вси",
+    "посполу служєніє свое отправовали",
+    "Львів, 1605-1606, Перест. 34-35."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 34-35"
+  },
+  "notes": "Orthography shows mixture: бискупами (not єпископами), з (not зъ), учинили (not учинили съ), божїй (with ї), служєніє (with є), свое (plain е not є). This matches the 1605-1606 Berestycha polemical text period where є/е coexist and hard signs are often omitted."
+}

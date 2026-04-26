@@ -1,0 +1,25 @@
+{
+  "filename": "267.jpeg",
+  "card_numbers": {
+    "primary": "43",
+    "secondary": "267",
+    "tertiary": null,
+    "notes": "267 top-left faint pencil, 43 bottom-right small number"
+  },
+  "lines": [
+    "I pravlanimy nerez sobie yudei v dyr-",
+    "-ky vyhazut v dyrykhy vpravdi i svie-",
+    "Svenkogo pisma razshozhetsia, hto vdyge",
+    "v ruskoi narodi ne byvalo, jakos",
+    "otreenymu, i ne yudymy, moloko yerky",
+    "dyradamy, kotoryimy yude sudybe zaraz",
+    "poslushenstvyi,",
+    "Kyiv, 1605-1606, Troyest. 43"
+  ],
+  "source": {
+    "city": "Київ",
+    "date": "1605-1606",
+    "reference": "Тройест. 43"
+  },
+  "notes": "Card upside-down in image. Some words difficult to read with certainty. 'poslushenstvyi' - unclear if ending is -i or -і. 'Troyest.' abbreviation uncertain."
+}

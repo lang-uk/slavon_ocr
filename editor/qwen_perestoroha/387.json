@@ -1,0 +1,23 @@
+{
+  "filename": "387.jpeg",
+  "card_numbers": {
+    "primary": "346",
+    "secondary": null,
+    "tertiary": "16",
+    "notes": "346 top-left ink, 16 bottom-right corner rotated"
+  },
+  "lines": [
+    "І Чигирь Жабина, єдиного свого юнаце",
+    "обо, пророчь муриваючи кров'єз дві-",
+    "смавше: тєние єже мдариі Бого-",
+    "дословне, нємєш алино дерзакон -",
+    "ницько.",
+    "Київ, 1605-1606, Трегем. 48"
+  ],
+  "source": {
+    "city": "Київ",
+    "date": "1605-1606",
+    "reference": "Треgem. 48"
+  },
+  "notes": "Card is oriented upside-down in image. Text appears to be from a panegyric source. Some words difficult to read with certainty: 'муриваючи' possibly 'пророчь муриваючи' (prophecy-related?), 'мдариі' possibly a name or epithet, 'нємєш алино' unclear. The source reference 'Треgem' may need verification - possibly 'Трегем' or similar."
+}

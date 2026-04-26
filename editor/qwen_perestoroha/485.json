@@ -1,0 +1,19 @@
+{
+  "filename": "485.jpeg",
+  "card_numbers": {
+    "primary": "9",
+    "secondary": "421",
+    "tertiary": null,
+    "notes": "9 top-left pencil, 421 bottom-right pencil"
+  },
+  "lines": [
+    "посилаю вас же овцы посредъ вол-",
+    "ковъ. Львів, 1605-1606, Берест. 55"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Берест. 55"
+  },
+  "notes": ""
+}

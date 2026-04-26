@@ -1,0 +1,22 @@
+{
+  "filename": "384.jpeg",
+  "card_numbers": {
+    "primary": "68",
+    "secondary": "68",
+    "tertiary": null,
+    "notes": "68 top-left faint pencil, 68 bottom-right faint pencil"
+  },
+  "lines": [
+    "Неака сина его, бо дорб хребтове при-",
+    "пасти; и дома драматика драматика,",
+    "во совратныи єдного постаить; вдинши доу",
+    "єдин спасаици, ниже инанєство",
+    "пошадєних."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Лерет. 48"
+  },
+  "notes": "Image is rotated 180 degrees. Text appears upside down. Card numbers visible in top-left (faint) and bottom-right (faint). Some characters difficult to read due to rotation and handwriting quality."
+}

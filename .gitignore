@@ -28,8 +28,18 @@ build/
 .DS_Store
 Thumbs.db
 
-# Editor DB
+# Editor DB & generated reports
 editor/cards.db
+editor/char_diffs.html
+editor/review_prod_all152.html
+
+# Experiment scratch — only the canonical prod_all152 run is tracked
+editor/runs/*
+!editor/runs/prod_all152.json
+!editor/runs/prod_all152.summary.json
+
+# Large model weights (RealESRGAN super-res, ~64MB)
+models/
 
 # Large data files
 ocr_data.zip

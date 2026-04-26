@@ -1,0 +1,22 @@
+{
+  "filename": "127.jpeg",
+  "card_numbers": {
+    "primary": "15",
+    "secondary": null,
+    "tertiary": "104",
+    "notes": "15 top-left pencil, 104 bottom-right pencil"
+  },
+  "lines": [
+    "Который то протоієй, будучи",
+    "человѣком годным и ученым, добре",
+    "былъ цесарюви турскому знаємый",
+    "и всѣмъ башамъ;",
+    "Львів, 1605-1606. Берест. 33"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Берест. 33"
+  },
+  "notes": ""
+}

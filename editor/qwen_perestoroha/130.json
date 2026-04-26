@@ -1,0 +1,20 @@
+{
+  "filename": "130.jpeg",
+  "card_numbers": {
+    "primary": "10",
+    "secondary": null,
+    "tertiary": "104",
+    "notes": "10 top-left ink, 104 bottom-right ink"
+  },
+  "lines": [
+    "нєслушнaя єст рєчь отняти хлѣбъ",
+    "дѣтелъ и поверечи нєомъ",
+    "Львів, 1605-1606, Перест. 34."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 34."
+  },
+  "notes": ""
+}

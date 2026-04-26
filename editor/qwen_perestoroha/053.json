@@ -1,0 +1,20 @@
+{
+  "filename": "053.jpeg",
+  "card_numbers": {
+    "primary": "16",
+    "secondary": "46",
+    "tertiary": null,
+    "notes": "16 top-left ink (circled), 46 bottom-right corner"
+  },
+  "lines": [
+    "И на тех тепер только",
+    "благочестіє уже достало.",
+    "Львів, 1605 - 1606, Перест. 28."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 28."
+  },
+  "notes": ""
+}

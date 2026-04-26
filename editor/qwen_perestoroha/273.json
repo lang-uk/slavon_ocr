@@ -1,0 +1,13 @@
+{
+  "filename": "273.jpeg",
+  "card_numbers": {
+    "primary": "234",
+    "secondary": null,
+    "tertiary": "96",
+    "notes": "234 bottom-left ink (appears top-left when card rotated), 96 bottom-right corner"
+  },
+  "lines": null,
+  "source": null,
+  "notes": "Image appears upside down. Main text is handwritten early 17th-century Ruthenian script but characters are difficult to read reliably in current orientation. Reference line 'Мєбiб, 1605-1606, Лєрсєм. 43.' partially visible. Requires image rotation and careful character-by-character reading for accurate transcription.",
+  "error_type": "illegible"
+}

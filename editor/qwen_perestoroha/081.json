@@ -1,0 +1,19 @@
+{
+  "filename": "081.jpeg",
+  "card_numbers": {
+    "primary": "66",
+    "secondary": null,
+    "tertiary": null,
+    "notes": "# top-left, 66 bottom-right"
+  },
+  "lines": [
+    "А съ тѣмъ отъѣхалъ Діонисі(й).",
+    "Львiвъ, 1605-1606, Перест. 30."
+  ],
+  "source": {
+    "city": "Львiвъ",
+    "date": "1605-1606",
+    "reference": "Перест. 30."
+  },
+  "notes": ""
+}

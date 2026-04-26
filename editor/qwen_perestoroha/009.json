@@ -1,0 +1,23 @@
+{
+  "filename": "009.jpeg",
+  "card_numbers": {
+    "primary": null,
+    "secondary": "15",
+    "tertiary": "90",
+    "notes": "15 top-left ink (faint), 90 bottom-right corner"
+  },
+  "lines": [
+    "Иначеи не довъдаєшся, толко аж",
+    "з Їгреціи приняли вѣру христіан-",
+    "скую упередъ нѣмци ляхове з Нѣмечъ",
+    "римскую двайцятьма и пятьма",
+    "льты .",
+    "Львів, 1605-1606, Перест. 25 ."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 25 ."
+  },
+  "notes": "Card number 15 faint in top-left, 90 in bottom-right. Text discusses Poles and Germans accepting Christian faith before Rusyns. The word 'нѣмци' appears on line 3."
+}

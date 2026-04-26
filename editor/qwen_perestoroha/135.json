@@ -1,0 +1,20 @@
+{
+  "filename": "135.jpeg",
+  "card_numbers": {
+    "primary": "135",
+    "secondary": null,
+    "tertiary": "9",
+    "notes": "135 top-left pencil, 9 bottom-right corner"
+  },
+  "lines": [
+    "на день заветршшїй 3 шити",
+    "юже приимавъ",
+    "Львів, 1605-1606, Крон. 3 зв."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Крон. 3 зв."
+  },
+  "notes": ""
+}

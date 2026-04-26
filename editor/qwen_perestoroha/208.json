@@ -1,0 +1,24 @@
+{
+  "filename": "208.jpeg",
+  "card_numbers": {
+    "primary": "148",
+    "secondary": null,
+    "tertiary": null,
+    "notes": "148 top-left ink (appears at bottom of image due to upside-down card)"
+  },
+  "lines": [
+    "Анє полонї … сьїм єго, поехаши,",
+    "на сўое сьое бранє и яже єго на",
+    "задржати речѣ і себє до вѣдчы –",
+    "єще в моц̾ сьрадат послѣдывати",
+    "євангелїє.",
+    "",
+    "Львів, 1605-1606, Берест. 40"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Берест. 40"
+  },
+  "notes": "Card is upside down in image; 148 is the scholar's sequence number in top-left corner"
+}

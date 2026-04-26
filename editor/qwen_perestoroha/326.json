@@ -1,0 +1,21 @@
+{
+  "filename": "326.jpeg",
+  "card_numbers": {
+    "primary": "11",
+    "secondary": null,
+    "tertiary": null,
+    "notes": "11 bottom-right; 4+6 (4+6) top-left"
+  },
+  "lines": [
+    "A lvivo eferveskiіi іumponovum, vpeshug-",
+    "pšuui quenymau, z mou sobora nbesku-",
+    "uu сa smeskanau vtmuchugіі.",
+    "lvivі, 1605-1606, Іареем. 45."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Яреем. 45."
+  },
+  "notes": "Card is upside down. Transcribed from bottom to top. Line endings may have hyphens that got cut off."
+}

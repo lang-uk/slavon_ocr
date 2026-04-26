@@ -1,0 +1,21 @@
+{
+  "filename": "003.jpeg",
+  "card_numbers": {
+    "primary": "3",
+    "secondary": null,
+    "tertiary": null,
+    "notes": "3 bottom-right corner"
+  },
+  "lines": [
+    "‹епископове … которые … папєгови в",
+    "послушенство ся отдали› и великое за-",
+    "мьшаня в людехъ учинили.",
+    "Львів, 1605-1606, Перест. 25"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 25"
+  },
+  "notes": ""
+}

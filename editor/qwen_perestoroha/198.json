@@ -1,0 +1,21 @@
+{
+  "filename": "198.jpeg",
+  "card_numbers": {
+    "primary": "168",
+    "secondary": "01",
+    "tertiary": null,
+    "notes": "168 top-left pencil, 01 bottom-right pencil"
+  },
+  "lines": [
+    "‹поручаетъ такъ отпишикай…›",
+    "мунти, 3 насельскѣй и с бѣлой",
+    "ти, я 3 къ наконуєцъ вєдобавити",
+    "мѣстъ, 1605-1606, Берест. 39"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Берест. 39"
+  },
+  "notes": "Image upside down; some characters uncertain - '3' may be 'є', 'вєдобавити' uncertain spelling"
+}

@@ -1,0 +1,21 @@
+{
+  "filename": "319.jpeg",
+  "card_numbers": {
+    "primary": "15",
+    "secondary": "273",
+    "tertiary": null,
+    "notes": "15 top-left pencil, 273 top-right ink and bottom-right corner"
+  },
+  "lines": [
+    "И выдали єте остатнюю книжку",
+    "свою противъ книжки някого филя-",
+    "лета, арозяги ему кіем.",
+    "Львів, 1605-1606, Берест. 45."
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Берест. 45."
+  },
+  "notes": ""
+}

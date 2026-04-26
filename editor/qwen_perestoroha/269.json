@@ -1,0 +1,21 @@
+{
+  "filename": "269.jpeg",
+  "card_numbers": {
+    "primary": "14",
+    "secondary": "230",
+    "tertiary": null,
+    "notes": "14 top-left pencil, 230 top-right pencil, 229-230 bottom-right pencil"
+  },
+  "lines": [
+    "Прото школы на всѣхъ мѣстехъ",
+    "закладатся и шпиталь будуют-",
+    "ся и церкви шруются.",
+    "Львів, 1605-1606, Перест. 43"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 43"
+  },
+  "notes": ""
+}

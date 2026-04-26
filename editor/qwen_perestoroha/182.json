@@ -1,0 +1,20 @@
+{
+  "filename": "182.jpeg",
+  "card_numbers": {
+    "primary": "10",
+    "secondary": null,
+    "tertiary": "153",
+    "notes": "10 top-left ink, 153 bottom-right ink"
+  },
+  "lines": [
+    "пан воєводе кієвскій для коней",
+    "єго собі славль с килькома сты червоных",
+    "Львів, 1605-1606, Перести. 38"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перести. 38"
+  },
+  "notes": ""
+}

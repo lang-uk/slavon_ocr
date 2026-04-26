@@ -1,0 +1,22 @@
+{
+  "filename": "325.jpeg",
+  "card_numbers": {
+    "primary": "12",
+    "secondary": null,
+    "tertiary": "277",
+    "notes": "12 top-left ink, 277 bottom-right ink"
+  },
+  "lines": [
+    "И Виссаріона никейского митрополита",
+    "кардинальством почтилъ, и Сидора [ми]",
+    "митрополита кієвского вельми похвалилъ,",
+    "и вас почтити обещалъ.",
+    "Львів, 1605-1606, Берест. 45"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Берест. 45"
+  },
+  "notes": "[ми] appears to be an insertion or correction in brackets on line 2"
+}

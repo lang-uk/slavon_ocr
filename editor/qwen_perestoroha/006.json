@@ -1,0 +1,25 @@
+{
+  "filename": "006.jpeg",
+  "card_numbers": {
+    "primary": "18",
+    "secondary": "6",
+    "tertiary": null,
+    "notes": "18 top-left faint ink, 6 bottom-right corner"
+  },
+  "lines": [
+    "А потомъ якобы на флоренскомъ соборѣ",
+    "пред [пред] (!) полтораста лѣтъ,",
+    "то есть по року тисячномъ тыриащетъ",
+    "пятьдесятъ девятомъ албо десятомъ",
+    "году з собоѭ учинили мьили, и митропо-",
+    "литъ кіевсkій идоръ якобы тую згоду",
+    "въ рускои земли утвєрдити мьилъ.",
+    "Львів, 1605-1606, Перест. 25"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 25"
+  },
+  "notes": "Line 5: 'з собоѭ' - unusual form, possibly 'з собою' with dze (ѭ) at end; Line 6: 'кіевсkій' - 'k' appears to be a Latin character rather than Cyrillic 'н'; 'идоръ' instead of 'Истор'"
+}

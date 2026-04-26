@@ -1,0 +1,25 @@
+{
+  "filename": "272.jpeg",
+  "card_numbers": {
+    "primary": "25",
+    "secondary": "233",
+    "tertiary": "253",
+    "notes": "25 top-left pencil, 233 top-right ink, 253 bottom-right pencil"
+  },
+  "lines": [
+    "<патріарху ... до себе ѥхати не ка-",
+    "зали> боячись, aby вас яко выступцѡвъ",
+    "не каралъ и з вряздовъ яко негодныхъ",
+    "не скидалъ тѣхъ, яко иншихъ поскидалъ,",
+    "бoste тое до себе вѣдали, жебы вас тое",
+    "поткало, бо сами на себе лѣзть-ли бисте",
+    "декрет учинити яко жыдове",
+    "Львів, 1605-1606, Берест. 43"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Берест. 43"
+  },
+  "notes": "Line 2: 'aby' appears to be 'абы'; Line 5: 'бoste' unclear, possibly 'босте'; Line 6: 'лѣзть-ли' with hyphenation"
+}

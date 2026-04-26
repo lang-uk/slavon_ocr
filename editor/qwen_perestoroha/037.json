@@ -1,0 +1,20 @@
+{
+  "filename": "037.jpeg",
+  "card_numbers": {
+    "primary": "10",
+    "secondary": null,
+    "tertiary": "34",
+    "notes": "10 top-left pencil, 34 bottom-right pencil"
+  },
+  "lines": [
+    "якъ нъже збудовалъ школу, шпит-",
+    "аль, маѣтностями ихъ надарил.",
+    "Львів, 1605-1606, Берест. 27"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Берест. 27"
+  },
+  "notes": ""
+}

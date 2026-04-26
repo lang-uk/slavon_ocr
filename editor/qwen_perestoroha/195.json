@@ -1,0 +1,20 @@
+{
+  "filename": "195.jpeg",
+  "card_numbers": {
+    "primary": "166",
+    "secondary": null,
+    "tertiary": null,
+    "notes": "166 top-left pencil"
+  },
+  "lines": [
+    "Єгопóбте, кємни, бє гусї мої",
+    "бавчунє.",
+    "Юрїй, 1605-1606, Львєвн. 39"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Львєвн. 39"
+  },
+  "notes": "Card rotated 180 degrees in image. Line 2 ending 'бавчунє.' appears incomplete - may be fragment from larger text."
+}

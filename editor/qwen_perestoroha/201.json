@@ -1,0 +1,21 @@
+{
+  "filename": "201.jpeg",
+  "card_numbers": {
+    "primary": "12",
+    "secondary": "172",
+    "tertiary": null,
+    "notes": "12 top-left pencil, 172 bottom-right pencil"
+  },
+  "lines": [
+    "в короткомъ часть прийдетъ до вели-",
+    "кого замешаньи, а бодай не домыш-",
+    "лятся того иншого.",
+    "Львiвъ, 1605-1606, Перест. 39"
+  ],
+  "source": {
+    "city": "Львiвъ",
+    "date": "1605-1606",
+    "reference": "Перест. 39"
+  },
+  "notes": ""
+}

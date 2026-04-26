@@ -1,0 +1,21 @@
+{
+  "filename": "285.jpeg",
+  "card_numbers": {
+    "primary": "76",
+    "secondary": null,
+    "tertiary": null,
+    "notes": "76 in pencil faint at top-left (original orientation)"
+  },
+  "lines": [
+    "и паки вєрѧѥмъ єдиного бг҃а, ѿ(т)ц҃а",
+    "и єдиного сн҃а єдиного сн҃а",
+    "и сп҃са и с҃т҃ого дх҃а",
+    "и сп҃са и с҃т҃ого дх҃а"
+  ],
+  "source": {
+    "city": "Варшава",
+    "date": "1637",
+    "reference": "№ 1142. Т. 42"
+  },
+  "notes": "Card contains creedal formula (Nicene Creed excerpt) about Trinity. Text is upside down in image - card must be rotated 180° to read correctly. Archaic orthography preserved: ѿ ot-ligature, є where visible on card, бг҃а, ѿ(т)ц҃а, сн҃а, сп҃са, с҃т҃ого дх҃а with titlo marks. Source line at bottom reads 'Варшава, 1637' - Warsaw 1637 collection."
+}

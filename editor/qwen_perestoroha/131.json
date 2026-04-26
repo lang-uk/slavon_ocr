@@ -1,0 +1,22 @@
+{
+  "filename": "131.jpeg",
+  "card_numbers": {
+    "primary": "18",
+    "secondary": null,
+    "tertiary": "108",
+    "notes": "18 top-left faint pencil/ink, 108 bottom-right pencil"
+  },
+  "lines": [
+    "На которомъ что ся дѣлало, сут",
+    "о томъ исторіе, такъ нашъ прав-",
+    "дивые, яко и противниковъ фал-",
+    "шивые.",
+    "Львів, 1605-1606, Перест. 34"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Перест. 34"
+  },
+  "notes": ""
+}

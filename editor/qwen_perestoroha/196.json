@@ -1,0 +1,19 @@
+{
+  "filename": "196.jpeg",
+  "card_numbers": {
+    "primary": null,
+    "secondary": null,
+    "tertiary": null,
+    "notes": "Latin characters 'h9Y' visible in top-left (rotated image)"
+  },
+  "lines": [
+    "U maxe ymbλuatδ δєлδє сморєнє",
+    "emo. Nedil, 1605 - 1606, Teqeen. 39"
+  ],
+  "source": {
+    "city": "Львів",
+    "date": "1605-1606",
+    "reference": "Nedil, 1605-1606, Teqeen. 39"
+  },
+  "notes": "Image is rotated. Text appears to be in early 17th-century Ukrainian orthography. First line contains archaic characters: λ (lambda) and δ (delta) which may be abbreviations or ligatures. Second line identifies the source with date range 1605-1606 and a reference number. Transcription is challenging due to rotated image and archaic handwriting style."
+}
