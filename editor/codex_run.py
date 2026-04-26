@@ -74,13 +74,18 @@ def looks_like_valid_output(p: Path) -> bool:
 
 
 def run_codex_once(image: Path, output: Path, *, prompt_body: str,
-                   model: str, timeout_s: int) -> subprocess.CompletedProcess:
+                   model: str, timeout_s: int,
+                   effort: str | None = None) -> subprocess.CompletedProcess:
     cmd = [
         "codex", "exec",
         "--skip-git-repo-check",
         "--full-auto",
         "--json",
         "-m", model,
+    ]
+    if effort:
+        cmd += ["-c", f"model_reasoning_effort={effort}"]
+    cmd += [
         "-i", str(image),
         "--output-schema", str(SCHEMA_PATH),
         "-o", str(output),
@@ -96,7 +101,8 @@ def run_codex_once(image: Path, output: Path, *, prompt_body: str,
 
 
 def process_card(card_key: str, *, source_folder: str, prompt_body: str,
-                 run_id: str, model: str, timeout_s: int, force: bool) -> dict:
+                 run_id: str, model: str, timeout_s: int, force: bool,
+                 effort: str | None = None) -> dict:
     folder, filename = card_key.split("/", 1)
     original_image = REPO / "output" / source_folder / filename
     run_dir = REPO / "output" / source_folder / "runs" / run_id
@@ -127,6 +133,7 @@ def process_card(card_key: str, *, source_folder: str, prompt_body: str,
         r = run_codex_once(
             original_image, output_json,
             prompt_body=prompt_body, model=model, timeout_s=timeout_s,
+            effort=effort,
         )
         record["attempt"] = {
             "returncode": r.returncode,
@@ -153,6 +160,10 @@ def main():
     ap.add_argument("--source-folder", default="Auto-Color0002_oriented")
     ap.add_argument("--model", default="gpt-5.5",
                     help="OpenAI model id (gpt-5.5, gpt-5.4, ...)")
+    ap.add_argument("--effort", default=None,
+                    help="Reasoning effort: none|minimal|low|medium|high|xhigh "
+                         "(maps to -c model_reasoning_effort=...). "
+                         "Note: gpt-5.5 ignores this on OCR; use gpt-5.4 for xhigh to take effect.")
     ap.add_argument("--timeout", type=int, default=180)
     ap.add_argument("--max-parallel", type=int, default=1,
                     help="Concurrent codex processes; default 1 (strictly sequential)")
@@ -198,6 +209,7 @@ def main():
             model=args.model,
             timeout_s=args.timeout,
             force=args.force,
+            effort=args.effort,
         )
 
     try:
@@ -234,6 +246,7 @@ def main():
         "elapsed_s": elapsed,
         "model": args.model,
         "cli": "codex",
+        "reasoning_effort": args.effort,
         "max_parallel": args.max_parallel,
         "status_counts": counts,
         "records": records,
