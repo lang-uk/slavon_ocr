@@ -1,0 +1,197 @@
+{
+  "run_id": "opus47_max_test30",
+  "prompt": "perestoroha_ocr_preset",
+  "source_folder": "Auto-Color0002_oriented",
+  "sample_path": "editor/samples/test_split.json",
+  "n_cards": 30,
+  "model": "claude-opus-4-7",
+  "cli": "in-cc-agent",
+  "reasoning_effort": "max",
+  "max_parallel": 1,
+  "status_counts": {
+    "ok": 30
+  },
+  "records": [
+    {
+      "key": "Auto-Color0002/011.jpeg",
+      "filename": "011.jpeg",
+      "final_status": "ok",
+      "output_path": "output/Auto-Color0002_oriented/runs/opus47_max_test30/011.json"
+    },
+    {
+      "key": "Auto-Color0002/019.jpeg",
+      "filename": "019.jpeg",
+      "final_status": "ok",
+      "output_path": "output/Auto-Color0002_oriented/runs/opus47_max_test30/019.json"
+    },
+    {
+      "key": "Auto-Color0002/026.jpeg",
+      "filename": "026.jpeg",
+      "final_status": "ok",
+      "output_path": "output/Auto-Color0002_oriented/runs/opus47_max_test30/026.json"
+    },
+    {
+      "key": "Auto-Color0002/027.jpeg",
+      "filename": "027.jpeg",
+      "final_status": "ok",
+      "output_path": "output/Auto-Color0002_oriented/runs/opus47_max_test30/027.json"
+    },
+    {
+      "key": "Auto-Color0002/039.jpeg",
+      "filename": "039.jpeg",
+      "final_status": "ok",
+      "output_path": "output/Auto-Color0002_oriented/runs/opus47_max_test30/039.json"
+    },
+    {
+      "key": "Auto-Color0002/041.jpeg",
+      "filename": "041.jpeg",
+      "final_status": "ok",
+      "output_path": "output/Auto-Color0002_oriented/runs/opus47_max_test30/041.json"
+    },
+    {
+      "key": "Auto-Color0002/045.jpeg",
+      "filename": "045.jpeg",
+      "final_status": "ok",
+      "output_path": "output/Auto-Color0002_oriented/runs/opus47_max_test30/045.json"
+    },
+    {
+      "key": "Auto-Color0002/067.jpeg",
+      "filename": "067.jpeg",
+      "final_status": "ok",
+      "output_path": "output/Auto-Color0002_oriented/runs/opus47_max_test30/067.json"
+    },
+    {
+      "key": "Auto-Color0002/079.jpeg",
+      "filename": "079.jpeg",
+      "final_status": "ok",
+      "output_path": "output/Auto-Color0002_oriented/runs/opus47_max_test30/079.json"
+    },
+    {
+      "key": "Auto-Color0002/081.jpeg",
+      "filename": "081.jpeg",
+      "final_status": "ok",
+      "output_path": "output/Auto-Color0002_oriented/runs/opus47_max_test30/081.json"
+    },
+    {
+      "key": "Auto-Color0002/087.jpeg",
+      "filename": "087.jpeg",
+      "final_status": "ok",
+      "output_path": "output/Auto-Color0002_oriented/runs/opus47_max_test30/087.json"
+    },
+    {
+      "key": "Auto-Color0002/095.jpeg",
+      "filename": "095.jpeg",
+      "final_status": "ok",
+      "output_path": "output/Auto-Color0002_oriented/runs/opus47_max_test30/095.json"
+    },
+    {
+      "key": "Auto-Color0002/097.jpeg",
+      "filename": "097.jpeg",
+      "final_status": "ok",
+      "output_path": "output/Auto-Color0002_oriented/runs/opus47_max_test30/097.json"
+    },
+    {
+      "key": "Auto-Color0002/099.jpeg",
+      "filename": "099.jpeg",
+      "final_status": "ok",
+      "output_path": "output/Auto-Color0002_oriented/runs/opus47_max_test30/099.json"
+    },
+    {
+      "key": "Auto-Color0002/101.jpeg",
+      "filename": "101.jpeg",
+      "final_status": "ok",
+      "output_path": "output/Auto-Color0002_oriented/runs/opus47_max_test30/101.json"
+    },
+    {
+      "key": "Auto-Color0002/104.jpeg",
+      "filename": "104.jpeg",
+      "final_status": "ok",
+      "output_path": "output/Auto-Color0002_oriented/runs/opus47_max_test30/104.json"
+    },
+    {
+      "key": "Auto-Color0002/112.jpeg",
+      "filename": "112.jpeg",
+      "final_status": "ok",
+      "output_path": "output/Auto-Color0002_oriented/runs/opus47_max_test30/112.json"
+    },
+    {
+      "key": "Auto-Color0002/113.jpeg",
+      "filename": "113.jpeg",
+      "final_status": "ok",
+      "output_path": "output/Auto-Color0002_oriented/runs/opus47_max_test30/113.json"
+    },
+    {
+      "key": "Auto-Color0002/121.jpeg",
+      "filename": "121.jpeg",
+      "final_status": "ok",
+      "output_path": "output/Auto-Color0002_oriented/runs/opus47_max_test30/121.json"
+    },
+    {
+      "key": "Auto-Color0002/126.jpeg",
+      "filename": "126.jpeg",
+      "final_status": "ok",
+      "output_path": "output/Auto-Color0002_oriented/runs/opus47_max_test30/126.json"
+    },
+    {
+      "key": "Auto-Color0002/130.jpeg",
+      "filename": "130.jpeg",
+      "final_status": "ok",
+      "output_path": "output/Auto-Color0002_oriented/runs/opus47_max_test30/130.json"
+    },
+    {
+      "key": "Auto-Color0002/140.jpeg",
+      "filename": "140.jpeg",
+      "final_status": "ok",
+      "output_path": "output/Auto-Color0002_oriented/runs/opus47_max_test30/140.json"
+    },
+    {
+      "key": "Auto-Color0002/145.jpeg",
+      "filename": "145.jpeg",
+      "final_status": "ok",
+      "output_path": "output/Auto-Color0002_oriented/runs/opus47_max_test30/145.json"
+    },
+    {
+      "key": "Auto-Color0002/149.jpeg",
+      "filename": "149.jpeg",
+      "final_status": "ok",
+      "output_path": "output/Auto-Color0002_oriented/runs/opus47_max_test30/149.json"
+    },
+    {
+      "key": "Auto-Color0002/153.jpeg",
+      "filename": "153.jpeg",
+      "final_status": "ok",
+      "output_path": "output/Auto-Color0002_oriented/runs/opus47_max_test30/153.json"
+    },
+    {
+      "key": "Auto-Color0002/158.jpeg",
+      "filename": "158.jpeg",
+      "final_status": "ok",
+      "output_path": "output/Auto-Color0002_oriented/runs/opus47_max_test30/158.json"
+    },
+    {
+      "key": "Auto-Color0002/159.jpeg",
+      "filename": "159.jpeg",
+      "final_status": "ok",
+      "output_path": "output/Auto-Color0002_oriented/runs/opus47_max_test30/159.json"
+    },
+    {
+      "key": "Auto-Color0002/161.jpeg",
+      "filename": "161.jpeg",
+      "final_status": "ok",
+      "output_path": "output/Auto-Color0002_oriented/runs/opus47_max_test30/161.json"
+    },
+    {
+      "key": "Auto-Color0002/169.jpeg",
+      "filename": "169.jpeg",
+      "final_status": "ok",
+      "output_path": "output/Auto-Color0002_oriented/runs/opus47_max_test30/169.json"
+    },
+    {
+      "key": "Auto-Color0002/171.jpeg",
+      "filename": "171.jpeg",
+      "final_status": "ok",
+      "output_path": "output/Auto-Color0002_oriented/runs/opus47_max_test30/171.json"
+    }
+  ],
+  "finalized_at": 1777470402
+}

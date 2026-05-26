@@ -1,0 +1,617 @@
+{
+  "seed": 0,
+  "size": 122,
+  "from": "splits.json:dev",
+  "cards": [
+    {
+      "key": "Auto-Color0002/001.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "001.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/002.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "002.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/003.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "003.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/004.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "004.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/005.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "005.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/006.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "006.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/007.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "007.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/008.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "008.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/009.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "009.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/010.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "010.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/012.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "012.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/013.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "013.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/014.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "014.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/015.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "015.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/016.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "016.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/017.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "017.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/018.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "018.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/020.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "020.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/022.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "022.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/023.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "023.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/024.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "024.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/025.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "025.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/029.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "029.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/030.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "030.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/031.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "031.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/032.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "032.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/033.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "033.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/034.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "034.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/035.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "035.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/036.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "036.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/037.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "037.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/040.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "040.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/043.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "043.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/044.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "044.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/046.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "046.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/047.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "047.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/049.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "049.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/051.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "051.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/052.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "052.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/053.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "053.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/055.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "055.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/056.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "056.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/057.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "057.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/058.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "058.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/060.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "060.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/062.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "062.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/064.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "064.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/065.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "065.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/069.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "069.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/070.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "070.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/071.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "071.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/073.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "073.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/074.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "074.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/075.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "075.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/076.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "076.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/077.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "077.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/080.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "080.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/082.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "082.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/083.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "083.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/084.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "084.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/085.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "085.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/086.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "086.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/088.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "088.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/089.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "089.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/091.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "091.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/093.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "093.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/100.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "100.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/102.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "102.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/103.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "103.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/106.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "106.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/107.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "107.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/109.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "109.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/110.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "110.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/111.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "111.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/114.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "114.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/116.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "116.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/117.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "117.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/118.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "118.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/119.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "119.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/120.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "120.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/122.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "122.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/123.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "123.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/124.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "124.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/125.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "125.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/127.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "127.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/128.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "128.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/129.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "129.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/131.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "131.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/132.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "132.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/133.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "133.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/134.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "134.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/135.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "135.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/136.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "136.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/138.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "138.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/139.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "139.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/142.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "142.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/143.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "143.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/144.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "144.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/147.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "147.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/151.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "151.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/154.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "154.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/155.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "155.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/156.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "156.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/157.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "157.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/160.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "160.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/162.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "162.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/163.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "163.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/164.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "164.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/165.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "165.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/166.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "166.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/168.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "168.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/170.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "170.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/172.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "172.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/173.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "173.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/174.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "174.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/175.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "175.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/176.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "176.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/177.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "177.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/178.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "178.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/179.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "179.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/180.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "180.jpeg"
+    },
+    {
+      "key": "Auto-Color0002/181.jpeg",
+      "folder": "Auto-Color0002",
+      "filename": "181.jpeg"
+    }
+  ]
+}

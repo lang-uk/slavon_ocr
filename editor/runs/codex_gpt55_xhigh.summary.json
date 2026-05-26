@@ -1,0 +1,171 @@
+{
+  "run_id": "codex_gpt55_xhigh",
+  "prompt": "perestoroha_ocr_preset",
+  "source_folder": "Auto-Color0002_oriented",
+  "n_cards": 1,
+  "n_scored": 1,
+  "n_failed_to_produce_output": 0,
+  "total_ref_chars": 242,
+  "total_errors": 26,
+  "micro_cer_flat": 0.10743801652892562,
+  "per_card": [
+    {
+      "key": "Auto-Color0002/011.jpeg",
+      "cer_flat": 0.10743801652892562,
+      "errors": 26,
+      "ref_chars": 242,
+      "status": "scored"
+    }
+  ],
+  "top_substitutions": [
+    {
+      "ref": "є",
+      "hyp": "е",
+      "count": 4,
+      "ref_cp": "U+0454",
+      "hyp_cp": "U+0435"
+    },
+    {
+      "ref": "ь",
+      "hyp": "ы",
+      "count": 1,
+      "ref_cp": "U+044C",
+      "hyp_cp": "U+044B"
+    },
+    {
+      "ref": "л",
+      "hyp": "ы",
+      "count": 1,
+      "ref_cp": "U+043B",
+      "hyp_cp": "U+044B"
+    },
+    {
+      "ref": "е",
+      "hyp": "с",
+      "count": 1,
+      "ref_cp": "U+0435",
+      "hyp_cp": "U+0441"
+    },
+    {
+      "ref": "щ",
+      "hyp": "б",
+      "count": 1,
+      "ref_cp": "U+0449",
+      "hyp_cp": "U+0431"
+    },
+    {
+      "ref": "е",
+      "hyp": "ш",
+      "count": 1,
+      "ref_cp": "U+0435",
+      "hyp_cp": "U+0448"
+    },
+    {
+      "ref": "о",
+      "hyp": "а",
+      "count": 1,
+      "ref_cp": "U+043E",
+      "hyp_cp": "U+0430"
+    },
+    {
+      "ref": "м",
+      "hyp": "ш",
+      "count": 1,
+      "ref_cp": "U+043C",
+      "hyp_cp": "U+0448"
+    },
+    {
+      "ref": "а",
+      "hyp": "и",
+      "count": 1,
+      "ref_cp": "U+0430",
+      "hyp_cp": "U+0438"
+    },
+    {
+      "ref": "с",
+      "hyp": "л",
+      "count": 1,
+      "ref_cp": "U+0441",
+      "hyp_cp": "U+043B"
+    },
+    {
+      "ref": "ы",
+      "hyp": "и",
+      "count": 1,
+      "ref_cp": "U+044B",
+      "hyp_cp": "U+0438"
+    },
+    {
+      "ref": "ч",
+      "hyp": "г",
+      "count": 1,
+      "ref_cp": "U+0447",
+      "hyp_cp": "U+0433"
+    },
+    {
+      "ref": "‹",
+      "hyp": " ",
+      "count": 1,
+      "ref_cp": "U+2039",
+      "hyp_cp": "U+0020"
+    },
+    {
+      "ref": "ѣ",
+      "hyp": "у",
+      "count": 1,
+      "ref_cp": "U+0463",
+      "hyp_cp": "U+0443"
+    },
+    {
+      "ref": "л",
+      "hyp": "м",
+      "count": 1,
+      "ref_cp": "U+043B",
+      "hyp_cp": "U+043C"
+    },
+    {
+      "ref": "и",
+      "hyp": "ѣ",
+      "count": 1,
+      "ref_cp": "U+0438",
+      "hyp_cp": "U+0463"
+    },
+    {
+      "ref": "›",
+      "hyp": ">",
+      "count": 1,
+      "ref_cp": "U+203A",
+      "hyp_cp": "U+003E"
+    }
+  ],
+  "top_insertions": [
+    {
+      "char": "с",
+      "count": 2,
+      "cp": "U+0441"
+    },
+    {
+      "char": "<",
+      "count": 1,
+      "cp": "U+003C"
+    },
+    {
+      "char": " ",
+      "count": 1,
+      "cp": "U+0020"
+    }
+  ],
+  "top_deletions": [
+    {
+      "char": "е",
+      "count": 1,
+      "cp": "U+0435"
+    },
+    {
+      "char": "д",
+      "count": 1,
+      "cp": "U+0434"
+    }
+  ],
+  "failures": []
+}

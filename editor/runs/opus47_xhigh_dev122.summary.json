@@ -1,0 +1,1613 @@
+{
+  "run_id": "opus47_xhigh_dev122",
+  "prompt": "perestoroha_ocr_preset",
+  "source_folder": "Auto-Color0002_oriented",
+  "n_cards": 122,
+  "n_scored": 122,
+  "n_failed_to_produce_output": 0,
+  "total_ref_chars": 17680,
+  "total_errors": 428,
+  "total_ref_words": 2900,
+  "total_word_errors": 341,
+  "micro_cer_flat": 0.02420814479638009,
+  "micro_wer_flat": 0.11758620689655172,
+  "per_card": [
+    {
+      "key": "Auto-Color0002/084.jpeg",
+      "cer_flat": 0.18181818181818182,
+      "wer_flat": 0.25,
+      "errors": 4,
+      "ref_chars": 22,
+      "word_errors": 1,
+      "ref_words": 4,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/124.jpeg",
+      "cer_flat": 0.07586206896551724,
+      "wer_flat": 0.07407407407407407,
+      "errors": 11,
+      "ref_chars": 145,
+      "word_errors": 2,
+      "ref_words": 27,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/118.jpeg",
+      "cer_flat": 0.07142857142857142,
+      "wer_flat": 0.2,
+      "errors": 2,
+      "ref_chars": 28,
+      "word_errors": 1,
+      "ref_words": 5,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/089.jpeg",
+      "cer_flat": 0.06666666666666667,
+      "wer_flat": 0.3333333333333333,
+      "errors": 2,
+      "ref_chars": 30,
+      "word_errors": 2,
+      "ref_words": 6,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/077.jpeg",
+      "cer_flat": 0.06382978723404255,
+      "wer_flat": 0.38461538461538464,
+      "errors": 9,
+      "ref_chars": 141,
+      "word_errors": 10,
+      "ref_words": 26,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/003.jpeg",
+      "cer_flat": 0.061855670103092786,
+      "wer_flat": 0.35714285714285715,
+      "errors": 6,
+      "ref_chars": 97,
+      "word_errors": 5,
+      "ref_words": 14,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/138.jpeg",
+      "cer_flat": 0.06,
+      "wer_flat": 0.2857142857142857,
+      "errors": 3,
+      "ref_chars": 50,
+      "word_errors": 2,
+      "ref_words": 7,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/034.jpeg",
+      "cer_flat": 0.059880239520958084,
+      "wer_flat": 0.2,
+      "errors": 10,
+      "ref_chars": 167,
+      "word_errors": 5,
+      "ref_words": 25,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/008.jpeg",
+      "cer_flat": 0.056074766355140186,
+      "wer_flat": 0.06666666666666667,
+      "errors": 6,
+      "ref_chars": 107,
+      "word_errors": 1,
+      "ref_words": 15,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/012.jpeg",
+      "cer_flat": 0.05583756345177665,
+      "wer_flat": 0.23333333333333334,
+      "errors": 11,
+      "ref_chars": 197,
+      "word_errors": 7,
+      "ref_words": 30,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/065.jpeg",
+      "cer_flat": 0.05555555555555555,
+      "wer_flat": 0.2,
+      "errors": 6,
+      "ref_chars": 108,
+      "word_errors": 3,
+      "ref_words": 15,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/114.jpeg",
+      "cer_flat": 0.05309734513274336,
+      "wer_flat": 0.3157894736842105,
+      "errors": 6,
+      "ref_chars": 113,
+      "word_errors": 6,
+      "ref_words": 19,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/133.jpeg",
+      "cer_flat": 0.05303030303030303,
+      "wer_flat": 0.19047619047619047,
+      "errors": 7,
+      "ref_chars": 132,
+      "word_errors": 4,
+      "ref_words": 21,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/174.jpeg",
+      "cer_flat": 0.05,
+      "wer_flat": 0.24,
+      "errors": 7,
+      "ref_chars": 140,
+      "word_errors": 6,
+      "ref_words": 25,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/155.jpeg",
+      "cer_flat": 0.047619047619047616,
+      "wer_flat": 0.3,
+      "errors": 3,
+      "ref_chars": 63,
+      "word_errors": 3,
+      "ref_words": 10,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/165.jpeg",
+      "cer_flat": 0.047244094488188976,
+      "wer_flat": 0.17391304347826086,
+      "errors": 6,
+      "ref_chars": 127,
+      "word_errors": 4,
+      "ref_words": 23,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/154.jpeg",
+      "cer_flat": 0.0449438202247191,
+      "wer_flat": 0.14285714285714285,
+      "errors": 4,
+      "ref_chars": 89,
+      "word_errors": 2,
+      "ref_words": 14,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/056.jpeg",
+      "cer_flat": 0.04090909090909091,
+      "wer_flat": 0.2571428571428571,
+      "errors": 9,
+      "ref_chars": 220,
+      "word_errors": 9,
+      "ref_words": 35,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/074.jpeg",
+      "cer_flat": 0.04054054054054054,
+      "wer_flat": 0.2727272727272727,
+      "errors": 3,
+      "ref_chars": 74,
+      "word_errors": 3,
+      "ref_words": 11,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/031.jpeg",
+      "cer_flat": 0.040268456375838924,
+      "wer_flat": 0.2,
+      "errors": 6,
+      "ref_chars": 149,
+      "word_errors": 5,
+      "ref_words": 25,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/047.jpeg",
+      "cer_flat": 0.04017857142857143,
+      "wer_flat": 0.15151515151515152,
+      "errors": 9,
+      "ref_chars": 224,
+      "word_errors": 5,
+      "ref_words": 33,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/017.jpeg",
+      "cer_flat": 0.04,
+      "wer_flat": 0.25,
+      "errors": 6,
+      "ref_chars": 150,
+      "word_errors": 6,
+      "ref_words": 24,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/172.jpeg",
+      "cer_flat": 0.03896103896103896,
+      "wer_flat": 0.24,
+      "errors": 6,
+      "ref_chars": 154,
+      "word_errors": 6,
+      "ref_words": 25,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/001.jpeg",
+      "cer_flat": 0.038869257950530034,
+      "wer_flat": 0.2777777777777778,
+      "errors": 11,
+      "ref_chars": 283,
+      "word_errors": 10,
+      "ref_words": 36,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/049.jpeg",
+      "cer_flat": 0.037037037037037035,
+      "wer_flat": 0.14285714285714285,
+      "errors": 5,
+      "ref_chars": 135,
+      "word_errors": 3,
+      "ref_words": 21,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/046.jpeg",
+      "cer_flat": 0.03553299492385787,
+      "wer_flat": 0.18518518518518517,
+      "errors": 7,
+      "ref_chars": 197,
+      "word_errors": 5,
+      "ref_words": 27,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/123.jpeg",
+      "cer_flat": 0.035398230088495575,
+      "wer_flat": 0.2,
+      "errors": 4,
+      "ref_chars": 113,
+      "word_errors": 4,
+      "ref_words": 20,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/129.jpeg",
+      "cer_flat": 0.034782608695652174,
+      "wer_flat": 0.10526315789473684,
+      "errors": 4,
+      "ref_chars": 115,
+      "word_errors": 2,
+      "ref_words": 19,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/037.jpeg",
+      "cer_flat": 0.034482758620689655,
+      "wer_flat": 0.2222222222222222,
+      "errors": 2,
+      "ref_chars": 58,
+      "word_errors": 2,
+      "ref_words": 9,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/052.jpeg",
+      "cer_flat": 0.03296703296703297,
+      "wer_flat": 0.16666666666666666,
+      "errors": 3,
+      "ref_chars": 91,
+      "word_errors": 2,
+      "ref_words": 12,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/032.jpeg",
+      "cer_flat": 0.03278688524590164,
+      "wer_flat": 0.2,
+      "errors": 4,
+      "ref_chars": 122,
+      "word_errors": 4,
+      "ref_words": 20,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/168.jpeg",
+      "cer_flat": 0.03225806451612903,
+      "wer_flat": 0.14814814814814814,
+      "errors": 5,
+      "ref_chars": 155,
+      "word_errors": 4,
+      "ref_words": 27,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/180.jpeg",
+      "cer_flat": 0.03225806451612903,
+      "wer_flat": 0.16666666666666666,
+      "errors": 8,
+      "ref_chars": 248,
+      "word_errors": 8,
+      "ref_words": 48,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/100.jpeg",
+      "cer_flat": 0.03208556149732621,
+      "wer_flat": 0.19230769230769232,
+      "errors": 6,
+      "ref_chars": 187,
+      "word_errors": 5,
+      "ref_words": 26,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/103.jpeg",
+      "cer_flat": 0.03205128205128205,
+      "wer_flat": 0.15384615384615385,
+      "errors": 5,
+      "ref_chars": 156,
+      "word_errors": 4,
+      "ref_words": 26,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/175.jpeg",
+      "cer_flat": 0.032,
+      "wer_flat": 0.2222222222222222,
+      "errors": 4,
+      "ref_chars": 125,
+      "word_errors": 4,
+      "ref_words": 18,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/023.jpeg",
+      "cer_flat": 0.031746031746031744,
+      "wer_flat": 0.15789473684210525,
+      "errors": 8,
+      "ref_chars": 252,
+      "word_errors": 6,
+      "ref_words": 38,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/131.jpeg",
+      "cer_flat": 0.030927835051546393,
+      "wer_flat": 0.1111111111111111,
+      "errors": 3,
+      "ref_chars": 97,
+      "word_errors": 2,
+      "ref_words": 18,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/082.jpeg",
+      "cer_flat": 0.03067484662576687,
+      "wer_flat": 0.16129032258064516,
+      "errors": 5,
+      "ref_chars": 163,
+      "word_errors": 5,
+      "ref_words": 31,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/022.jpeg",
+      "cer_flat": 0.03018867924528302,
+      "wer_flat": 0.14634146341463414,
+      "errors": 8,
+      "ref_chars": 265,
+      "word_errors": 6,
+      "ref_words": 41,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/062.jpeg",
+      "cer_flat": 0.028985507246376812,
+      "wer_flat": 0.08333333333333333,
+      "errors": 2,
+      "ref_chars": 69,
+      "word_errors": 1,
+      "ref_words": 12,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/064.jpeg",
+      "cer_flat": 0.028688524590163935,
+      "wer_flat": 0.12195121951219512,
+      "errors": 7,
+      "ref_chars": 244,
+      "word_errors": 5,
+      "ref_words": 41,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/179.jpeg",
+      "cer_flat": 0.028662420382165606,
+      "wer_flat": 0.10416666666666667,
+      "errors": 9,
+      "ref_chars": 314,
+      "word_errors": 5,
+      "ref_words": 48,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/055.jpeg",
+      "cer_flat": 0.028455284552845527,
+      "wer_flat": 0.2,
+      "errors": 7,
+      "ref_chars": 246,
+      "word_errors": 7,
+      "ref_words": 35,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/036.jpeg",
+      "cer_flat": 0.0273224043715847,
+      "wer_flat": 0.1724137931034483,
+      "errors": 5,
+      "ref_chars": 183,
+      "word_errors": 5,
+      "ref_words": 29,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/111.jpeg",
+      "cer_flat": 0.026923076923076925,
+      "wer_flat": 0.13043478260869565,
+      "errors": 7,
+      "ref_chars": 260,
+      "word_errors": 6,
+      "ref_words": 46,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/051.jpeg",
+      "cer_flat": 0.02654867256637168,
+      "wer_flat": 0.17647058823529413,
+      "errors": 3,
+      "ref_chars": 113,
+      "word_errors": 3,
+      "ref_words": 17,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/135.jpeg",
+      "cer_flat": 0.02564102564102564,
+      "wer_flat": 0.14285714285714285,
+      "errors": 1,
+      "ref_chars": 39,
+      "word_errors": 1,
+      "ref_words": 7,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/139.jpeg",
+      "cer_flat": 0.02531645569620253,
+      "wer_flat": 0.14285714285714285,
+      "errors": 2,
+      "ref_chars": 79,
+      "word_errors": 2,
+      "ref_words": 14,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/162.jpeg",
+      "cer_flat": 0.025210084033613446,
+      "wer_flat": 0.14285714285714285,
+      "errors": 3,
+      "ref_chars": 119,
+      "word_errors": 3,
+      "ref_words": 21,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/178.jpeg",
+      "cer_flat": 0.024691358024691357,
+      "wer_flat": 0.11764705882352941,
+      "errors": 4,
+      "ref_chars": 162,
+      "word_errors": 4,
+      "ref_words": 34,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/076.jpeg",
+      "cer_flat": 0.024390243902439025,
+      "wer_flat": 0.15,
+      "errors": 6,
+      "ref_chars": 246,
+      "word_errors": 6,
+      "ref_words": 40,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/070.jpeg",
+      "cer_flat": 0.024193548387096774,
+      "wer_flat": 0.15384615384615385,
+      "errors": 6,
+      "ref_chars": 248,
+      "word_errors": 6,
+      "ref_words": 39,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/073.jpeg",
+      "cer_flat": 0.024,
+      "wer_flat": 0.13043478260869565,
+      "errors": 3,
+      "ref_chars": 125,
+      "word_errors": 3,
+      "ref_words": 23,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/128.jpeg",
+      "cer_flat": 0.023255813953488372,
+      "wer_flat": 0.1388888888888889,
+      "errors": 5,
+      "ref_chars": 215,
+      "word_errors": 5,
+      "ref_words": 36,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/116.jpeg",
+      "cer_flat": 0.022900763358778626,
+      "wer_flat": 0.09523809523809523,
+      "errors": 3,
+      "ref_chars": 131,
+      "word_errors": 2,
+      "ref_words": 21,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/035.jpeg",
+      "cer_flat": 0.022727272727272728,
+      "wer_flat": 0.10256410256410256,
+      "errors": 5,
+      "ref_chars": 220,
+      "word_errors": 4,
+      "ref_words": 39,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/107.jpeg",
+      "cer_flat": 0.022222222222222223,
+      "wer_flat": 0.14285714285714285,
+      "errors": 1,
+      "ref_chars": 45,
+      "word_errors": 1,
+      "ref_words": 7,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/013.jpeg",
+      "cer_flat": 0.02197802197802198,
+      "wer_flat": 0.14285714285714285,
+      "errors": 4,
+      "ref_chars": 182,
+      "word_errors": 4,
+      "ref_words": 28,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/086.jpeg",
+      "cer_flat": 0.021897810218978103,
+      "wer_flat": 0.13636363636363635,
+      "errors": 3,
+      "ref_chars": 137,
+      "word_errors": 3,
+      "ref_words": 22,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/033.jpeg",
+      "cer_flat": 0.021551724137931036,
+      "wer_flat": 0.1282051282051282,
+      "errors": 5,
+      "ref_chars": 232,
+      "word_errors": 5,
+      "ref_words": 39,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/069.jpeg",
+      "cer_flat": 0.021052631578947368,
+      "wer_flat": 0.0625,
+      "errors": 2,
+      "ref_chars": 95,
+      "word_errors": 1,
+      "ref_words": 16,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/006.jpeg",
+      "cer_flat": 0.02100840336134454,
+      "wer_flat": 0.07894736842105263,
+      "errors": 5,
+      "ref_chars": 238,
+      "word_errors": 3,
+      "ref_words": 38,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/151.jpeg",
+      "cer_flat": 0.020761245674740483,
+      "wer_flat": 0.10416666666666667,
+      "errors": 6,
+      "ref_chars": 289,
+      "word_errors": 5,
+      "ref_words": 48,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/163.jpeg",
+      "cer_flat": 0.0205761316872428,
+      "wer_flat": 0.11904761904761904,
+      "errors": 5,
+      "ref_chars": 243,
+      "word_errors": 5,
+      "ref_words": 42,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/085.jpeg",
+      "cer_flat": 0.02,
+      "wer_flat": 0.1111111111111111,
+      "errors": 1,
+      "ref_chars": 50,
+      "word_errors": 1,
+      "ref_words": 9,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/173.jpeg",
+      "cer_flat": 0.0196078431372549,
+      "wer_flat": 0.11764705882352941,
+      "errors": 2,
+      "ref_chars": 102,
+      "word_errors": 2,
+      "ref_words": 17,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/127.jpeg",
+      "cer_flat": 0.01834862385321101,
+      "wer_flat": 0.125,
+      "errors": 2,
+      "ref_chars": 109,
+      "word_errors": 2,
+      "ref_words": 16,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/160.jpeg",
+      "cer_flat": 0.0182648401826484,
+      "wer_flat": 0.08333333333333333,
+      "errors": 4,
+      "ref_chars": 219,
+      "word_errors": 3,
+      "ref_words": 36,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/014.jpeg",
+      "cer_flat": 0.018018018018018018,
+      "wer_flat": 0.1111111111111111,
+      "errors": 2,
+      "ref_chars": 111,
+      "word_errors": 2,
+      "ref_words": 18,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/093.jpeg",
+      "cer_flat": 0.017045454545454544,
+      "wer_flat": 0.07142857142857142,
+      "errors": 3,
+      "ref_chars": 176,
+      "word_errors": 2,
+      "ref_words": 28,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/010.jpeg",
+      "cer_flat": 0.016778523489932886,
+      "wer_flat": 0.045454545454545456,
+      "errors": 5,
+      "ref_chars": 298,
+      "word_errors": 2,
+      "ref_words": 44,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/132.jpeg",
+      "cer_flat": 0.01652892561983471,
+      "wer_flat": 0.09523809523809523,
+      "errors": 4,
+      "ref_chars": 242,
+      "word_errors": 4,
+      "ref_words": 42,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/176.jpeg",
+      "cer_flat": 0.016483516483516484,
+      "wer_flat": 0.03571428571428571,
+      "errors": 3,
+      "ref_chars": 182,
+      "word_errors": 1,
+      "ref_words": 28,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/109.jpeg",
+      "cer_flat": 0.016304347826086956,
+      "wer_flat": 0.10344827586206896,
+      "errors": 3,
+      "ref_chars": 184,
+      "word_errors": 3,
+      "ref_words": 29,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/044.jpeg",
+      "cer_flat": 0.016260162601626018,
+      "wer_flat": 0.058823529411764705,
+      "errors": 2,
+      "ref_chars": 123,
+      "word_errors": 1,
+      "ref_words": 17,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/110.jpeg",
+      "cer_flat": 0.016,
+      "wer_flat": 0.09523809523809523,
+      "errors": 2,
+      "ref_chars": 125,
+      "word_errors": 2,
+      "ref_words": 21,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/147.jpeg",
+      "cer_flat": 0.016,
+      "wer_flat": 0.08695652173913043,
+      "errors": 2,
+      "ref_chars": 125,
+      "word_errors": 2,
+      "ref_words": 23,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/057.jpeg",
+      "cer_flat": 0.015789473684210527,
+      "wer_flat": 0.029411764705882353,
+      "errors": 3,
+      "ref_chars": 190,
+      "word_errors": 1,
+      "ref_words": 34,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/060.jpeg",
+      "cer_flat": 0.015748031496062992,
+      "wer_flat": 0.13043478260869565,
+      "errors": 2,
+      "ref_chars": 127,
+      "word_errors": 3,
+      "ref_words": 23,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/025.jpeg",
+      "cer_flat": 0.015625,
+      "wer_flat": 0.1,
+      "errors": 4,
+      "ref_chars": 256,
+      "word_errors": 4,
+      "ref_words": 40,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/002.jpeg",
+      "cer_flat": 0.015151515151515152,
+      "wer_flat": 0.0975609756097561,
+      "errors": 4,
+      "ref_chars": 264,
+      "word_errors": 4,
+      "ref_words": 41,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/009.jpeg",
+      "cer_flat": 0.015037593984962405,
+      "wer_flat": 0.047619047619047616,
+      "errors": 2,
+      "ref_chars": 133,
+      "word_errors": 1,
+      "ref_words": 21,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/005.jpeg",
+      "cer_flat": 0.013636363636363636,
+      "wer_flat": 0.08333333333333333,
+      "errors": 3,
+      "ref_chars": 220,
+      "word_errors": 3,
+      "ref_words": 36,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/040.jpeg",
+      "cer_flat": 0.013333333333333334,
+      "wer_flat": 0.08695652173913043,
+      "errors": 2,
+      "ref_chars": 150,
+      "word_errors": 2,
+      "ref_words": 23,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/134.jpeg",
+      "cer_flat": 0.01293103448275862,
+      "wer_flat": 0.045454545454545456,
+      "errors": 3,
+      "ref_chars": 232,
+      "word_errors": 2,
+      "ref_words": 44,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/071.jpeg",
+      "cer_flat": 0.012295081967213115,
+      "wer_flat": 0.075,
+      "errors": 3,
+      "ref_chars": 244,
+      "word_errors": 3,
+      "ref_words": 40,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/016.jpeg",
+      "cer_flat": 0.011627906976744186,
+      "wer_flat": 0.08333333333333333,
+      "errors": 1,
+      "ref_chars": 86,
+      "word_errors": 1,
+      "ref_words": 12,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/106.jpeg",
+      "cer_flat": 0.011627906976744186,
+      "wer_flat": 0.0625,
+      "errors": 1,
+      "ref_chars": 86,
+      "word_errors": 1,
+      "ref_words": 16,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/058.jpeg",
+      "cer_flat": 0.011235955056179775,
+      "wer_flat": 0.07317073170731707,
+      "errors": 3,
+      "ref_chars": 267,
+      "word_errors": 3,
+      "ref_words": 41,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/136.jpeg",
+      "cer_flat": 0.01092896174863388,
+      "wer_flat": 0.0,
+      "errors": 2,
+      "ref_chars": 183,
+      "word_errors": 0,
+      "ref_words": 31,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/075.jpeg",
+      "cer_flat": 0.010752688172043012,
+      "wer_flat": 0.06666666666666667,
+      "errors": 1,
+      "ref_chars": 93,
+      "word_errors": 1,
+      "ref_words": 15,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/015.jpeg",
+      "cer_flat": 0.010582010582010581,
+      "wer_flat": 0.05555555555555555,
+      "errors": 2,
+      "ref_chars": 189,
+      "word_errors": 2,
+      "ref_words": 36,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/156.jpeg",
+      "cer_flat": 0.010050251256281407,
+      "wer_flat": 0.05555555555555555,
+      "errors": 2,
+      "ref_chars": 199,
+      "word_errors": 2,
+      "ref_words": 36,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/024.jpeg",
+      "cer_flat": 0.009900990099009901,
+      "wer_flat": 0.06666666666666667,
+      "errors": 1,
+      "ref_chars": 101,
+      "word_errors": 1,
+      "ref_words": 15,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/080.jpeg",
+      "cer_flat": 0.00980392156862745,
+      "wer_flat": 0.06666666666666667,
+      "errors": 1,
+      "ref_chars": 102,
+      "word_errors": 1,
+      "ref_words": 15,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/004.jpeg",
+      "cer_flat": 0.00909090909090909,
+      "wer_flat": 0.05128205128205128,
+      "errors": 2,
+      "ref_chars": 220,
+      "word_errors": 2,
+      "ref_words": 39,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/088.jpeg",
+      "cer_flat": 0.008849557522123894,
+      "wer_flat": 0.05263157894736842,
+      "errors": 1,
+      "ref_chars": 113,
+      "word_errors": 1,
+      "ref_words": 19,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/143.jpeg",
+      "cer_flat": 0.008849557522123894,
+      "wer_flat": 0.05555555555555555,
+      "errors": 1,
+      "ref_chars": 113,
+      "word_errors": 1,
+      "ref_words": 18,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/091.jpeg",
+      "cer_flat": 0.00851063829787234,
+      "wer_flat": 0.05128205128205128,
+      "errors": 2,
+      "ref_chars": 235,
+      "word_errors": 2,
+      "ref_words": 39,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/117.jpeg",
+      "cer_flat": 0.008403361344537815,
+      "wer_flat": 0.047619047619047616,
+      "errors": 1,
+      "ref_chars": 119,
+      "word_errors": 1,
+      "ref_words": 21,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/164.jpeg",
+      "cer_flat": 0.006944444444444444,
+      "wer_flat": 0.037037037037037035,
+      "errors": 1,
+      "ref_chars": 144,
+      "word_errors": 1,
+      "ref_words": 27,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/020.jpeg",
+      "cer_flat": 0.0056179775280898875,
+      "wer_flat": 0.03225806451612903,
+      "errors": 1,
+      "ref_chars": 178,
+      "word_errors": 1,
+      "ref_words": 31,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/018.jpeg",
+      "cer_flat": 0.0045662100456621,
+      "wer_flat": 0.02631578947368421,
+      "errors": 1,
+      "ref_chars": 219,
+      "word_errors": 1,
+      "ref_words": 38,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/007.jpeg",
+      "cer_flat": 0.0,
+      "wer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 81,
+      "word_errors": 0,
+      "ref_words": 13,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/029.jpeg",
+      "cer_flat": 0.0,
+      "wer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 58,
+      "word_errors": 0,
+      "ref_words": 8,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/030.jpeg",
+      "cer_flat": 0.0,
+      "wer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 99,
+      "word_errors": 0,
+      "ref_words": 18,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/043.jpeg",
+      "cer_flat": 0.0,
+      "wer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 59,
+      "word_errors": 0,
+      "ref_words": 9,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/053.jpeg",
+      "cer_flat": 0.0,
+      "wer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 46,
+      "word_errors": 0,
+      "ref_words": 8,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/083.jpeg",
+      "cer_flat": 0.0,
+      "wer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 70,
+      "word_errors": 0,
+      "ref_words": 11,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/102.jpeg",
+      "cer_flat": 0.0,
+      "wer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 102,
+      "word_errors": 0,
+      "ref_words": 17,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/119.jpeg",
+      "cer_flat": 0.0,
+      "wer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 30,
+      "word_errors": 0,
+      "ref_words": 6,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/120.jpeg",
+      "cer_flat": 0.0,
+      "wer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 78,
+      "word_errors": 0,
+      "ref_words": 15,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/122.jpeg",
+      "cer_flat": 0.0,
+      "wer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 35,
+      "word_errors": 0,
+      "ref_words": 5,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/125.jpeg",
+      "cer_flat": 0.0,
+      "wer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 53,
+      "word_errors": 0,
+      "ref_words": 12,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/142.jpeg",
+      "cer_flat": 0.0,
+      "wer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 86,
+      "word_errors": 0,
+      "ref_words": 15,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/144.jpeg",
+      "cer_flat": 0.0,
+      "wer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 64,
+      "word_errors": 0,
+      "ref_words": 10,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/157.jpeg",
+      "cer_flat": 0.0,
+      "wer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 84,
+      "word_errors": 0,
+      "ref_words": 15,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/166.jpeg",
+      "cer_flat": 0.0,
+      "wer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 51,
+      "word_errors": 0,
+      "ref_words": 8,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/170.jpeg",
+      "cer_flat": 0.0,
+      "wer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 42,
+      "word_errors": 0,
+      "ref_words": 5,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/177.jpeg",
+      "cer_flat": 0.0,
+      "wer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 79,
+      "word_errors": 0,
+      "ref_words": 13,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/181.jpeg",
+      "cer_flat": 0.0,
+      "wer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 91,
+      "word_errors": 0,
+      "ref_words": 15,
+      "status": "scored"
+    }
+  ],
+  "top_substitutions": [
+    {
+      "ref": "є",
+      "hyp": "е",
+      "count": 95,
+      "ref_cp": "U+0454",
+      "hyp_cp": "U+0435"
+    },
+    {
+      "ref": "е",
+      "hyp": "є",
+      "count": 31,
+      "ref_cp": "U+0435",
+      "hyp_cp": "U+0454"
+    },
+    {
+      "ref": "ъ",
+      "hyp": "ь",
+      "count": 17,
+      "ref_cp": "U+044A",
+      "hyp_cp": "U+044C"
+    },
+    {
+      "ref": "ү",
+      "hyp": "у",
+      "count": 17,
+      "ref_cp": "U+04AF",
+      "hyp_cp": "U+0443"
+    },
+    {
+      "ref": "і",
+      "hyp": "и",
+      "count": 13,
+      "ref_cp": "U+0456",
+      "hyp_cp": "U+0438"
+    },
+    {
+      "ref": "е",
+      "hyp": "ѣ",
+      "count": 9,
+      "ref_cp": "U+0435",
+      "hyp_cp": "U+0463"
+    },
+    {
+      "ref": "и",
+      "hyp": "ы",
+      "count": 5,
+      "ref_cp": "U+0438",
+      "hyp_cp": "U+044B"
+    },
+    {
+      "ref": "о",
+      "hyp": "а",
+      "count": 4,
+      "ref_cp": "U+043E",
+      "hyp_cp": "U+0430"
+    },
+    {
+      "ref": "ы",
+      "hyp": "и",
+      "count": 4,
+      "ref_cp": "U+044B",
+      "hyp_cp": "U+0438"
+    },
+    {
+      "ref": "и",
+      "hyp": "й",
+      "count": 4,
+      "ref_cp": "U+0438",
+      "hyp_cp": "U+0439"
+    },
+    {
+      "ref": "‹",
+      "hyp": "(",
+      "count": 3,
+      "ref_cp": "U+2039",
+      "hyp_cp": "U+0028"
+    },
+    {
+      "ref": "›",
+      "hyp": ")",
+      "count": 3,
+      "ref_cp": "U+203A",
+      "hyp_cp": "U+0029"
+    },
+    {
+      "ref": "є",
+      "hyp": "ѣ",
+      "count": 3,
+      "ref_cp": "U+0454",
+      "hyp_cp": "U+0463"
+    },
+    {
+      "ref": "щ",
+      "hyp": "ч",
+      "count": 3,
+      "ref_cp": "U+0449",
+      "hyp_cp": "U+0447"
+    },
+    {
+      "ref": "ь",
+      "hyp": "ъ",
+      "count": 3,
+      "ref_cp": "U+044C",
+      "hyp_cp": "U+044A"
+    },
+    {
+      "ref": "п",
+      "hyp": "т",
+      "count": 2,
+      "ref_cp": "U+043F",
+      "hyp_cp": "U+0442"
+    },
+    {
+      "ref": "с",
+      "hyp": "ц",
+      "count": 2,
+      "ref_cp": "U+0441",
+      "hyp_cp": "U+0446"
+    },
+    {
+      "ref": "и",
+      "hyp": "і",
+      "count": 2,
+      "ref_cp": "U+0438",
+      "hyp_cp": "U+0456"
+    },
+    {
+      "ref": "к",
+      "hyp": "К",
+      "count": 2,
+      "ref_cp": "U+043A",
+      "hyp_cp": "U+041A"
+    },
+    {
+      "ref": "…",
+      "hyp": ".",
+      "count": 2,
+      "ref_cp": "U+2026",
+      "hyp_cp": "U+002E"
+    },
+    {
+      "ref": " ",
+      "hyp": "и",
+      "count": 2,
+      "ref_cp": "U+0020",
+      "hyp_cp": "U+0438"
+    },
+    {
+      "ref": "я",
+      "hyp": "Я",
+      "count": 2,
+      "ref_cp": "U+044F",
+      "hyp_cp": "U+042F"
+    },
+    {
+      "ref": "ѣ",
+      "hyp": "ъ",
+      "count": 2,
+      "ref_cp": "U+0463",
+      "hyp_cp": "U+044A"
+    },
+    {
+      "ref": "а",
+      "hyp": "о",
+      "count": 2,
+      "ref_cp": "U+0430",
+      "hyp_cp": "U+043E"
+    },
+    {
+      "ref": "с",
+      "hyp": "з",
+      "count": 2,
+      "ref_cp": "U+0441",
+      "hyp_cp": "U+0437"
+    },
+    {
+      "ref": "‹",
+      "hyp": "⟨",
+      "count": 2,
+      "ref_cp": "U+2039",
+      "hyp_cp": "U+27E8"
+    },
+    {
+      "ref": "›",
+      "hyp": "⟩",
+      "count": 2,
+      "ref_cp": "U+203A",
+      "hyp_cp": "U+27E9"
+    },
+    {
+      "ref": "ъ",
+      "hyp": "ѣ",
+      "count": 2,
+      "ref_cp": "U+044A",
+      "hyp_cp": "U+0463"
+    },
+    {
+      "ref": "ѣ",
+      "hyp": "і",
+      "count": 2,
+      "ref_cp": "U+0463",
+      "hyp_cp": "U+0456"
+    },
+    {
+      "ref": "(",
+      "hyp": "⟨",
+      "count": 2,
+      "ref_cp": "U+0028",
+      "hyp_cp": "U+27E8"
+    }
+  ],
+  "top_insertions": [
+    {
+      "char": " ",
+      "count": 23,
+      "cp": "U+0020"
+    },
+    {
+      "char": "ъ",
+      "count": 11,
+      "cp": "U+044A"
+    },
+    {
+      "char": "л",
+      "count": 2,
+      "cp": "U+043B"
+    },
+    {
+      "char": ".",
+      "count": 2,
+      "cp": "U+002E"
+    },
+    {
+      "char": "ь",
+      "count": 2,
+      "cp": "U+044C"
+    },
+    {
+      "char": "й",
+      "count": 1,
+      "cp": "U+0439"
+    },
+    {
+      "char": "е",
+      "count": 1,
+      "cp": "U+0435"
+    },
+    {
+      "char": "т",
+      "count": 1,
+      "cp": "U+0442"
+    },
+    {
+      "char": ")",
+      "count": 1,
+      "cp": "U+0029"
+    },
+    {
+      "char": "и",
+      "count": 1,
+      "cp": "U+0438"
+    },
+    {
+      "char": "ж",
+      "count": 1,
+      "cp": "U+0436"
+    },
+    {
+      "char": "н",
+      "count": 1,
+      "cp": "U+043D"
+    }
+  ],
+  "top_deletions": [
+    {
+      "char": "ъ",
+      "count": 22,
+      "cp": "U+044A"
+    },
+    {
+      "char": " ",
+      "count": 16,
+      "cp": "U+0020"
+    },
+    {
+      "char": "г",
+      "count": 6,
+      "cp": "U+0433"
+    },
+    {
+      "char": "н",
+      "count": 4,
+      "cp": "U+043D"
+    },
+    {
+      "char": "ь",
+      "count": 4,
+      "cp": "U+044C"
+    },
+    {
+      "char": "к",
+      "count": 3,
+      "cp": "U+043A"
+    },
+    {
+      "char": "и",
+      "count": 3,
+      "cp": "U+0438"
+    },
+    {
+      "char": "е",
+      "count": 3,
+      "cp": "U+0435"
+    },
+    {
+      "char": "ѣ",
+      "count": 3,
+      "cp": "U+0463"
+    },
+    {
+      "char": "с",
+      "count": 2,
+      "cp": "U+0441"
+    },
+    {
+      "char": "а",
+      "count": 2,
+      "cp": "U+0430"
+    },
+    {
+      "char": "л",
+      "count": 2,
+      "cp": "U+043B"
+    },
+    {
+      "char": "є",
+      "count": 2,
+      "cp": "U+0454"
+    },
+    {
+      "char": "р",
+      "count": 2,
+      "cp": "U+0440"
+    },
+    {
+      "char": "║",
+      "count": 2,
+      "cp": "U+2551"
+    },
+    {
+      "char": "ч",
+      "count": 1,
+      "cp": "U+0447"
+    },
+    {
+      "char": "‹",
+      "count": 1,
+      "cp": "U+2039"
+    },
+    {
+      "char": "о",
+      "count": 1,
+      "cp": "U+043E"
+    },
+    {
+      "char": "ю",
+      "count": 1,
+      "cp": "U+044E"
+    },
+    {
+      "char": "з",
+      "count": 1,
+      "cp": "U+0437"
+    }
+  ],
+  "failures": []
+}

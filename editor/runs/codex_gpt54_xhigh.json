@@ -1,0 +1,23 @@
+{
+  "run_id": "codex_gpt54_xhigh",
+  "prompt": "perestoroha_ocr_preset",
+  "source_folder": "Auto-Color0002_oriented",
+  "sample_path": "editor/samples/codex_gpt54_xhigh.json",
+  "n_cards": 1,
+  "elapsed_s": 191.0,
+  "model": "gpt-5.4",
+  "cli": "codex",
+  "max_parallel": 1,
+  "status_counts": {
+    "ok": 1
+  },
+  "records": [
+    {
+      "key": "Auto-Color0002/011.jpeg",
+      "filename": "011.jpeg",
+      "final_status": "ok",
+      "output_path": "output/Auto-Color0002_oriented/runs/codex_gpt54_xhigh/011.json",
+      "elapsed_s": 191.0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "run_id": "codex_gpt54_xhigh",
+  "prompt": "perestoroha_ocr_preset",
+  "source_folder": "Auto-Color0002_oriented",
+  "n_cards": 1,
+  "n_scored": 1,
+  "n_failed_to_produce_output": 0,
+  "total_ref_chars": 242,
+  "total_errors": 12,
+  "micro_cer_flat": 0.049586776859504134,
+  "per_card": [
+    {
+      "key": "Auto-Color0002/011.jpeg",
+      "cer_flat": 0.049586776859504134,
+      "errors": 12,
+      "ref_chars": 242,
+      "status": "scored"
+    }
+  ],
+  "top_substitutions": [
+    {
+      "ref": "є",
+      "hyp": "е",
+      "count": 4,
+      "ref_cp": "U+0454",
+      "hyp_cp": "U+0435"
+    },
+    {
+      "ref": "ы",
+      "hyp": "и",
+      "count": 3,
+      "ref_cp": "U+044B",
+      "hyp_cp": "U+0438"
+    },
+    {
+      "ref": "м",
+      "hyp": "л",
+      "count": 1,
+      "ref_cp": "U+043C",
+      "hyp_cp": "U+043B"
+    },
+    {
+      "ref": "‹",
+      "hyp": "<",
+      "count": 1,
+      "ref_cp": "U+2039",
+      "hyp_cp": "U+003C"
+    },
+    {
+      "ref": "›",
+      "hyp": ">",
+      "count": 1,
+      "ref_cp": "U+203A",
+      "hyp_cp": "U+003E"
+    }
+  ],
+  "top_insertions": [
+    {
+      "char": "ц",
+      "count": 1,
+      "cp": "U+0446"
+    }
+  ],
+  "top_deletions": [
+    {
+      "char": "ъ",
+      "count": 1,
+      "cp": "U+044A"
+    }
+  ],
+  "failures": []
+}

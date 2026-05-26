@@ -1,0 +1,603 @@
+{
+  "run_id": "opus47_max_test30",
+  "prompt": "perestoroha_ocr_preset",
+  "source_folder": "Auto-Color0002_oriented",
+  "n_cards": 30,
+  "n_scored": 30,
+  "n_failed_to_produce_output": 0,
+  "total_ref_chars": 3955,
+  "total_errors": 115,
+  "total_ref_words": 652,
+  "total_word_errors": 93,
+  "micro_cer_flat": 0.029077117572692796,
+  "micro_wer_flat": 0.14263803680981596,
+  "per_card": [
+    {
+      "key": "Auto-Color0002/095.jpeg",
+      "cer_flat": 0.08053691275167785,
+      "wer_flat": 0.4,
+      "errors": 12,
+      "ref_chars": 149,
+      "word_errors": 10,
+      "ref_words": 25,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/153.jpeg",
+      "cer_flat": 0.06741573033707865,
+      "wer_flat": 0.35714285714285715,
+      "errors": 6,
+      "ref_chars": 89,
+      "word_errors": 5,
+      "ref_words": 14,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/145.jpeg",
+      "cer_flat": 0.0641025641025641,
+      "wer_flat": 0.23076923076923078,
+      "errors": 5,
+      "ref_chars": 78,
+      "word_errors": 3,
+      "ref_words": 13,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/097.jpeg",
+      "cer_flat": 0.06315789473684211,
+      "wer_flat": 0.25,
+      "errors": 6,
+      "ref_chars": 95,
+      "word_errors": 4,
+      "ref_words": 16,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/130.jpeg",
+      "cer_flat": 0.05555555555555555,
+      "wer_flat": 0.3333333333333333,
+      "errors": 3,
+      "ref_chars": 54,
+      "word_errors": 3,
+      "ref_words": 9,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/140.jpeg",
+      "cer_flat": 0.05084745762711865,
+      "wer_flat": 0.3333333333333333,
+      "errors": 3,
+      "ref_chars": 59,
+      "word_errors": 3,
+      "ref_words": 9,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/113.jpeg",
+      "cer_flat": 0.043478260869565216,
+      "wer_flat": 0.3,
+      "errors": 9,
+      "ref_chars": 207,
+      "word_errors": 9,
+      "ref_words": 30,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/121.jpeg",
+      "cer_flat": 0.039473684210526314,
+      "wer_flat": 0.17857142857142858,
+      "errors": 6,
+      "ref_chars": 152,
+      "word_errors": 5,
+      "ref_words": 28,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/104.jpeg",
+      "cer_flat": 0.03431372549019608,
+      "wer_flat": 0.14705882352941177,
+      "errors": 7,
+      "ref_chars": 204,
+      "word_errors": 5,
+      "ref_words": 34,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/067.jpeg",
+      "cer_flat": 0.03389830508474576,
+      "wer_flat": 0.20689655172413793,
+      "errors": 6,
+      "ref_chars": 177,
+      "word_errors": 6,
+      "ref_words": 29,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/079.jpeg",
+      "cer_flat": 0.031496062992125984,
+      "wer_flat": 0.04,
+      "errors": 4,
+      "ref_chars": 127,
+      "word_errors": 1,
+      "ref_words": 25,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/158.jpeg",
+      "cer_flat": 0.031446540880503145,
+      "wer_flat": 0.10714285714285714,
+      "errors": 5,
+      "ref_chars": 159,
+      "word_errors": 3,
+      "ref_words": 28,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/026.jpeg",
+      "cer_flat": 0.030303030303030304,
+      "wer_flat": 0.2,
+      "errors": 2,
+      "ref_chars": 66,
+      "word_errors": 2,
+      "ref_words": 10,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/011.jpeg",
+      "cer_flat": 0.028925619834710745,
+      "wer_flat": 0.14285714285714285,
+      "errors": 7,
+      "ref_chars": 242,
+      "word_errors": 5,
+      "ref_words": 35,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/087.jpeg",
+      "cer_flat": 0.025974025974025976,
+      "wer_flat": 0.07142857142857142,
+      "errors": 6,
+      "ref_chars": 231,
+      "word_errors": 3,
+      "ref_words": 42,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/159.jpeg",
+      "cer_flat": 0.024,
+      "wer_flat": 0.05555555555555555,
+      "errors": 3,
+      "ref_chars": 125,
+      "word_errors": 1,
+      "ref_words": 18,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/169.jpeg",
+      "cer_flat": 0.02158273381294964,
+      "wer_flat": 0.125,
+      "errors": 3,
+      "ref_chars": 139,
+      "word_errors": 3,
+      "ref_words": 24,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/099.jpeg",
+      "cer_flat": 0.02040816326530612,
+      "wer_flat": 0.13043478260869565,
+      "errors": 3,
+      "ref_chars": 147,
+      "word_errors": 3,
+      "ref_words": 23,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/112.jpeg",
+      "cer_flat": 0.019762845849802372,
+      "wer_flat": 0.1111111111111111,
+      "errors": 5,
+      "ref_chars": 253,
+      "word_errors": 5,
+      "ref_words": 45,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/171.jpeg",
+      "cer_flat": 0.019417475728155338,
+      "wer_flat": 0.1111111111111111,
+      "errors": 2,
+      "ref_chars": 103,
+      "word_errors": 2,
+      "ref_words": 18,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/101.jpeg",
+      "cer_flat": 0.01818181818181818,
+      "wer_flat": 0.1111111111111111,
+      "errors": 1,
+      "ref_chars": 55,
+      "word_errors": 1,
+      "ref_words": 9,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/039.jpeg",
+      "cer_flat": 0.018018018018018018,
+      "wer_flat": 0.125,
+      "errors": 2,
+      "ref_chars": 111,
+      "word_errors": 2,
+      "ref_words": 16,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/161.jpeg",
+      "cer_flat": 0.015151515151515152,
+      "wer_flat": 0.08333333333333333,
+      "errors": 2,
+      "ref_chars": 132,
+      "word_errors": 2,
+      "ref_words": 24,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/019.jpeg",
+      "cer_flat": 0.014388489208633094,
+      "wer_flat": 0.09090909090909091,
+      "errors": 2,
+      "ref_chars": 139,
+      "word_errors": 2,
+      "ref_words": 22,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/027.jpeg",
+      "cer_flat": 0.011494252873563218,
+      "wer_flat": 0.06666666666666667,
+      "errors": 1,
+      "ref_chars": 87,
+      "word_errors": 1,
+      "ref_words": 15,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/045.jpeg",
+      "cer_flat": 0.011235955056179775,
+      "wer_flat": 0.09090909090909091,
+      "errors": 1,
+      "ref_chars": 89,
+      "word_errors": 1,
+      "ref_words": 11,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/041.jpeg",
+      "cer_flat": 0.008928571428571428,
+      "wer_flat": 0.058823529411764705,
+      "errors": 1,
+      "ref_chars": 112,
+      "word_errors": 1,
+      "ref_words": 17,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/149.jpeg",
+      "cer_flat": 0.007575757575757576,
+      "wer_flat": 0.047619047619047616,
+      "errors": 1,
+      "ref_chars": 132,
+      "word_errors": 1,
+      "ref_words": 21,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/126.jpeg",
+      "cer_flat": 0.004608294930875576,
+      "wer_flat": 0.02702702702702703,
+      "errors": 1,
+      "ref_chars": 217,
+      "word_errors": 1,
+      "ref_words": 37,
+      "status": "scored"
+    },
+    {
+      "key": "Auto-Color0002/081.jpeg",
+      "cer_flat": 0.0,
+      "wer_flat": 0.0,
+      "errors": 0,
+      "ref_chars": 25,
+      "word_errors": 0,
+      "ref_words": 5,
+      "status": "scored"
+    }
+  ],
+  "top_substitutions": [
+    {
+      "ref": "є",
+      "hyp": "е",
+      "count": 22,
+      "ref_cp": "U+0454",
+      "hyp_cp": "U+0435"
+    },
+    {
+      "ref": "ү",
+      "hyp": "у",
+      "count": 10,
+      "ref_cp": "U+04AF",
+      "hyp_cp": "U+0443"
+    },
+    {
+      "ref": "е",
+      "hyp": "є",
+      "count": 7,
+      "ref_cp": "U+0435",
+      "hyp_cp": "U+0454"
+    },
+    {
+      "ref": "е",
+      "hyp": "ѣ",
+      "count": 2,
+      "ref_cp": "U+0435",
+      "hyp_cp": "U+0463"
+    },
+    {
+      "ref": "а",
+      "hyp": "a",
+      "count": 2,
+      "ref_cp": "U+0430",
+      "hyp_cp": "U+0061"
+    },
+    {
+      "ref": "о",
+      "hyp": "а",
+      "count": 2,
+      "ref_cp": "U+043E",
+      "hyp_cp": "U+0430"
+    },
+    {
+      "ref": "і",
+      "hyp": "и",
+      "count": 2,
+      "ref_cp": "U+0456",
+      "hyp_cp": "U+0438"
+    },
+    {
+      "ref": "и",
+      "hyp": "ы",
+      "count": 2,
+      "ref_cp": "U+0438",
+      "hyp_cp": "U+044B"
+    },
+    {
+      "ref": "‹",
+      "hyp": "(",
+      "count": 1,
+      "ref_cp": "U+2039",
+      "hyp_cp": "U+0028"
+    },
+    {
+      "ref": "›",
+      "hyp": ")",
+      "count": 1,
+      "ref_cp": "U+203A",
+      "hyp_cp": "U+0029"
+    },
+    {
+      "ref": "я",
+      "hyp": "ѣ",
+      "count": 1,
+      "ref_cp": "U+044F",
+      "hyp_cp": "U+0463"
+    },
+    {
+      "ref": "г",
+      "hyp": "ч",
+      "count": 1,
+      "ref_cp": "U+0433",
+      "hyp_cp": "U+0447"
+    },
+    {
+      "ref": "п",
+      "hyp": "т",
+      "count": 1,
+      "ref_cp": "U+043F",
+      "hyp_cp": "U+0442"
+    },
+    {
+      "ref": "л",
+      "hyp": "(",
+      "count": 1,
+      "ref_cp": "U+043B",
+      "hyp_cp": "U+0028"
+    },
+    {
+      "ref": "ъ",
+      "hyp": "л",
+      "count": 1,
+      "ref_cp": "U+044A",
+      "hyp_cp": "U+043B"
+    },
+    {
+      "ref": ",",
+      "hyp": ")",
+      "count": 1,
+      "ref_cp": "U+002C",
+      "hyp_cp": "U+0029"
+    },
+    {
+      "ref": "н",
+      "hyp": "ч",
+      "count": 1,
+      "ref_cp": "U+043D",
+      "hyp_cp": "U+0447"
+    },
+    {
+      "ref": ",",
+      "hyp": ";",
+      "count": 1,
+      "ref_cp": "U+002C",
+      "hyp_cp": "U+003B"
+    },
+    {
+      "ref": "л",
+      "hyp": "м",
+      "count": 1,
+      "ref_cp": "U+043B",
+      "hyp_cp": "U+043C"
+    },
+    {
+      "ref": "и",
+      "hyp": "ѣ",
+      "count": 1,
+      "ref_cp": "U+0438",
+      "hyp_cp": "U+0463"
+    },
+    {
+      "ref": "ш",
+      "hyp": "п",
+      "count": 1,
+      "ref_cp": "U+0448",
+      "hyp_cp": "U+043F"
+    },
+    {
+      "ref": "ѣ",
+      "hyp": "і",
+      "count": 1,
+      "ref_cp": "U+0463",
+      "hyp_cp": "U+0456"
+    },
+    {
+      "ref": "ь",
+      "hyp": "ъ",
+      "count": 1,
+      "ref_cp": "U+044C",
+      "hyp_cp": "U+044A"
+    },
+    {
+      "ref": "г",
+      "hyp": "ѣ",
+      "count": 1,
+      "ref_cp": "U+0433",
+      "hyp_cp": "U+0463"
+    },
+    {
+      "ref": "и",
+      "hyp": "ш",
+      "count": 1,
+      "ref_cp": "U+0438",
+      "hyp_cp": "U+0448"
+    },
+    {
+      "ref": "л",
+      "hyp": "и",
+      "count": 1,
+      "ref_cp": "U+043B",
+      "hyp_cp": "U+0438"
+    },
+    {
+      "ref": "‹",
+      "hyp": "⟨",
+      "count": 1,
+      "ref_cp": "U+2039",
+      "hyp_cp": "U+27E8"
+    },
+    {
+      "ref": "ш",
+      "hyp": "и",
+      "count": 1,
+      "ref_cp": "U+0448",
+      "hyp_cp": "U+0438"
+    },
+    {
+      "ref": "›",
+      "hyp": "⟩",
+      "count": 1,
+      "ref_cp": "U+203A",
+      "hyp_cp": "U+27E9"
+    },
+    {
+      "ref": "ѣ",
+      "hyp": "є",
+      "count": 1,
+      "ref_cp": "U+0463",
+      "hyp_cp": "U+0454"
+    }
+  ],
+  "top_insertions": [
+    {
+      "char": "ъ",
+      "count": 6,
+      "cp": "U+044A"
+    },
+    {
+      "char": " ",
+      "count": 3,
+      "cp": "U+0020"
+    },
+    {
+      "char": "г",
+      "count": 2,
+      "cp": "U+0433"
+    },
+    {
+      "char": "и",
+      "count": 1,
+      "cp": "U+0438"
+    },
+    {
+      "char": "ч",
+      "count": 1,
+      "cp": "U+0447"
+    }
+  ],
+  "top_deletions": [
+    {
+      "char": "ъ",
+      "count": 10,
+      "cp": "U+044A"
+    },
+    {
+      "char": " ",
+      "count": 3,
+      "cp": "U+0020"
+    },
+    {
+      "char": "ы",
+      "count": 1,
+      "cp": "U+044B"
+    },
+    {
+      "char": "ь",
+      "count": 1,
+      "cp": "U+044C"
+    },
+    {
+      "char": "ѣ",
+      "count": 1,
+      "cp": "U+0463"
+    },
+    {
+      "char": "г",
+      "count": 1,
+      "cp": "U+0433"
+    },
+    {
+      "char": "с",
+      "count": 1,
+      "cp": "U+0441"
+    },
+    {
+      "char": ",",
+      "count": 1,
+      "cp": "U+002C"
+    },
+    {
+      "char": "л",
+      "count": 1,
+      "cp": "U+043B"
+    }
+  ],
+  "failures": []
+}

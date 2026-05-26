@@ -10,9 +10,9 @@ editor/runs/<run-id>/summary.json containing:
   - top substitutions / insertions / deletions (character level)
   - which cards failed (no valid output in the run dir)
 
-No WER yet — that needs a tokenizer. Will be added once the venv is up
-and spacy is installed. CER is the most important metric for our iteration
-anyway.
+Also reports micro-WER (flat) using spacy's Ukrainian tokenizer
+(uk_core_news_sm), matching the tokenization used in eval_cer.py. Run
+under the project venv so spacy + rapidfuzz are available.
 
 Usage:
     python editor/score_run.py --run-id baseline
@@ -25,12 +25,29 @@ import sqlite3
 from collections import Counter
 from pathlib import Path
 
+import spacy
+from rapidfuzz.distance import Levenshtein
+
 from eval_setup import (
     clean,
     flatten,
     strip_source_line,
     extract_ocr_lines,
 )
+
+_NLP = None
+
+
+def _nlp():
+    global _NLP
+    if _NLP is None:
+        _NLP = spacy.load("uk_core_news_sm")
+    return _NLP
+
+
+def tokenize(text: str) -> list[str]:
+    """Tokenize via spacy uk; drop whitespace and punctuation tokens."""
+    return [t.text for t in _nlp()(text) if not (t.is_space or t.is_punct)]
 
 REPO = Path(__file__).resolve().parent.parent
 HERE = Path(__file__).parent
@@ -120,6 +137,8 @@ def main():
     per_card = []
     total_chars = 0
     total_errors = 0
+    total_words = 0
+    total_word_errors = 0
     subs = Counter()      # (ref_char, hyp_char) -> count
     ins = Counter()       # hyp_char -> count (extra in OCR)
     dels = Counter()      # ref_char -> count (missing from OCR)
@@ -138,29 +157,40 @@ def main():
         ref = strip_source_line(clean(ref_raw), proof["source_reference"])
         ref_flat = flatten(ref)
 
+        ref_tokens = tokenize(ref_flat)
+        n_words = len(ref_tokens) or 1
+
         hyp_raw = load_run_output(json_path)
         if not hyp_raw:
             failures.append({"key": key, "reason": rec.get("final_status", "missing_output")})
             # Still count it as 100%-error against the ref for honesty
             dist = len(ref_flat)
             n = len(ref_flat) or 1
+            word_dist = len(ref_tokens)
             per_card.append({
                 "key": key,
                 "cer_flat": dist / n,
+                "wer_flat": word_dist / n_words,
                 "errors": dist,
                 "ref_chars": n,
+                "word_errors": word_dist,
+                "ref_words": n_words,
                 "status": "missing_output",
             })
             total_chars += n
             total_errors += dist
+            total_words += n_words
+            total_word_errors += word_dist
             continue
 
         hyp = strip_source_line(clean(hyp_raw), proof["source_reference"])
         hyp_flat = flatten(hyp)
+        hyp_tokens = tokenize(hyp_flat)
 
         ops = editops(ref_flat, hyp_flat)
         dist = len(ops)
         n = len(ref_flat) or 1
+        word_dist = Levenshtein.distance(ref_tokens, hyp_tokens)
 
         for op, i, j in ops:
             if op == "sub":
@@ -172,15 +202,21 @@ def main():
 
         total_chars += n
         total_errors += dist
+        total_words += n_words
+        total_word_errors += word_dist
         per_card.append({
             "key": key,
             "cer_flat": dist / n,
+            "wer_flat": word_dist / n_words,
             "errors": dist,
             "ref_chars": n,
+            "word_errors": word_dist,
+            "ref_words": n_words,
             "status": "scored",
         })
 
     micro_cer = total_errors / total_chars if total_chars else 0.0
+    micro_wer = total_word_errors / total_words if total_words else 0.0
     per_card.sort(key=lambda p: -p["cer_flat"])
 
     summary = {
@@ -192,7 +228,10 @@ def main():
         "n_failed_to_produce_output": len(failures),
         "total_ref_chars": total_chars,
         "total_errors": total_errors,
+        "total_ref_words": total_words,
+        "total_word_errors": total_word_errors,
         "micro_cer_flat": micro_cer,
+        "micro_wer_flat": micro_wer,
         "per_card": per_card,
         "top_substitutions": [
             {"ref": rc, "hyp": hc, "count": c, "ref_cp": f"U+{ord(rc):04X}", "hyp_cp": f"U+{ord(hc):04X}"}
@@ -214,6 +253,7 @@ def main():
 
     print(f"run {args.run_id}: {summary['n_scored']}/{summary['n_cards']} scored")
     print(f"  micro CER (flat): {micro_cer:.2%}  ({total_errors}/{total_chars})")
+    print(f"  micro WER (flat): {micro_wer:.2%}  ({total_word_errors}/{total_words})")
     if failures:
         print(f"  failures: {len(failures)}")
         for f in failures[:5]:
