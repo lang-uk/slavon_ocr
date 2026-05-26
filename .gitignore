@@ -51,6 +51,9 @@ editor/runs/*
 qwen_run/
 qwen_run_*.zip
 
+# HF dataset release: track the build script + README, ignore the regenerable parquet
+dataset/data/
+
 # Large model weights (RealESRGAN super-res, ~64MB)
 models/
 
