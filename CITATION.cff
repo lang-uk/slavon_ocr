@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: If you use this resource, please cite the paper below.
+title: 'slavon_ocr: OCR for Old Ukrainian handwritten cards'
+url: git@github.com:lang-uk/slavon_ocr
+type: dataset
+authors:
+- family-names: Chaplynskyi
+  given-names: Dmytro
+  orcid: https://orcid.org/0009-0000-0869-0999
+- family-names: Dydyk-Meush
+  given-names: Hanna
+preferred-citation:
+  type: conference-paper
+  title: 'Digitizing Old Ukrainian Texts: A Prompt-Based OCR Pipeline and Evaluation Dataset'
+  authors:
+  - family-names: Chaplynskyi
+    given-names: Dmytro
+    orcid: https://orcid.org/0009-0000-0869-0999
+  - family-names: Dydyk-Meush
+    given-names: Hanna
+  collection-title: Proceedings of the Fifth Ukrainian Natural Language Processing Conference (UNLP 2026)
+  collection-type: proceedings
+  publisher:
+    name: Association for Computational Linguistics
+  conference:
+    name: Proceedings of the Fifth Ukrainian Natural Language Processing Conference (UNLP 2026)
+  year: 2026
+  month: 5
+  start: 58
+  end: 66
+  url: https://aclanthology.org/2026.unlp-1.7/
+  isbn: 979-8-89176-359-3
